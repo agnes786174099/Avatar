@@ -1,0 +1,121 @@
+ranque GRUB instaláu, pero agora tamién registros d'arranque GRUB 2 instaláu n'estos discos:
+ .
+ ${DISKS}
+ .
+ Parez probable que GRUB ya nun ta n'usu, y que deberíes anovar les imáxenes de GRUB 2 d'estos discos y finar la conversión a GRUB 2, desaniciando vieyos ficheros heredaos de GRUB. Si nun anoves estes imáxenes de GRUB, entós pueden ser incompatibles colos nuevos paquetes y facer que'l to sistema nun arranque correutamente.
+ .
+ En xeneral, deberíes finar la conversión a GRUB 2 a menos qu'estos rexistros d'arranque fueren creaos por una instalación de GRUB 2 en dalgún otru sistema operativu.
+Description-be.UTF-8: Скончыць зараз перавод на GRUB 2?
+ На гэтай сістэме ўсё яшчэ ўсталяваныя файлы з папярэдняе версіі загрузчыка GRUB, але зараз тут таксама ўсталяваныя загрузчыкі GRUB 2 на наступных дысках:
+ .
+ ${DISKS}
+ .
+ Падаецца, што папярэдняя версія GRUB болей не выкарыстоўваецца, і што вы павінны замест гэтага абнавіць вобразы GRUB 2 на гэтых дысках і скончыць пераход на GRUB 2, выдаліўшы старыя файлы папярэдняй версіі GRUB. Калі вы не абновіце гэтыя вобразы GRUB 2, то яны могуць стаць несумяшчальнымі з новымі пакетамі і ваша сістэма перастане нармальна запускацца.
+ .
+ Звычайна, Вы павінны скончыць пераход на GRUB 2, калі толькі гэтыя загрузчыкі не былі створаныя ўсталёўкай GRUB 2 на нейкай іншай аперацыйнай сістэме.
+Description-bg.UTF-8: Завършване на преминаването към GRUB2 ?
+ На системата има файлове от стария GRUB, но има сектори за начално зареждане от GRUB 2, инсталирани на следните дискове:
+ .
+ ${DISKS}
+ .
+ Изглежда, че старият GRUB не се използва и вместо него е редно се инсталира GRUB 2 върху дисковете и да се завърши прехода чрез премахване на файловете на стария GRUB. Ако не обновите инсталацията на GRUB 2 е възможно да се появят проблеми с началното зареждане поради несъвместимост с новите пакети.
+ .
+ В общия случай е добре преходът към GRUB 2 да бъде завършен, освен ако секторите за начално зареждане са създадени от GRUB 2 или от друга операционна система.
+Description-ca.UTF-8: Voleu finalitzar la conversió al GRUB 2 ara?
+ Aquest sistema encara té fitxers antics del carregador GRUB Legacy instaŀlats, però ara també té registres d'arrencada del GRUB 2 instaŀlats als discs següents:
+ .
+ ${DISKS}
+ .
+ Sembla probable que el GRUB Legacy no estiga ja en ús, i que hauríeu d'actualitzar les imatges del GRUB 2 presents a aquests discs per a finalitzar la conversió al GRUB 2, suprimint els fitxers vells del GRUB Legacy. Si no actualitzeu aquestes imatges del GRUB 2, és possible que romanen incompatibles amb els paquets nous i que causen que el sistema deixe d'arrencar correctament.
+ .
+ En general, hauríeu de finalitzar la conversió al GRUB 2 a no ser que aquests registres d'arrencada els haja creat una instaŀlació del GRUB 2 des d'un altre sistema operatiu.
+Description-cs.UTF-8: Dokončit nyní přechod na GRUB 2?
+ Tento systém stále obsahuje soubory starého zavaděče GRUB Legacy, ale na následujících discích již má zaváděcí záznamy GRUBu 2:
+ .
+ ${DISKS}
+ .
+ Je dosti pravděpodobné, že se GRUB Legacy již nepoužívá a tudíž byste na těchto discích měli aktualizovat obrazy GRUBu 2 a dokončit konverzi na GRUB 2 odstraněním starých souborů z GRUB Legacy. Neaktualizujete-li tyto obrazy GRUBu 2, nemusí být kompatibilní s novými balíky a mohou způsobit, že se váš systém přestane zavádět správně.
+ .
+ Obvykle byste měli konverzi na GRUB 2 dokončit, s výjimkou situace, kdy tyto zaváděcí záznamy vytvořila instalace nějakého jiného operačního systému.
+Description-da.UTF-8: Afslut konvertering til GRUB 2 nu?
+ Dette system har stadig filer fra GRUB Legacy-opstarteren installeret, men systemet har nu også GRUB 2 opstartsposter installeret på disse diske:
+ .
+ ${DISKS}
+ .
+ Det virker sandsynligt at GRUB Legacy ikke længere er i brug, og at du i steden fir skal opgradere GRUB 2-billederne på disse diske og afslutte konverteringen til GRUB 2 ved af fjerne ældre GRUB Legacy-filer. Hvis du ikke opgraderer disse GRUB 2-billeder, så er de måske ikke kompatible med de nye pakker og får dit system til at holde op med at starte korrekt op.
+ .
+ Du bør generelt afslutte konverteringen til GRUB 2 medmindre disse opstartsposter blev oprettet af en GRUB 2-installation på et andet operativsystem.
+Description-de.UTF-8: Jetzt die Umstellung auf GRUB 2 abschließen?
+ Auf diesem System sind noch Dateien des GRUB-Legacy-Boot-Loaders installiert, aber es sind nun auch GRUB-2-Boot-Sektoren auf den folgenden Datenträgern installiert:
+ .
+ ${DISKS}
+ .
+ Es sieht so aus, als ob Sie GRUB Legacy nicht mehr verwenden. Daher sollten Sie stattdessen ein Upgrade der GRUB-2-Images auf diesen Datenträgern durchführen und die Umstellung auf GRUB 2 abschließen, indem Sie die alten GRUB-Legacy-Dateien entfernen. Falls Sie das Upgrade für diese GRUB-2-Images nicht durchführen, könnten diese mit den neuen Paketen nicht kompatibel sein und dazu führen, dass Ihr System nicht mehr einwandfrei startet.
+ .
+ Grundsätzlich sollten Sie die Umstellung auf GRUB 2 abschließen, es sei denn, diese GRUB-2-Boot-Sektoren wurden von einem anderen Betriebssystem installiert.
+Description-dz.UTF-8: ད་ལྟོ་ར་ GRUB ༢ ལུ་གཞི་བསྒྱུར་མཇུག་བསྡུ་ནི་ཨིན་ན?
+ རིམ་ལུགས་འདི་ལུ་ གཞི་བཙུགས་འབད་ཡོད་པའི་ GRUB  སྔོན་བཤུལ་བུཊི་མངོན་གསལ་འབད་མིའི་ནང་ལས་ཡིག་སྣོད་ཚུ་འདུག ཨིན་རུང་ ད་ལྟོ་འབདཝ་ད་ ཌིཀསི་ཚུ་གུ་ GRUB ༢ བུཊི་དྲན་ཐོ་གཞི་བཙུགས་འབད་དེ་ཡོད:
+ .
+ ${DISKS}
+ .
+ GRUB སྤྱོད་ཤུལ་འདི་ ལག་ལེན་འཐབ་སྟེ་མེདཔ་བཟུམ་ཅིག་ཡོདཔ་དང་ འདི་གི་ཚབ་ལུ་ ཌིཀསི་གུ་ཡོད་མི་ GRUB 2 གཟུགས་བརྙན་ཚུ་དུས་མཐུན་བཟོ་ཞིནམ་ལས་ GRUB སྤྱོད་ཤུལ་ཡིག་སྣོད་རྙིངམ་ཚུ་ གཞི་བསྒྱུར་འབད་ནི་མཇུག་བསྡུ། ཁྱོད་ཀྱིས་ GRUB 2 གཟུགས་བརྙན་ཚུ་དུས་མཐུན་མ་བཟོ་བ་ཅིན་ འདི་ཚུ་ ཐུམ་སྒྲིལ་གསརཔ་ཚུ་དང་གཅིག་ཁར་མཐུན་འགྱུར་ཅན་མི་འོང་ནི་ཨིནམ་དང་ ཁྱོད་ཀྱི་རིམ་ལུགས་ཚུལ་མཐུན་སྦེ་ཊི་འབད་ནི་ལས་བཀག་ཆ་འབད་འོང་།
+ .
+ GRUB 2 གཞི་བཙུགས་ཀྱིས་ བཀོད་སྤྱོད་རིམ་ལུགས་ གཞན་གཅིག་གུ་ བུཊི་དྲན་ཐོ་འདི་ཚུ་ གསར་བསྐྲུན་མ་འབདཝ་ལས་ GRUB 2 ལུ་ གཞི་བསྒྱུར་འབད་ཚར་དགོ།
+Description-eo.UTF-8: Ĉu finigi konverton al GRUB 2 nun?
+ Tiu ĉi sistemo ankoraŭ havas dosierojn el la malaktuala ekŝargilo GRUB instalita, sed ĝi nun ankaŭ havas ekŝargajn registrojn de GRUB 2 instalitaj en tiuj ĉi diskoj: 
+ .
+ ${DISKS}
+ .
+ Ŝajnas ke la malaktuala GRUB ne plu estas uzata, kaj ke vi devos anstataŭe aktualigi al bildoj GRUB 2 en tiuj ĉi diskoj, kaj finigi la konverton al GRUB 2 forigante malnovajn malaktualajn dosierojn GRUB. Se vi ne aktualigos tiujn ĉi bildojn GRUB 2, tiel ili povos esti malkongruaj al la novaj pakoj igante ke via sistemo ĉesu ekŝargi senprobleme.
+ .
+ Vi devos ordinare finigi la konverton al GRUB 2, malkondiĉe ke tiuj ĉi ekŝarg-registroj estu kreitaj de sistemo kun GRUB 2 instalita, en alia operaciuma sistemo.
+Description-es.UTF-8: ¿Desea terminar la conversión a GRUB 2 ahora?
+ Este sistema todavía tiene archivos del cargador de arranque de la versión anterior de GRUB instalados, pero ahora también tiene registros de arranque de GRUB 2 instalados en estos discos:
+ .
+ ${DISKS}
+ .
+ Parece que la versión anterior de GRUB ya no se utiliza, por lo que usted debería actualizar las imágenes de GRUB 2 en estos discos y terminar la conversión a GRUB 2 borrando los archivos de la versión anterior de GRUB. Si no actualiza estas imágenes de GRUB 2, puede que sean incompatibles con los nuevos paquetes y que provoquen que su sistema no arranque correctamente.
+ .
+ Debería terminar la conversión a GRUB 2 a menos que estos registros de arranque los crease una instalación de GRUB 2 en algún otro sistema operativo.
+Description-eu.UTF-8: Amaitu GRUB 2-rako bihurketa orain?
+ Sistemak oraindik 'GRUB Legacy' abioko kargatzailearen fitxategiak ditu oraindik, baina orain GRUB 2 bertsioko abioko erregistroak ere baditu honako diskoetan:
+ .
+ ${DISKS}
+ .
+ Badirudi 'GRUB Legacy' ez denez aurrerantzean erabiliko, disko hauetako GRUB 2 bertsioko irudiak eguneratu eta 'GRUB Legacy'-ko fitxategiak kenduz GRUB 2-ren eguneraketa amaitu beharko zenuke. GRUB 2-ko irudi hauek ez badituzu eguneratzen, pakete berriekin ez dira bateragarriak izango eta sistema ongi abiatzea galaraz dezake.
+ .
+ GRUB 2-rako bihurketa amaitu beharko zenuke, abioko erregistro hauek beste sistema eragile batzuetako GRUB 2 bertsioaren instalazioan ez badira sortuak izan.
+Description-fa.UTF-8: ارتباط با GRUB۲ اکنون پایان یابد؟
+ این سیستم هنوز فایل هایی مربوط به GRUB قدیمی را به صورت نصب شده دارد ، اما اکنون بوت رکورد های GRUB2 بر روی این دیسک ها نصب شده است :
+ .
+ ${DISKS}
+ .
+ به نظر می‌آید که احتمالاً GRUB قدیمی دیگر در استفاده نیست، و شما می‌بایست تصاویر GRUB2 را بر روی این دیسک‌ها ارتقاء دهید و با پاک کردن فایل‌های گراب قدیمی تبدیل به GRUB2 را به اتمام برسانید. اگر شما این تصاویر GRUB2 را ارتقا ندهید، ممکن است این تصاویر با بسته‌های جدید ناسازگار باشند و باعث جلوگیری از راه‌اندازی مناسب سیستم شوند.
+ .
+ شما باید معمولاً به ارتباط GRUB2 پایان دهید، مگر آنکه این رکورد های بوت ساخته شده توسط GRUB2 مربوط به سیستم عامل های دیگر باشد.
+Description-fi.UTF-8: Saatetaanko siirtyminen GRUB 2:een loppuun nyt?
+ Järjestelmässä on edelleen GRUBin aiemman version tiedostoja, mutta myös GRUB 2:n käynnistystiedot on asennettu seuraaville levyille:
+ .
+ ${DISKS}
+ .
+ GRUBin aiempi versio ei luultavasti ole enää käytössä ja näillä levyillä olevat GRUB 2:n levykuvat tulisi päivittää ja siirtyminen GRUB 2:een saattaa loppuun poistamalla vanhat GRUB-tiedostot. Jos et päivitä GRUB 2:n kuvia, uusien pakettien kanssa voi tulla yhteensopivuusongelmia ja järjestelmän käynnistys ei ehkä toimi oikein.
+ .
+ Yleisesti ottaen siirtyminen GRUB 2:een tulisi saattaa loppuun ellei näitä käynnistystietoja luotu johonkin toiseen käyttöjärjestelmään asennetulla GRUB 2:lla.
+Description-fr.UTF-8: Faut-il terminer la migration vers GRUB 2 maintenant ?
+ Ce système comporte encore des fichiers de la version précédente du programme de démarrage GRUB mais comporte également des secteurs d'amorçage de GRUB 2 sur les disques suivants :
+ .
+ ${DISKS}
+ .
+ Il est très probable que la version précédente de GRUB ne soit plus utilisée et il est donc conseillé de mettre à jour les images de GRUB 2 sur ces disques, puis terminer la migration vers GRUB 2 en supprimant les anciens fichiers de la version précédente. Si vous ne mettez pas ces images de GRUB 2 à jour, elles pourraient être incompatibles avec de nouvelles versions, ce qui pourrait empêcher un démarrage normal.
+ .
+ Il est donc très probablement nécessaire de terminer la migration vers GRUB 2 à moins que ces secteurs d'amorçage n'aient été créés par une installation de GRUB 2 d'un autre système d'exploitation.
+Description-gl.UTF-8: Rematar a conversión a GRUB 2 agora?
+ Este sistema aínda ten instalados ficheiros do cargador de arranque GRUB Legacy, pero agora tamén ten rexistros de arranque de GRUB 2 nestes discos:
+ .
+ ${DISKS}
+ .
+ Asemella que GRUB Legacy xa non se usa, e que debería actualizar as imaxes de GRUB 2 nestes discos e rematar a conversión a GRUB2 eliminando os ficheiros vellos de GRUB Legacy. Se non actualiza estas imaxes de GRUB 2, poderían ser incompatibles cos novos paquetes e provocar que sistema non arranque correctamente.
+ .
+ En xeral, debería rematar a conversión a GRUB 2 a menos que estos rexistros de inicio fosen creatos por unha instalación de GRUB 2 en outro sistema operativo.
+Description-gu.UTF-8: GRUB ૨ માં રુપાંતર હવે પૂર્ણ થયું?
+ આ સિસ્ટમમાં સ્થાપિત કરેલ GRUB પરંપરાગત બૂટ લોડ�

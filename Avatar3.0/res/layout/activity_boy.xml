@@ -1,0 +1,121 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.0android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     >
+    
+<RelativeLayout
+    android:id="@+id/boy_background"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+      <LinearLayout
+          android:id="@+id/layout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+            <EditText
+            android:id="@+id/boy_mytext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dip"
+            android:text="@string/hello_world"
+             />
+        </LinearLayout>
+             <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/boy_recognizeBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="50dp"
+                android:background="@drawable/icon_voice_recoder" />
+
+            <Button
+                android:id="@+id/boy_speakBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="50dp"
+                android:background="@drawable/icon_voice_stop" />
+        </LinearLayout>
+               <RelativeLayout
+   			 android:layout_width="fill_parent"
+   			 android:layout_height="wrap_content" 
+   			 android:layout_below="@id/layout1"
+   			 >
+            <Button
+                android:id="@+id/boy_bg_change"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dip"
+                android:background="@drawable/icon_background" />
+     		<Button
+                android:id="@+id/boy_clothes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/boy_bg_change"
+                android:layout_margin="10dip"
+                android:background="@drawable/icon_clothes" />
+    
+      </RelativeLayout>
+           <RelativeLayout
+   			 android:layout_width="fill_parent"
+   			 android:layout_height="wrap_content" 
+   			 android:layout_below="@id/layout1"
+   			 
+   			 >
+     		  <Button
+                android:id="@+id/boy_btnStart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_margin="10dip"
+                android:background="@drawable/icon_video_recoder" />
+
+            <Button
+                android:id="@+id/boy_btnStop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dip"
+                android:layout_below="@id/boy_btnStart"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/icon_video_stop" />
+            
+            <Button
+                android:id="@+id/boy_btnProfile"
+                android:layout_width="50dip"
+                android:layout_height="50dip"
+                android:layout_margin="10dip"
+                android:layout_below="@id/boy_btnStop"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/icon_video_file" />
+      </RelativeLayout>
+
+
+    </RelativeLayout>
+	<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+       <ImageView
+            android:id="@+id/boy_face"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+           />
+        <ImageView
+            android:id="@+id/boy_body"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             />
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+
+

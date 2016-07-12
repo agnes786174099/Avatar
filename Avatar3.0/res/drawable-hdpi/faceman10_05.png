@@ -1,0 +1,167 @@
+ אזור הזמן שלך:
+Description-hi.utf-8: अपना समय-मण्डल चुनें:
+Description-hr.utf-8: Izaberite svoju vremensku zonu:
+Description-hu.utf-8: Válassz időzónát:
+Description-id.utf-8: Pilih zona waktu Anda:
+Description-it.utf-8: Selezionare il fuso orario:
+Description-ja.utf-8: 時間帯を選択してください:
+Description-ka.utf-8: ამოირჩიეთ ზონა:
+Description-kk.utf-8: Уақыт белдеуін таңдаңыз:
+Description-km.utf-8: ជ្រើស​តំបន់​ពេលវេលា​របស់​អ្នក ៖
+Description-ko.utf-8: 시간대를 선택하십시오:
+Description-ku.utf-8: Herêma dema xwe hilbijêre:
+Description-lt.utf-8: Pasirinkite laiko zoną:
+Description-lv.utf-8: Izvēlieties savu laika joslu:
+Description-mk.utf-8: Одбери ја твојата временска зона:
+Description-ml.utf-8: നിങ്ങളുടെ സമയ മേഘല തെരഞ്ഞെടുക്കുക:
+Description-mr.utf-8: तुमचा समय विभाग निवडा
+Description-nb.utf-8: Velg din tidssone:
+Description-ne.utf-8: तपाईँको टाइमजोन चयन गर्नुहोस्:
+Description-nl.utf-8: Selecteer uw tijdzone:
+Description-nn.utf-8: Vel tidssona di:
+Description-no.utf-8: Velg din tidssone:
+Description-pa.utf-8: ਆਪਣਾ ਟਾਈਮ-ਜ਼ੋਨ ਚੁਣੋ:
+Description-pl.utf-8: Wybierz swoją strefę czasową:
+Description-pt.utf-8: Escolha o seu fuso horário:
+Description-pt_br.utf-8: Selecione seu fuso horário:
+Description-ro.utf-8: Selectați fusul dumneavoastră orar:
+Description-ru.utf-8: Выберите часовой пояс:
+Description-se.utf-8: Vállje iežat áigeavádaga:
+Description-sk.utf-8: Zvoľte vaše časové pásmo:
+Description-sl.utf-8: Izberite vaš časovni pas:
+Description-sq.utf-8: Zgjidh zonën orare:
+Description-sr.utf-8: Одаберите вашу временску зону:
+Description-sv.utf-8: Välj din tidszon:
+Description-ta.utf-8: தங்கள் நேரப் பகுதியை தேர்வு செய்க:
+Description-th.utf-8: เลือกเขตเวลาของคุณ:
+Description-tl.utf-8: Piliin ang inyong zonang orasan:
+Description-tr.utf-8: Saat diliminizi seçin:
+Description-uk.utf-8: Виберіть ваш часовий пояс:
+Description-vi.utf-8: Chọn múi giờ của bạn:
+Description-wo.utf-8: Tannal sa gox u waxtu:
+Description-zh_cn.utf-8: 请选择您的时区：
+Description-zh_tw.utf-8: 請選擇您的時區：
+Type: select
+Owners: tzsetup/country/CA
+
+Name: tzsetup/country/CD
+Choices: Kinshasa, Lubumbashi, Select from worldwide list
+Choices-ar.utf-8: أفريقيا/كنشاسا, أفريقيا/لوبمباشي, اختر من من القائمة العالمية
+Choices-ast.utf-8: Kinshasa, Lubumbashi, Esbillar de la llista completa
+Choices-be.utf-8: Кіншаса, Лубумбаші, Выбраць са сьпісу краін
+Choices-bg.utf-8: Киншаса, Любумбаши, Избор от широк списък
+Choices-bn.utf-8: Africa/কিনশাসা, Africa/লুবুম্বাশি, পুরো বিশ্বের তালিকা থেকে নির্বাচন করুন
+Choices-bs.utf-8: Africa/Kinšasa, Africa/Lubumbaši, Izaberi sa liste
+Choices-c: Africa/Kinshasa, Africa/Lubumbashi, other
+Choices-ca.utf-8: Kinshasa, Lubumbashi, Seleccioneu l'element adequat de la llista mundial
+Choices-cs.utf-8: Kinshasa, Lubumbashi, Zvolit z celosvětového seznamu
+Choices-cy.utf-8: Kinshasa, Lubumbashi, Dewis o rhestr ledled y byd
+Choices-da.utf-8: Kinshasa, Lubumbashi, Vælg fra global liste
+Choices-de.utf-8: Kinshasa, Lubumbashi, Wählen Sie aus der weltweiten Liste
+Choices-el.utf-8: Aφρική/Kinshasa, Aφρική/Lubumbashi, Επιλέξτε από την παγκόσμια λίστα
+Choices-eo.utf-8: Kinŝaso (Okcidento), Lumumbaŝi (Oriento), Elekti el tutmonda listo
+Choices-es.utf-8: Kinshasa, Lubumbashi, Seleccionar de la lista completa
+Choices-et.utf-8: Kinshasa, Lubumbashi, Vali ülemaailmsest nimekirjast
+Choices-eu.utf-8: Kinshasa, Lubumbashi, Mundu-zerrendan hautatu
+Choices-fi.utf-8: Kinshasa, Lubumbashi, Valitse maailmanlaajuisesta luettelosta
+Choices-fr.utf-8: Kinshasa (Ouest), Lubumbashi (Est), Choisissez depuis la liste mondiale
+Choices-ga.utf-8: Cinseasa, Lubumbashi, Roghnaigh ón liosta domhanda
+Choices-gl.utf-8: Kinshasa, Lubumbashi, Seleccionar da lista mundial
+Choices-he.utf-8: קינשסה, לובומבאשי, בחר מתוך הרשימה הכלל-עולמית
+Choices-hi.utf-8: Africa/किन्शासा, Africa/लुबुम्बाशी, विश्वव्यापी सूची से चुनें
+Choices-hr.utf-8: Kinshasa, Lubumbashi, Odaberi sa svjetskog popisa
+Choices-hu.utf-8: Kinsasza, Lubumbasi, Válasszon időzónát a listából
+Choices-id.utf-8: Kinshasa, Lubumbashi, Pilih dari daftar dunia
+Choices-it.utf-8: Kinshasa, Lubumbashi, Selezionare dall'elenco
+Choices-ja.utf-8: キンシャサ, ルブンバシ, 世界中のリストから選択
+Choices-kk.utf-8: Киншаса, Лубумбаши, Тізімнен өзіңіздің еліңізді таңдаңыз
+Choices-km.utf-8: អាហ្វ្រិក/គីនសាសា, អាហ្វ្រិក/លូប៊ុមបាស៊ី, ជ្រើសរើសមកពីបញ្ជីពិភពលោកធំទូលាយ
+Choices-ko.utf-8: 킨샤사, 루붐바시, 전세계 목록에서 선택
+Choices-lt.utf-8: Kinshasa, Lubumbashi, Pasirinkti iš pasaulinio sąrašo
+Choices-lv.utf-8: Kinšasa, Lubumbaši, Izvēlieties no vispasaules saraksta
+Choices-nb.utf-8: Kinshasa, Lubumbashi, Velg fra verdensomspennende liste
+Choices-nl.utf-8: Kinshasa, Lubumbashi, Selecteer uit wereldlijst
+Choices-nn.utf-8: Kinshasa, Lubumbashi, Velg frå verdsomfattande liste
+Choices-no.utf-8: Kinshasa, Lubumbashi, Velg fra verdensomspennende liste
+Choices-pa.utf-8: ਕਿਨਸ਼ਾਸਾ, ਲੁਬੂਮਬਾਸ਼ੀ, ਸੰਸਾਰ ਦੀ ਲਿਸਟ 'ਚੋਂ ਚੁਣੋ
+Choices-pl.utf-8: Kinshasa, Lubumbashi, Wybór z listy
+Choices-pt.utf-8: Kinshasa, Lubumbashi, Seleccione da lista mundial
+Choices-pt_br.utf-8: Kinshasa, Lubumbashi, Selecione apartir da lista mundial
+Choices-ro.utf-8: Kinshasa, Lubumbashi, Alegeți din lista globală
+Choices-ru.utf-8: Киншаса, Лубумбаши, Выберите из списка стран
+Choices-sk.utf-8: Kinshasa, Lubumbashi, Vybrať z celosvetového zoznamu
+Choices-sl.utf-8: Kinshasa, Lubumbashi, Izberite s svetovnega seznama
+Choices-sq.utf-8: Africa/Kinshasa, Africa/Lubumbashi, Zgjidhni nga lista mbarëbotërore
+Choices-sr.utf-8: Киншаса, Лубумбаши, Изаберите са листе
+Choices-sv.utf-8: Kinshasa, Lubumbashi, Välj från världslistan
+Choices-th.utf-8: กินชาซา, ลูบูมบาชี, เลือกจากรายการทั่วโลก
+Choices-tr.utf-8: Kinshasa, Lubumbashi, Dünya çapındaki listeden seçin
+Choices-uk.utf-8: Кіншаса, Лубумваші, Виберіть зі списку
+Choices-vi.utf-8: Kinshasa, Lubumbashi, Chọn từ danh sách trên toàn thế giới
+Choices-zh_cn.utf-8: 金沙萨, 卢本巴希, 从以下时区列表选择
+Choices-zh_tw.utf-8: 金夏沙, Lubumbashi, 從世界列表選取
+Description: Select a city in your time zone:
+Description-am.utf-8: በሰዓት ክልልዎ ውስጥ የሚገኝ ከተማን ይምረጡ፦
+Description-ar.utf-8: اختر مدينة ضمن منطقتك الزمنية:
+Description-ast.utf-8: Seleiciona una ciudá na to zona horaria:
+Description-be.utf-8: Пазначце горад у Вашай зоне часу:
+Description-bg.utf-8: Изберете град от вашия часови пояс:
+Description-bn.utf-8: আপনার সময় অঞ্চলে অবস্থিত একটি শহর বেছে নিন:
+Description-bs.utf-8: Odaberite grad u vašoj vremenskog zoni:
+Description-ca.utf-8: Seleccioneu una ciutat dins el vostre fus horari:
+Description-cs.utf-8: Vyberte město ve svém časovém pásmu:
+Description-cy.utf-8: Dewiswch dinas yn eich parthamser:
+Description-da.utf-8: Vælg en by i din tidszone:
+Description-de.utf-8: Wählen Sie eine Stadt in Ihrer Zeitzone:
+Description-dz.utf-8: ཁྱོད་ཀྱི་ཆུ་ཚོད་གླིང་སྡེ་ནང་ལུ་གྲོང་སྡེ་སེལ་འཐུ་འབད།
+Description-el.utf-8: Επιλέξτε μια πόλη στην χρονική σας ζώνη:
+Description-eo.utf-8: Elektu urbon en via horzono:
+Description-es.utf-8: Seleccione una ciudad de su zona horaria:
+Description-et.utf-8: Vali linn oma ajavööndis:
+Description-eu.utf-8: Hautatu ordu-zonako herria:
+Description-fi.utf-8: Valitse kaupunki aikavyöhykkeeltäsi:
+Description-fr.utf-8: Ville dans votre fuseau horaire :
+Description-ga.utf-8: Roghnaigh cathair i do chrios ama:
+Description-gl.utf-8: Escolla unha cidade no seu fuso horario:
+Description-gu.utf-8: તમારા સમય વિસ્તારનું શહેર પસંદ કરો:
+Description-he.utf-8: בחר עיר באזור הזמן שלך:
+Description-hi.utf-8: अपने समय-मण्डल में एक नगर चुनें:
+Description-hr.utf-8: Odaberite grad u vašoj vremenskoj zoni:
+Description-hu.utf-8: Egy város kiválasztása az időzónából:
+Description-id.utf-8: Pilih kota dalam zona waktu anda:
+Description-it.utf-8: Selezionare una città nel proprio fuso orario:
+Description-ja.utf-8: 時間帯の都市を選択してください:
+Description-ka.utf-8: აირჩიეთ ქალაქი თქვენს ზონაში:
+Description-kk.utf-8: Уақыт белдеуіңізге сай қала таңдаңыз:
+Description-km.utf-8: ជ្រើស​ទីក្រុង​មួយ​ក្នុង​តំបន់​ពេលវេលា​របស់​អ្នក ៖
+Description-ko.utf-8: 해당 시간대의 도시를 고르십시오:
+Description-ku.utf-8: Di herêma demê xwe de bajarekî hilbijêre:
+Description-lt.utf-8: Pasirinkite miestą Jūsų laiko zonai:
+Description-lv.utf-8: Izvēlieties kādu pilsētu savā laika joslā:
+Description-mk.utf-8: Одбери град во твојата временска зона:
+Description-ml.utf-8: നിങ്ങളുടെ സമയ മേഘലയിലെ പട്ടണം തെരഞ്ഞെടുക്കുക:
+Description-mr.utf-8: तुमच्या समय विभागातील एक शहर निवडा:
+Description-nb.utf-8: Velg en by i din tidssone:
+Description-ne.utf-8: तपाईँको टाइमजोनमा शहर चयन गर्नुहोस्:
+Description-nl.utf-8: Selecteer een stad in uw tijdzone:
+Description-nn.utf-8: Vel ein by i di tidssone:
+Description-no.utf-8: Velg en by i din tidssone:
+Description-pa.utf-8: ਆਪਣੇ ਟਾਈਮ-ਜ਼ੋਨ ਵਿੱਚ ਇੱਕ ਸ਼ਹਿਰ ਚੁਣੋ:
+Description-pl.utf-8: Wybierz miasto w swojej strefie czasowej:
+Description-pt.utf-8: Escolha uma cidade no seu fuso horário:
+Description-pt_br.utf-8: Selecione uma cidade em seu fuso horário:
+Description-ro.utf-8: Selectați un oraș de pe fusul dumneavoastră orar:
+Description-ru.utf-8: Выберите город в вашем часовом поясе:
+Description-se.utf-8: Vállje gávpoga iežat áigeavádagas:
+Description-sk.utf-8: Zvoľte mesto vo vašom časovom pásme:
+Description-sl.utf-8: Izberite mesto v vašem časovnem pasu:
+Description-sq.utf-8: Zgjidh një qytet në zonën tënde orare:
+Description-sr.utf-8: Одаберите град у вашој временској зони:
+Description-sv.utf-8: Välj en stad i din tidszon:
+Description-ta.utf-8: தங்கள் நேரப் பகுதியில் உள்ள நகரத்தை தேர்வு செய்க:
+Description-th.utf-8: เลือกเมืองในเขตเวลาของคุณ:
+Description-tl.utf-8: Pumili ng siyudad sa inyong zonang orasan:
+Description-tr.utf-8: Saat diliminizde bir şehir seçin:
+Description-uk.utf-8: Виберіть місто в вашому часовому поясі:
+Description-vi.utf-8: Chọn một thành phố trong múi giờ của bạn:
+Description-wo.

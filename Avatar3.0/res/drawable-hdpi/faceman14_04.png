@@ -1,0 +1,263 @@
+ant*rs*rue*Serbian (Cyrillic) - Pannonian Rusyn (homophonic)
+tr*variant*rs*latinalternatequotes*Serbian (Cyrillic) - Serbian (Latin with guillemets)
+tr*variant*rs*latinyz*Serbian (Cyrillic) - Serbian (Latin qwerty)
+tr*variant*rs*yz*Serbian (Cyrillic) - Serbian (Cyrillic, Z and ZHE swapped)
+tr*layout*af*Afghani
+tr*variant*af**Afghani
+tr*variant*af*uz*Afghani - Uzbek (Afghanistan)
+tr*variant*af*olpc-ps*Afghani - Pashto (Afghanistan, OLPC)
+tr*variant*af*uz-olpc*Afghani - Uzbek (Afghanistan, OLPC)
+tr*variant*af*ps*Afghani - Paşto
+tr*variant*af*fa-olpc*Afghani - Persian (Afghanistan, Dari OLPC)
+tr*layout*ng*English (Nigeria)
+tr*variant*ng**English (Nigeria)
+tr*variant*ng*igbo*English (Nigeria) - Igbo
+tr*variant*ng*yoruba*English (Nigeria) - Yoruba
+tr*variant*ng*hausa*English (Nigeria) - Havza
+tr*layout*la*Lao
+tr*variant*la**Lao
+tr*variant*la*stea*Lao - Lao (STEA proposed standard layout)
+tr*layout*pk*Urdu (Pakistan)
+tr*variant*pk**Urdu (Pakistan)
+tr*variant*pk*urd-nla*Urdu (Pakistan) - Urdu (Pakistan, NLA)
+tr*variant*pk*ara*Urdu (Pakistan) - Arabic (Pakistan)
+tr*variant*pk*urd-crulp*Urdu (Pakistan) - Urdu (Pakistan, CRULP)
+tr*variant*pk*snd*Urdu (Pakistan) - Sindhi
+tr*layout*lv*Latvian
+tr*variant*lv**Latvian
+tr*variant*lv*adapted*Latvian - Latvian (adapted)
+tr*variant*lv*tilde*Latvian - Latvian (tilde variant)
+tr*variant*lv*ergonomic*Latvian - Latvian (ergonomic, ŪGJRMV)
+tr*variant*lv*fkey*Latvian - Latvian (F variant)
+tr*variant*lv*modern*Latvian - Latvian (modern)
+tr*variant*lv*apostrophe*Latvian - Latvian (apostrophe variant)
+tr*layout*fo*Faroese
+tr*variant*fo**Faroese
+tr*variant*fo*nodeadkeys*Faroese - Faroese (eliminate dead keys)
+tr*layout*ru*Rusça
+tr*variant*ru**Rusça
+tr*variant*ru*typewriter-legacy*Rusça - Russian (typewriter, legacy)
+tr*variant*ru*phonetic_winkeys*Rusça - Russian (phonetic WinKeys)
+tr*variant*ru*os_legacy*Rusça - Ossetian (legacy)
+tr*variant*ru*chm*Rusça - Mari
+tr*variant*ru*srp*Rusça - Serbian (Russia)
+tr*variant*ru*udm*Rusça - Udmurt
+tr*variant*ru*typewriter*Rusça - Russian (typewriter)
+tr*variant*ru*os_winkeys*Rusça - Ossetian (WinKeys)
+tr*variant*ru*legacy*Rusça - Russian (legacy)
+tr*variant*ru*kom*Rusça - Komi
+tr*variant*ru*cv*Rusça - Çuvaş
+tr*variant*ru*xal*Rusça - Kalmyk
+tr*variant*ru*phonetic*Rusça - Russian (phonetic)
+tr*variant*ru*bak*Rusça - Bashkirian
+tr*variant*ru*cv_latin*Rusça - Chuvash (Latin)
+tr*variant*ru*dos*Rusça - Russian (DOS)
+tr*variant*ru*sah*Rusça - Yakut
+tr*variant*ru*tt*Rusça - Tatar
+tr*layout*br*Portuguese (Brazil)
+tr*variant*br**Portuguese (Brazil)
+tr*variant*br*nativo*Portuguese (Brazil) - Portuguese (Brazil, nativo)
+tr*variant*br*nativo-us*Portuguese (Brazil) - Portuguese (Brazil, nativo for USA keyboards)
+tr*variant*br*nativo-epo*Portuguese (Brazil) - Portuguese (Brazil, nativo for Esperanto)
+tr*variant*br*dvorak*Portuguese (Brazil) - Portuguese (Brazil, Dvorak)
+tr*variant*br*nodeadkeys*Portuguese (Brazil) - Portuguese (Brazil, eliminate dead keys)
+tr*layout*no*Norveçce
+tr*variant*no**Norveçce
+tr*variant*no*mac_nodeadkeys*Norveçce - Norwegian (Macintosh, eliminate dead keys)
+tr*variant*no*smi_nodeadkeys*Norveçce - Northern Saami (Norway, eliminate dead keys)
+tr*variant*no*smi*Norveçce - Northern Saami (Norway)
+tr*variant*no*dvorak*Norveçce - Norwegian (Dvorak)
+tr*variant*no*mac*Norveçce - Norwegian (Macintosh)
+tr*variant*no*nodeadkeys*Norveçce - Norwegian (eliminate dead keys)
+tr*layout*me*Montenegrin
+tr*variant*me**Montenegrin
+tr*variant*me*cyrillic*Montenegrin - Montenegrin (Cyrillic)
+tr*variant*me*latinalternatequotes*Montenegrin - Montenegrin (Latin with guillemets)
+tr*variant*me*latinunicode*Montenegrin - Montenegrin (Latin Unicode)
+tr*variant*me*latinyz*Montenegrin - Montenegrin (Latin qwerty)
+tr*variant*me*latinunicodeyz*Montenegrin - Montenegrin (Latin Unicode qwerty)
+tr*variant*me*cyrillicyz*Montenegrin - Montenegrin (Cyrillic, Z and ZHE swapped)
+tr*variant*me*cyrillicalternatequotes*Montenegrin - Montenegrin (Cyrillic with guillemets)
+tr*layout*gh*English (Ghana)
+tr*variant*gh**English (Ghana)
+tr*variant*gh*avn*English (Ghana) - Avatime
+tr*variant*gh*hausa*English (Ghana) - Havza
+tr*variant*gh*ewe*English (Ghana) - Eve
+tr*variant*gh*generic*English (Ghana) - English (Ghana, multilingual)
+tr*variant*gh*ga*English (Ghana) - Ga
+tr*variant*gh*gillbt*English (Ghana) - English (Ghana, GILLBT)
+tr*variant*gh*fula*English (Ghana) - Fula
+tr*variant*gh*akan*English (Ghana) - Akan
+tr*layout*pt*Portekizce
+tr*variant*pt**Portekizce
+tr*variant*pt*mac_sundeadkeys*Portekizce - Portuguese (Macintosh, Sun dead keys)
+tr*variant*pt*nativo-us*Portekizce - Portuguese (Nativo for USA keyboards)
+tr*variant*pt*nativo-epo*Portekizce - Esperanto (Portugal, Nativo)
+tr*variant*pt*sundeadkeys*Portekizce - Portuguese (Sun dead keys)
+tr*variant*pt*mac_nodeadkeys*Portekizce - Portuguese (Macintosh, eliminate dead keys)
+tr*variant*pt*mac*Portekizce - Portuguese (Macintosh)
+tr*variant*pt*nodeadkeys*Portekizce - Portuguese (eliminate dead keys)
+tr*variant*pt*nativo*Portekizce - Portuguese (Nativo)
+tr*layout*se*İsveçce
+tr*variant*se**İsveçce
+tr*variant*se*svdvorak*İsveçce - Swedish (Svdvorak)
+tr*variant*se*swl*İsveçce - Swedish Sign Language
+tr*variant*se*nodeadkeys*İsveçce - Swedish (eliminate dead keys)
+tr*variant*se*mac*İsveçce - Swedish (Macintosh)
+tr*variant*se*dvorak*İsveçce - Swedish (Dvorak)
+tr*variant*se*rus_nodeadkeys*İsveçce - Russian (Sweden, phonetic, eliminate dead keys)
+tr*variant*se*rus*İsveçce - Russian (Sweden, phonetic)
+tr*variant*se*smi*İsveçce - Northern Saami (Sweden)
+tr*layout*ara*Arapça
+tr*variant*ara**Arapça
+tr*variant*ara*qwerty_digits*Arapça - Arabic (qwerty/digits)
+tr*variant*ara*azerty_digits*Arapça - Arabic (azerty/digits)
+tr*variant*ara*buckwalter*Arapça - Arabic (Buckwalter)
+tr*variant*ara*azerty*Arapça - Arabic (azerty)
+tr*variant*ara*qwerty*Arapça - Arabic (qwerty)
+tr*variant*ara*digits*Arapça - Arabic (digits)
+tr*layout*az*Azerbaijani
+tr*variant*az**Azerbaijani
+tr*variant*az*cyrillic*Azerbaijani - Azerbaijani (Cyrillic)
+tr*layout*dk*Danca
+tr*variant*dk**Danca
+tr*variant*dk*dvorak*Danca - Danish (Dvorak)
+tr*variant*dk*nodeadkeys*Danca - Danish (eliminate dead keys)
+tr*variant*dk*mac*Danca - Danish (Macintosh)
+tr*variant*dk*mac_nodeadkeys*Danca - Danish (Macintosh, eliminate dead keys)
+tr*layout*epo*Esperanto
+tr*variant*epo**Esperanto
+tr*variant*epo*legacy*Esperanto - Esperanto (displaced semicolon and quote, obsolete)
+tr*layout*ua*Ukrainian
+tr*variant*ua**Ukrainian
+tr*variant*ua*winkeys*Ukrainian - Ukrainian (WinKeys)
+tr*variant*ua*rstu_ru*Ukrainian - Russian (Ukraine, standard RSTU)
+tr*variant*ua*phonetic*Ukrainian - Ukrainian (phonetic)
+tr*variant*ua*legacy*Ukrainian - Ukrainian (legacy)
+tr*variant*ua*rstu*Ukrainian - Ukrainian (standard RSTU)
+tr*variant*ua*homophonic*Ukrainian - Ukrainian (homophonic)
+tr*variant*ua*typewriter*Ukrainian - Ukrainian (typewriter)
+tr*layout*iq*Iraqi
+tr*variant*iq**Iraqi
+tr*variant*iq*ku_alt*Iraqi - Kurdish (Iraq, Latin Alt-Q)
+tr*variant*iq*ku*Iraqi - Kurdish (Iraq, Latin Q)
+tr*variant*iq*ku_f*Iraqi - Kurdish (Iraq, F)
+tr*variant*iq*ku_ara*Iraqi - Kurdish (Iraq, Arabic-Latin)
+tr*layout*us*English (US)
+tr*variant*us**English (US)
+tr*variant*us*dvorak-l*English (US) - English (left handed Dvorak)
+tr*variant*us*altgr-intl*English (US) - English (international AltGr dead keys)
+tr*variant*us*dvorak-r*English (US) - English (right handed Dvorak)
+tr*variant*us*euro*English (US) - English (US, with euro on 5)
+tr*variant*us*dvorak*English (US) - English (Dvorak)
+tr*variant*us*dvorak-alt-intl*English (US) - English (Dvorak alternative international no dead keys)
+tr*variant*us*alt-intl*English (US) - English (US, alternative international)
+tr*variant*us*mac*English (US) - English (Macintosh)
+tr*variant*us*dvp*English (US) - English (programmer Dvorak)
+tr*variant*us*hbs*English (US) - Serbo-Croatian (US)
+tr*variant*us*colemak*English (US) - English (Colemak)
+tr*variant*us*olpc2*English (US) - English (layout toggle on multiply/divide key)
+tr*variant*us*intl*English (US) - English (US, international with dead keys)
+tr*variant*us*dvorak-classic*English (US) - English (classic Dvorak)
+tr*variant*us*dvorak-intl*English (US) - English (Dvorak international with dead keys)
+tr*variant*us*rus*English (US) - Russian (US, phonetic)
+tr*variant*us*chr*English (US) - Cherokee
+tr*layout*sk*Slovakça
+tr*variant*sk**Slovakça
+tr*variant*sk*bksl*Slovakça - Slovak (extended Backslash)
+tr*variant*sk*qwerty_bksl*Slovakça - Slovak (qwerty, extended Backslash)
+tr*variant*sk*qwerty*Slovakça - Slovak (qwerty)
+tr*layout*be*Belçikaca
+tr*variant*be**Belçikaca
+tr*variant*be*oss_latin9*Belçikaca - Belgian (alternative, latin-9 only)
+tr*variant*be*oss*Belçikaca - Belgian (alternative)
+tr*variant*be*wang*Belçikaca - Belgian (Wang model 724 azerty)
+tr*variant*be*iso-alternate*Belçikaca - Belgian (ISO alternate)
+tr*variant*be*oss_sundeadkeys*Belçikaca - Belgian (alternative, Sun dead keys)
+tr*variant*be*nodeadkeys*Belçikaca - Belgian (eliminate dead keys)
+tr*variant*be*sundeadkeys*Belçikaca - Belgian (Sun dead keys)
+tr*layout*ee*Estonian
+tr*variant*ee**Estonian
+tr*variant*ee*nodeadkeys*Estonian - Estonian (eliminate dead keys)
+tr*variant*ee*us*Estonian - Estonian (US keyboard with Estonian letters)
+tr*variant*ee*dvorak*Estonian - Estonian (Dvorak)
+tr*layout*il*Hebrew
+tr*variant*il**Hebrew
+tr*variant*il*phonetic*Hebrew - Hebrew (phonetic)
+tr*variant*il*lyx*Hebrew - Hebrew (lyx)
+tr*variant*il*biblical*Hebrew - Hebrew (Biblical, Tiro)
+tr*layout*et*Amharic
+tr*variant*et**Amharic
+tr*layout*kr*Korean
+tr*variant*kr**Korean
+tr*variant*kr*kr104*Korean - Korean (101/104 key compatible)
+tr*layout*mn*Mongolian
+tr*variant*mn**Mongolian
+tr*layout*si*Slovenian
+tr*variant*si**Slovenian
+tr*variant*si*us*Slovenian - Slovenian (US keyboard with Slovenian letters)
+tr*variant*si*alternatequotes*Slovenian - Slovenian (use guillemets for quotes)
+tr*layout*es*İspanyolca
+tr*variant*es**İspanyolca
+tr*variant*es*nodeadkeys*İspanyolca - Spanish (eliminate dead keys)
+tr*variant*es*sundeadkeys*İspanyolca - Spanish (Sun dead keys)
+tr*variant*es*dvorak*İspanyolca - Spanish (Dvorak)
+tr*variant*es*mac*İspanyolca - Spanish (Macintosh)
+tr*variant*es*cat*İspanyolca - Catalan (Spain, with middle-dot L)
+tr*variant*es*deadtilde*İspanyolca - Spanish (include dead tilde)
+tr*variant*es*ast*İspanyolca - Asturian (Spain, with bottom-dot H and bottom-dot L)
+tr*layout*jp*Japonca
+tr*variant*jp**Japonca
+tr*variant*jp*kana86*Japonca - Japanese (Kana 86)
+tr*variant*jp*mac*Japonca - Japanese (Macintosh)
+tr*variant*jp*kana*Japonca - Japanese (Kana)
+tr*variant*jp*OADG109A*Japonca - Japanese (OADG 109A)
+tr*layout*nec_vndr/jp*Japanese (PC-98xx Series)
+tr*variant*nec_vndr/jp**Japanese (PC-98xx Series)
+tr*layout*kh*Khmer (Cambodia)
+tr*variant*kh**Khmer (Cambodia)
+tr*layout*brai*Üç noktalı
+tr*variant*brai**Üç noktalı
+tr*variant*brai*right_hand*Üç noktalı - Braille (right hand)
+tr*variant*brai*left_hand*Üç noktalı - Braille (left hand)
+tr*layout*ba*Bosnian
+tr*variant*ba**Bosnian
+tr*variant*ba*unicodeus*Bosnian - Bosnian (US keyboard with Bosnian digraphs)
+tr*variant*ba*us*Bosnian - Bosnian (US keyboard with Bosnian letters)
+tr*variant*ba*unicode*Bosnian - Bosnian (use Bosnian digraphs)
+tr*variant*ba*alternatequotes*Bosnian - Bosnian (use guillemets for quotes)
+tr*layout*is*Icelandic
+tr*variant*is**Icelandic
+tr*variant*is*nodeadkeys*Icelandic - Icelandic (eliminate dead keys)
+tr*variant*is*mac*Icelandic - Icelandic (Macintosh)
+tr*variant*is*dvorak*Icelandic - Icelandic (Dvorak)
+tr*variant*is*Sundeadkeys*Icelandic - Icelandic (Sun dead keys)
+tr*layout*fi*Fince
+tr*variant*fi**Fince
+tr*variant*fi*nodeadkeys*Fince - Finnish (classic, eliminate dead keys)
+tr*variant*fi*classic*Fince - Finnish (classic)
+tr*variant*fi*smi*Fince - Northern Saami (Finland)
+tr*variant*fi*mac*Fince - Finnish (Macintosh)
+tr*layout*kz*Kazakh
+tr*variant*kz**Kazakh
+tr*variant*kz*ruskaz*Kazakh - Russian (Kazakhstan, with Kazakh)
+tr*variant*kz*kazrus*Kazakh - Kazakh (with Russian)
+tr*layout*ad*Catalan
+tr*variant*ad**Catalan
+tr*layout*ph*Filipino
+tr*variant*ph**Filipino
+tr*variant*ph*dvorak-bay*Filipino - Filipino (Dvorak Baybayin)
+tr*variant*ph*qwerty-bay*Filipino - Filipino (QWERTY Baybayin)
+tr*variant*ph*colemak*Filipino - Filipino (Colemak Latin)
+tr*variant*ph*dvorak*Filipino - Filipino (Dvorak Latin)
+tr*variant*ph*capewell-qwerf2k6-bay*Filipino - Filipino (Capewell-QWERF 2006 Baybayin)
+tr*variant*ph*capewell-dvorak-bay*Filipino - Filipino (Capewell-Dvorak Baybayin)
+tr*variant*ph*capewell-qwerf2k6*Filipino - Filipino (Capewell-QWERF 2006 Latin)
+tr*variant*ph*colemak-bay*Filipino - Filipino (Colemak Baybayin)
+tr*variant*ph*capewell-dvorak*Filipino - Filipino (Capewell-Dvorak Latin)
+tr*layout*tm*Turkmen
+tr*variant*tm**Turkmen
+tr*variant*tm*alt*Turkmen - Turkmen (Alt-Q)
+tr*layout*ke*Swahili (Kenya)
+tr*variant*ke**Swahili (Kenya)
+tr*variant*ke*kik*Swahili (Kenya) - Kik

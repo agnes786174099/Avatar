@@ -1,0 +1,93 @@
+tion-ro.utf-8: Documentele, muzica și celelalte fișiere personale vor fi păstrate. Software-ul instalat va fi păstrat, dacă acest lucru este posibil. Configurările de sistem vor fi șterse.
+Extended_description-ru.utf-8: Документы, музыка и другие личные файлы будут сохранены. Установленное программное обеспечение будет сохранено настолько, насколько это возможно. Системные настройки будут сброшены.
+Extended_description-si.utf-8: ලේඛන, ගීත හා වෙනත් පුද්ගලික ගොනු තබාගැනේ.  ස්ථාපිත මෘදුකාංගද හැකි පමණ තබාගනී. පද්ධති-ව්‍යාප්ත සැකසුම් පිරිසිදු වේ.
+Extended_description-sk.utf-8: Dokumenty, hudba a ostatné osobné súbory budú zachované. Nainštalovaný softvér bude zachovaný ak to bude možné. Celosystémové nastavenia budú vyčistené.
+Extended_description-sl.utf-8: Dokumenti, glasba in druge osebne datoteke bodo ohranjene. Nameščeni programi bodo ohranjeni, kjer to bo mogoče. Sistemske nastavitve bodo počiščene.
+Extended_description-sq.utf-8: Dokumentet, muzika dhe skedarët e tjerë personalë do të mbahen. Programet e instaluara do të mbahen kur është e mundur. Parametrat e përgjithshme të sistemit do të ndryshohen.
+Extended_description-sr.utf-8: Документа, музика и остале личне датотеке ће бити сачуване. Инсталирани програми ће бити сачувани ако буде било могуће. Свеопшта подешавања система ће бити очишћена.
+Extended_description-sv.utf-8: Dokument, musik och andra personliga filer kommer att behållas. Installerade program kommer att behållas där det är möjligt. Systeminställningar kommer att försvinna.
+Extended_description-te.utf-8: మీ డాక్యుమెంట్లు, సంగీతం, మరియు ఇతర వ్యక్తిగత ఫైళ్ళు వుంచబడతాయి. సాధ్యమైన చోట మీరు ఇన్స్టాల్ చేసిన సాఫ్ట్వేర్ కూడ వుంచబడుతుంది. మీ కంప్యూటర్ మొత్తానికి వర్తించే సెట్టింగులు మాత్రం వుండవు.
+Extended_description-th.utf-8: เอกสาร เพลง และแฟ้มส่วนตัวอื่นๆ จะถูกเก็บไว้ ซอฟต์แวร์ที่ติดตั้งจะถูกเก็บไว้ในที่ที่ใช้ได้ การตั้งค่าทั้งระบบจะถูกล้าง
+Extended_description-tr.utf-8: Belgeler,müzikler ve diğer kişisel dosyalar saklanacak. Kurulu yazılımlar, kuruldukları yerde saklanabilir. Sistem genelinde etkin ayarlar sıfırlanacak.
+Extended_description-ug.utf-8: پروگرامما، پۈتۈك، سۈرەت، مۇزىكا ۋە باشقا خۇسۇسىي ھۆججەتلەر ساقلىنىپ قالىدۇ. ئورنىتىلغان پروگراممىلارنىمۇ ئامالنىڭ بارىچە ساقلاپ قالىدۇ. سىستېما دائىرىسىدە ئىشلىتىلىدىغان تەڭشەكلەر تازىلىنىدۇ.
+Extended_description-uk.utf-8: Документи, музика та інші приватні файли буде збережено. Встановлене програмне забезпечення буде збережено, якщо це можливо. Глобальні налаштування ж будуть очищені.
+Extended_description-vi.utf-8: Tài liệu, nhạc và các dữ liệu cá nhân khác sẽ được giữ lại. Các phần mềm đã cài đặt có thể được giữ lại. Các cài đặt hệ thống sẽ bị xóa bỏ.
+Extended_description-zh_cn.utf-8: 保留文档、音乐和其他个人文件，尽量保留已安装的软件。会清除系统设置。
+Extended_description-zh_hk.utf-8: 文件、音樂、其他個人檔案將被保留。安裝的軟體會被保留在可能的位置上。系統全域的設定會被清除。
+Extended_description-zh_tw.utf-8: 文件、音樂及其他個人檔案會保留。安裝的軟體會儘可能保留。系統的全域設定會清除。
+Type: text
+Owners: ubiquity/partitioner/ubuntu_reinstall
+
+Name: ubiquity/partitioner/ubuntu_resize
+Description: Install ${DISTRO} ${VER} alongside ${CURDISTRO}
+Description-ar.utf-8: ثبّت ${DISTRO} ${VER} بجانب ${CURDISTRO}
+Description-ast.utf-8: Instalar ${DISTRO} ${VER} xunto a ${CURDISTRO}
+Description-be.utf-8: Усталяваць ${DISTRO} ${VER} побач з ${CURDISTRO}
+Description-bg.utf-8: Инсталирай ${DISTRO} ${VER} заедно с ${CURDISTRO}
+Description-bn.utf-8: ইনস্টল ${DISTRO} ${VER} পাশাপাশি ${CURDISTRO}
+Description-bo.utf-8: ${DISTRO} ${VER}་དེ་ ${CURDISTRO}་དང་མཉམ་དུ་སྒྲིག་འཇུག་བྱེད་པ
+Description-bs.utf-8: Instaliraj ${DISTRO} ${VER} pored ${CURDISTRO}
+Description-ca.utf-8: Instal·la els sistemes operatius ${DISTRO} ${VER} i ${CURDISTRO} l'un al costat de l'altre
+Description-cs.utf-8: Nainstalovat ${DISTRO} ${VER} vedle ${CURDISTRO}
+Description-da.utf-8: Installér ${DISTRO} ${VER} ved siden af ${CURDISTRO}
+Description-de.utf-8: ${DISTRO} ${VER} neben ${CURDISTRO} installieren
+Description-el.utf-8: Εγκατάσταση του ${DISTRO} ${VER} παράλληλα με το ${CURDISTRO}
+Description-en_au.utf-8: Install ${DISTRO} ${VER} alongside ${CURDISTRO}
+Description-en_ca.utf-8: Install ${DISTRO} ${VER} alongside ${CURDISTRO}
+Description-en_gb.utf-8: Install ${DISTRO} ${VER} alongside ${CURDISTRO}
+Description-eo.utf-8: Instali ${DISTRO} ${VER} flanke al ${CURDISTRO}
+Description-es.utf-8: Instalar ${DISTRO} ${VER} junto a ${CURDISTRO}
+Description-et.utf-8: Paigalda ${DISTRO} ${VER} praeguse ${CURDISTRO} süsteemi kõrvale
+Description-eu.utf-8: Instalatu ${DISTRO} ${VER} ${CURDISTRO}(r)ekin batera
+Description-fi.utf-8: Asenna ${DISTRO} ${VER} käyttöjärjestelmän ”${CURDISTRO}” rinnalle.
+Description-fr.utf-8: Installer ${DISTRO} ${VER} à côté de ${CURDISTRO}
+Description-gl.utf-8: Instalar ${DISTRO} ${VER} a carón de ${CURDISTRO}
+Description-he.utf-8: התקנת ${DISTRO} ${VER} לצד ${CURDISTRO}
+Description-hi.utf-8: ${DISTRO} ${VER} को ${CURDISTRO}  के साथ-साथ संस्थापित करें
+Description-hr.utf-8: Instaliraj ${DISTRO} ${VER} uz ${CURDISTRO}
+Description-hu.utf-8: ${DISTRO} ${VER} telepítése ${CURDISTRO} mellé
+Description-id.utf-8: Pasang ${DISTRO} ${VER} bersama ${CURDISTRO}
+Description-is.utf-8: Setja ${DISTRO} ${VER} upp samhliða ${CURDISTRO}
+Description-it.utf-8: Installa ${DISTRO} ${VER} a fianco di ${CURDISTRO}
+Description-ja.utf-8: ${DISTRO} ${VER} を ${CURDISTRO} と併用可能な形でインストール
+Description-kk.utf-8: ${DISTRO} ${VER} ${CURDISTRO} қасында орнату
+Description-km.utf-8: ដំឡើង ${DISTRO} ${VER} រួម​ជា​មួយ​នឹង ${CURDISTRO}
+Description-ko.utf-8: ${CURDISTRO}을(를) 그대로 두고 ${DISTRO} ${VER} 설치
+Description-lt.utf-8: Įdiegti ${DISTRO} ${VER} šalia ${CURDISTRO}
+Description-lv.utf-8: Instalēt ${DISTRO} ${VER} līdztekus ${CURDISTRO}
+Description-nb.utf-8: Installer ${DISTRO} ${VER} ved siden av ${CURDISTRO}
+Description-nl.utf-8: Installeer ${DISTRO} ${VER} naast ${CURDISTRO}
+Description-nn.utf-8: Installer ${DISTRO} ${VER} i tillegg til ${CURDISTRO}
+Description-no.utf-8: Installer ${DISTRO} ${VER} ved siden av ${CURDISTRO}
+Description-pl.utf-8: Instalacja ${DISTRO} ${VER} obok ${CURDISTRO}
+Description-pt.utf-8: Instalar ${DISTRO} ${VER} paralelamente ao ${CURDISTRO}
+Description-pt_br.utf-8: Instalar o ${DISTRO} ${VER} ao lado do ${CURDISTRO}
+Description-ro.utf-8: Instalează ${DISTRO} ${VER} alături de ${CURDISTRO}
+Description-ru.utf-8: Установить ${DISTRO} ${VER} рядом с ${CURDISTRO}
+Description-si.utf-8: ${CURDISTRO} වෙතින්  ${DISTRO} ${VER} ස්ථාපනය කරන්න
+Description-sk.utf-8: Nainštalovať ${DISTRO} ${VER} vedľa ${CURDISTRO}
+Description-sl.utf-8: Namesti ${DISTRO} ${VER} poleg ${CURDISTRO}
+Description-sq.utf-8: Instalo ${DISTRO} ${VER} sëbashku ${CURDISTRO}
+Description-sr.utf-8: Инсталирајте ${DISTRO} ${VER} поред ${CURDISTRO}
+Description-sv.utf-8: Installera ${DISTRO} ${VER} vid sidan av ${CURDISTRO}
+Description-te.utf-8: ${CURDISTRO} తోబాటు గా ${DISTRO} ${VER} ను స్థాపించండి
+Description-th.utf-8: ติดตั้ง ${DISTRO} ${VER} คู่กับ ${CURDISTRO}
+Description-tr.utf-8: ${DISTRO} ${VER} sürümünü ${CURDISTRO} sürümünün yanına kur
+Description-ug.utf-8: ${DISTRO} ${VER} بىلەن ${CURDISTRO} نى يانداش ئورنىتىدۇ
+Description-uk.utf-8: Установити ${DISTRO} ${VER} пліч-о-пліч з ${CURDISTRO}
+Description-vi.utf-8: Cài ${DISTRO} ${VER} bên cạnh ${CURDISTRO}
+Description-zh_cn.utf-8: 安装 ${DISTRO} ${VER}，与 ${CURDISTRO} 共存
+Description-zh_hk.utf-8: 將 ${DISTRO} ${VER} 與 ${CURDISTRO} 安裝在一起
+Description-zh_tw.utf-8: 將 ${DISTRO} ${VER} 與 ${CURDISTRO} 安裝在一起
+Extended_description: Documents, music, and other personal files will be kept. You can choose which operating system you want each time the computer starts up.
+Extended_description-ar.utf-8: سيتم الاحتفاظ بالمستندات، والأغاني، وملفات أخرى شخصية. يمكنك اختيار نظام التشغيل الذي تريد تشغيله عند كل بدء تشغيل للحاسوب.
+Extended_description-ast.utf-8: Van caltenese tolos documentos, música, y restu de ficheros. Pues elexir qué sistema operativu aniciar cada vez qu'arranques l'equipu.
+Extended_description-be.utf-8: Дакументы, музыка і іншыя асабістыя файлы будуць захаваныя. Вы можаце выбраць аперацыйную сістэму, што будзе запускацца пры ўключэнні кампутара.
+Extended_description-bg.utf-8: Документи, музика и всички други лични файлове ще бъдат запазени. При всяко пускане на компютъра ще можете да избирате операционната система, която желаете.
+Extended_description-bn.utf-8: সব প্রোগ্রাম, নথি, ছবি, মিউজিক, এবং অন্য যেকোনো ফাইল রাখা হবে। আপনি কম্পিউটার চালনোর সময় কোন অপারেটিং সিস্টেম চান তা নির্বাচন করতে পারেন।
+Extended_description-bo.utf-8: ཡིག་ཆ་དང་རོལ་དབྱངས། སྒེར་གྱི་ཡིག་ཆ་གཞན་ཡོངས་ཉར་ཚགས་བྱ་རྒྱུ་ཡིན། ཁྱོད་ཀྱིས་རྩིས་འཁོར་ཁ་འབྱེད་པ་དང་མ་ལག་གང་ཞིག་སྒུལ་སློང་བྱེད་དགོས་པར་འདེམས་ཆོག
+Extended_description-bs.utf-8: Dokumenti, muzika, i druge lične datoteke biće sačuvani. Možete da izaberete koji operativni sistem želite svaki put kad se računar pokreće.
+Extended_description-ca.utf-8: Els documents, música i altres fitxers personals es mantindran. Podeu triar quin sistema operatiu voleu cada cop que s'iniciï l'ordinador.
+Extended_description-cs.utf-8: Dokumenty, hudba a další osobní soubory budou zachovány. Můžete si zvolit, jaký operační systém se má spustit při každém spuštění počítače.
+Extended_description-da.utf-8: Dokumenter, musik og andre personlige filer vil blive bibeholdt. Du kan vælge hvilket operativsystem, du vil bruge hver gang computeren tændes.
+Extended_description-de.utf-8: Dokumente, Musik und andere persönliche Dateien bleiben bestehen. Sie können bei j

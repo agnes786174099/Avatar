@@ -1,0 +1,89 @@
+ de continuar com esta atualização, para evitar bloquear seus usuários fora de suas sessões atuais.
+Extended_description-ro.utf-8: în sistem s-a detectat cel puțin o instanță activa de xscreensaver sau xlockmore. Datorită unor schimbări de compatibilitate în biblioteci, înnoirea pachetului libpam-modules nu vă va mai permite să vă autentificați în aceste programe. Va trebui să aranjați lucrurile în așa fel încât aceste programe să fie repornite sau oprite înainte de a continua înnoirea pentru a evita blocarea utilizatorilor în afara sesiunilor lor curente.
+Extended_description-ru.utf-8: Обнаружено, что в системе запущен один или несколько процессов xscreensaver или xlockmore. Из-за изменений в библиотеке, обновление пакета libpam-modules приведёт к невозможности выполнения аутентификации из этих программ. Перед тем как продолжить обновление вам нужно перезапустить или остановить работу этих программ, чтобы избежать блокировки пользователей в их активных сеансах.
+Extended_description-sk.utf-8: Na tomto systéme bola zistená jedna alebo viacero bežiacich inštancií programov xscreensaver alebo xlockmore. Z dôvodu nekomaptibilných zmien v knižniciach balíka libpam-modules by ste po aktualizácii neboli schopní overiť sa týmto programom. Mali by ste zariadiť, aby sa tieto programy reštartovali alebo zastavili predtým, než budete v tejto aktualizácii pokračovať, aby ste predišli tomu, že používatelia sa nebudú môcť prihlásiť zo svojich súčasných relácií.
+Extended_description-sv.utf-8: En eller flera instanser av xscreensaver eller xlockmore körs på det här systemet. På grund av förändringar i biblioteket kan uppgraderingen av paketet libpam-modules innebära att du inte kan identifiera dig i dessa program. Programmen behöver startas om eller allra helst stängas av helt före uppgraderingen, resultatet kan annars innebära att du inte kan komma åt dina aktiva sessioner på systemet.
+Extended_description-tr.utf-8: Sisteminizde çalışmakta olan birden fazla xscreensaver ya da xlockmore örneğine rastlandı. Uyumsuz kitaplık değişiklikleri yüzünden, libpam-modules paketinin yükseltilmesi bu programlarda kimlik doğrulamasını olanaksız hale getirecek. Mevcut oturumların kilitlenmesi önlemek için, yükseltme işlemine devam etmeden önce bu programları durdurmalı ya da yeniden başlatmalısınız.
+Extended_description-vi.utf-8: Một hai nhiều tiến trình xscreensaver hay xlockmore được phát hiện trên hệ thống này. Do thay đổi thư viện không tương thích, việc nâng cấp gói libpam-modules sẽ để lại trường hợp người dùng không thể xác thực với những chương trình này. Vì thế bạn nên khởi chạy lại hoặc ngừng chạy những chương trình này trước khi tiếp tục tiến trình nâng cấp, để tránh chặn người dùng đăng nhập vào buổi hợp đang chạy.
+Extended_description-zh_cn.utf-8: 检测到一个或多个 xscreensaver 或 xlockmore 运行实例。因为不兼容的库的变化，libpam-module 软件包的升级将使您无法向这些程序认证。您需要在继续此升级前安排这些程序重新启动或者停止运行，以避免将您的用户锁在他们的当前会话之外。
+Type: error
+Owners: libpam-modules/disable-screensaver
+
+Name: libpam-runtime/conflicts
+Description: Incompatible PAM profiles selected.
+Description-bg.utf-8: Избрани са несъвместими PAM профили.
+Description-ca.utf-8: Heu seleccionat perfils PAM incompatibles.
+Description-cs.utf-8: Vybrány nekompatibilní PAM profily.
+Description-da.utf-8: Inkompatible PAM-profiler valgt.
+Description-de.utf-8: Inkompatible PAM-Profile ausgewählt.
+Description-es.utf-8: Se han seleccionado perfiles PAM incompatibles.
+Description-eu.utf-8: PAM profil bateraezinak hautatuak.
+Description-fi.utf-8: Epäyhteensopivia PAM-profiileita valittu
+Description-fr.utf-8: Profils PAM incompatibles
+Description-gl.utf-8: Escolléronse perfís de PAM incompatíbeis.
+Description-it.utf-8: Sono stati scelti dei profili PAM incompatibili.
+Description-ja.utf-8: 矛盾する PAM プロファイルが選択されました。
+Description-nl.utf-8: Strijdige PAM-profielen geselecteerd.
+Description-pl.utf-8: Wybrano niezgodne profile PAM.
+Description-pt.utf-8: Seleccionados perfis PAM incompatíveis.
+Description-pt_br.utf-8: Perfis PAM incompatíveis foram selecionados.
+Description-ro.utf-8: Selecție de profile PAM incompatibile.
+Description-ru.utf-8: Выбраны несовместимые профили PAM.
+Description-sk.utf-8: Boli vybrané nekompatibilné profily PAM.
+Description-sv.utf-8: Inkompatibla PAM-profiler valdes.
+Description-vi.utf-8: Bạn đã chọn một số hồ sơ PAM không tương thích với nhau.
+Extended_description: The following PAM profiles cannot be used together:\n\n${conflicts}\n\nPlease select a different set of modules to enable.
+Extended_description-bg.utf-8: Следните PAM профили не могат да се използват едновременно:\n\n${conflicts}\n\nИзберете друга група профили.
+Extended_description-ca.utf-8: No és possible fer servir conjuntament els perfils de PAM indicats a continuació:\n\n${conflicts}\n\nSeleccioneu un conjunt distint de mòduls a activar.
+Extended_description-cs.utf-8: Následující PAM profily nelze používat současně:\n\n${conflicts}\n\nPovolte prosím jinou sadu modulů.
+Extended_description-da.utf-8: De følgende PAM-profiler kan ikke bruges sammen:\n\n${conflicts}\n\nVælg venligst et andet sæt af moduler at aktivere.
+Extended_description-de.utf-8: Die folgenden PAM-Profile können nicht gemeinsam verwendet werden:\n\n${conflicts}\n\nBitte wählen Sie eine andere Zusammenstellung zu aktivierender Module aus.
+Extended_description-es.utf-8: No pueden utilizarse conjuntamente los perfiles de PAM indicados a continuación:\n\n${conflicts}\n\nSeleccione un conjunto distinto de módulos a activar.
+Extended_description-eu.utf-8: Hurrengo PAM profilak ezin dira elkarrekin erabili:\n\n${conflicts}\n\nMesedez hautatu gaitzeko beste modulu bilduma bat.
+Extended_description-fi.utf-8: Seuraavia PAM-profiileita ei voida käyttää yhdessä:\n\n${conflicts}\n\nValitse uusi käyttöön otettavien moduulien joukko.
+Extended_description-fr.utf-8: Les profils PAM suivants sont en conflit :\n\n${conflicts}\n\nVeuillez choisir un autre jeu de modules à activer.
+Extended_description-gl.utf-8: Non se poden empregar xuntos os seguintes perfís de PAM:\n\n${conflicts}\n\nEscolla un conxunto diferente de módulos para activalos.
+Extended_description-it.utf-8: I seguenti profili PAM non possono essere usati contemporaneamente:\n\n${conflicts}\n\nSelezionare una serie differente di moduli da abilitare.
+Extended_description-ja.utf-8: 次の PAM プロファイルは一緒に利用することはできません:\n\n${conflicts}\n\n有効化するために違うモジュールセットを選択してください。
+Extended_description-nl.utf-8: De volgende PAM-profielen kunnen niet samen worden gebruikt:\n\n${conflicts}\n\nSelecteer een andere set modules om in te schakelen.
+Extended_description-pl.utf-8: Następujące profile PAM nie mogą być używane razem:\n\n${conflicts}\n\nProszę wybrać inny zestaw modułów do włączenia.
+Extended_description-pt.utf-8: Os seguintes perfis do PAM não podem ser usados juntamente:\n\n${conflicts}\n\nPor favor seleccione um conjunto diferente de módulos para activar.
+Extended_description-pt_br.utf-8: Os seguintes perfis PAM não podem ser usados em conjunto:\n\n${conflicts}\n\nPor favor, selecione um conjunto diferente de módulos para habilitar.
+Extended_description-ro.utf-8: Următoarele profile PAM nu pot fi folosite împreună:\n\n${conflicts}\n\nSelectați un alt set de module de activat.
+Extended_description-ru.utf-8: Следующие профили PAM нельзя использовать одновременно:\n\n${conflicts}\n\nВыберите другой набор активируемых модулей.
+Extended_description-sk.utf-8: Nasledovné profily PAM nemožno použiť súčasne:\n\n${conflicts}\n\nProsím, zmeňte množinu modulov, ktoré sa majú zapnúť.
+Extended_description-sv.utf-8: Följande PAM-profiler kan inte användas tillsammans:\n\n${conflicts}\n\nAnge en annan uppsättning med moduler som ska aktiveras.
+Extended_description-vi.utf-8: Không thể sử dụng với nhau những hồ sơ PAM theo đây:\n\n${conflicts}\n\nHãy chọn một tập hợp mô-đun khác để hiệu lực.
+Type: error
+Owners: libpam-runtime/conflicts
+
+Name: libpam-runtime/no_profiles_chosen
+Description: No PAM profiles have been selected.
+Description-bg.utf-8: Не са избрани PAM профили.
+Description-ca.utf-8: No heu seleccionat cap perfil PAM.
+Description-cs.utf-8: Nebyly vybrány žádné PAM profily.
+Description-da.utf-8: Ingen PAM-profiler er blevet valgt.
+Description-de.utf-8: Es wurden keine PAM-Profile ausgewählt.
+Description-es.utf-8: No ha seleccionado ningún perfil PAM.
+Description-fi.utf-8: Yhtään PAM-profiilia ei ole valittu.
+Description-fr.utf-8: Aucun profil PAM n'a été choisi.
+Description-gl.utf-8: Non se escolleu ningún perfil PAM.
+Description-it.utf-8: Non è stato selezionato alcun profilo PAM.
+Description-ja.utf-8: PAM プロファイルが何も選択されていません。
+Description-nl.utf-8: Er zijn geen PAM-profielen geselecteerd.
+Description-pl.utf-8: Nie wybrano żadnych profili PAM.
+Description-pt.utf-8: Nenhum perfil do PAM foi seleccionado.
+Description-pt_br.utf-8: Nenhum perfil PAM foi selecionado.
+Description-ru.utf-8: Профили PAM не выбраны.
+Description-sk.utf-8: Neboli vybrané žiadne profily PAM.
+Description-sv.utf-8: Inga PAM-profiler valdes.
+Description-vi.utf-8: Chưa chọn hồ sơ PAM.
+Extended_description: No PAM profiles have been selected for use on this system.  This would grant all users access without authenticating, and is not allowed.  Please select at least one PAM profile from the available list.
+Extended_description-bg.utf-8: Няма избрани PAM профили. Това ще разреши достъпа на всички потребители без удостоверяване на самоличността и не е позволено. Изберете поне един профил от списъка.
+Extended_description-ca.utf-8: No heu seleccionat cap perfil de PAM per a aquest sistema. Així és possible que qualsevol usuari accedeixi sense autenticació, la qual cosa no és permesa. Heu de seleccionar almenys un perfil de PAM de la llista.
+Extended_description-cs.utf-8: Pro tento systém nebyly vybrány žádné PAM profily, což znamená, že všem uživatelům umožňujete přístup bez autentizace. To není dovoleno. Vyberte prosím ze seznamu alespoň jeden PAM profil.
+Extended_description-da.utf-8: Ingen PAM-profiler er blevet valgt til brug på dette system. Dette vil tildele alle brugere adgang uden godkendelse, og er ikke tilladt. Vælg venligst mindst en PAM-profil fra den tilgængelige liste.
+Extended_description-de.utf-8: Es wurden keine PAM-Profile für die Verwendung auf diesem System ausgewählt. Dies würde allen Benutzern Zugang ohne Authentifizierung gestatten und ist nicht erlaubt. Bitte wählen Sie mindestens ein PAM-Profil aus der verfügbaren Liste aus.
+Extended_description-es.utf-8: No ha seleccionado ningún perfil de PAM para este sistema. Esto podría permitir que cualquier usuario accediera sin autenticación, lo que no está permitido. Debe seleccionar al menos un perfil de PAM de la lista.
+Extended_description-fi.utf-8: Yhtään PAM-profiilia ei ole valittu käytettäväksi tässä järjestelmässä. Tämä sallisi kaikille käyttäjille pääsyn ilman tunnistautumista, eikä siksi ole sallittua. Valitse ainakin yksi PAM-profiili annetulta listalta.
+Extended_description-fr.utf-8: Aucun profil PAM n'a été mis en place pour ce système. N'en utiliser aucun donnerait à tous les utilisateurs un accès sans au

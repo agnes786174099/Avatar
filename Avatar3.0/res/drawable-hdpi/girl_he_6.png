@@ -1,0 +1,110 @@
+8: Esiasetuksiin tarvittavaa tiedostoa ei voitu noutaa taltiolta ${LOCATION}. Asennus jatkuu ilman automaatiota.
+Extended_description-fr.utf-8: Le fichier nécessaire à la préconfiguration n'a pas pu être téléchargé à l'adresse ${LOCATION}. L'installation va se dérouler sans automatisation.
+Extended_description-ga.utf-8: Níorbh fhéidir an comhad a theastaíonn le haghaidh réamhchumraíochta a fháil ó ${LOCATION}.  Leanfar an tsuiteáil ar aghaidh sa mhód neamh-uathoibríoch.
+Extended_description-gl.utf-8: Non foi posíbel obter de ${LOCATION} o ficheiro necesario para a preconfiguración. A instalación ha continuar en modo non automático.
+Extended_description-gu.utf-8: પૂર્વરૂપરેખાંકન માટે જરૂરી ફાઇલ ${LOCATION} માંથી મેળવી શકાતી નથી. સ્થાપન હવે આપમેળે ન થઇ શકે તેવી સ્થિતીમાં આવી જશે.
+Extended_description-he.utf-8: הקובץ הנדרש בשביל הגדרות מוקדמות לא ניתן להורדה מ-${LOCATION}. תהליך ההתקנה יימשך במצב לא אוטומטי.
+Extended_description-hi.utf-8: प्रीकॉन्फिगरेशन के लिए आवश्यक फाईल को ${LOCATION} से प्राप्त नहीं किया जा सका. संस्थापन गैर-स्वचालित ढंग से जारी रहेगा.
+Extended_description-hr.utf-8: Datoteku koja je potrebna za prepostavljanje nije moguće dobaviti s ${LOCATION}. Instalacija će se nastaviti u ne-automatskom načinu.
+Extended_description-hu.utf-8: Az előkonfigurációhoz szükséges fájlt nem tudtam letölteni innen: ${LOCATION}. A telepítés nem-automata módban megy tovább.
+Extended_description-id.utf-8: Berkas yang diperlukan untuk prakonfigurasi tidak dapat diambil dari ${LOCATION}. Instalasi ini akan dilanjutkan dalam moda non otomatis.
+Extended_description-is.utf-8: Ekki var hægt að sækja skrá nauðsynlega fyrir forstillinguna á ${LOCATION}. Uppsetningin mun halda áfram í ósjálfvirkri stillingu.
+Extended_description-it.utf-8: Non è stato possibile scaricare il file di preconfigurazione da ${LOCATION}. L'installazione proseguirà in modalità non-automatica.
+Extended_description-ja.utf-8: 事前設定に必要となるファイルを ${LOCATION} から取得できませんでした。インストールは非自動モードで処理されます。
+Extended_description-ka.utf-8: წინასწარი კონფიგურაციის ფაილის მიღება ${LOCATION}-დან ვერ განხორციელდა . ინსტალაცია გაგრძელდება არაავტომატურ რეჟიმში.
+Extended_description-kk.utf-8: Алдын ала баптау файлын ${LOCATION} орналасуынан алу мүмкін болмады. Орнату автоматтық емес режімде жалғастырылады.
+Extended_description-km.utf-8: មិន​អាច​ទៅ​យក​ឯកសារ​ដែល​ការ​កំណត់​រចនាសម្ព័ន្ធ​ស្រេច​ត្រូវការ​បាន​ឡើយ​ពី ${LOCATION} ។ ការ​ដំឡើង​នឹង​បន្ត​ក្នុង​របៀប​មិន​ស្វ័យប្រវត្តិ ។
+Extended_description-kn.utf-8: ಪೂರ್ವಸಂಯೋಜನೆಗೆ ಬೇಕಾದ ಕಡತವನ್ನು ${LOCATION}ನಿಂದ ಹಿಂಪಡೆಯಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಅನುಸ್ಥಾಪನೆಯು ಸ್ವಯಂಚಾಲಿತವಲ್ಲದ ವಿಧಾನದಲ್ಲಿ ಮುಂದುವರೆಯುವುದು.
+Extended_description-ko.utf-8: 미리 설정에 필요한 파일을 ${LOCATION}에서 다운로드할 수 없습니다. 자동이 아닌 모드로 설치를 진행합니다.
+Extended_description-ku.utf-8: Pela pêwist ya ji bo pêşveavakirinê ji ser ${LOCATION} nehate standin. Sazkirin wê li ser moda nebixweber bidome.
+Extended_description-lo.utf-8: ບໍ່ສາມາດດຶງແຟັມທີ່ຕອ້ງໃຊ້ເພື່ອການຕັ້ງຄ່າລວ່ງໜ້າຈາກ ${LOCATION} ໄດ້ ການຕິດຕັ້ງຈະດຳເນີນຕໍ່ໄປໃນແບບບໍ່ເປັນອັດຕະໂນມັດ
+Extended_description-lt.utf-8: Failas reikalingas išankstinei konfigūracijai negali būti paimtas iš ${LOCATION}. Įdiegimas bus tęsiamas ne automatiniu režimu.
+Extended_description-lv.utf-8: Failu, kas nepieciešams prekonfigurācijai, nevarēja iegūt no ${LOCATION}. Instalēšana turpināsies neautomātiskajā režīmā.
+Extended_description-mk.utf-8: Датотеката потребна за предконфигурација не можеше да биде преземена од ${LOCATION}. Инсталацијата ќе продолжи во неавтоамтски режим.
+Extended_description-ml.utf-8: ${LOCATION} ല്‍ നിന്നും മുന്‍ ക്രമീകരണത്തിനാവശ്യമായ ഫയല്‍ വീണ്ടെടുക്കാന്‍ സാധിച്ചില്ല. ഓട്ടോമേറ്റഡല്ലാത്ത മോഡില്‍ ഇന്‍സ്റ്റലേഷന്‍ പ്രക്രിയ മുന്നോട്ട് നീങ്ങും.
+Extended_description-mr.utf-8: ${LOCATION} पासून पूर्वसंरचना फाईल प्राप्त झाली नाही. आता अधिष्ठापना अ-स्वयंचलीत पद्धतीने चालू राहील.
+Extended_description-nb.utf-8: Den fila som trengs for forhåndsoppsettet kunne ikke lastes ned fra ${LOCATION}. Installasjonen vil fortsette med manuelle valg.
+Extended_description-ne.utf-8: पूर्व कन्फिगरेशनका लागि आवश्यक फाइल ${LOCATION} बाट पुन: प्राप्त गर्न सक्दैन । स्थापना स्वचालित नगरिएको मोडमा प्रक्रिया हुनेछ ।
+Extended_description-nl.utf-8: Het bestand dat nodig is voor de voorconfiguratie kon niet worden opgehaald van ${LOCATION}. De installatie zal niet-geautomatiseerd worden vervolgd.
+Extended_description-nn.utf-8: Fila som trengst for førehandsoppsettet kunne ikkje bli lasta ned frå ${LOCATION}. Installasjonen vil halde fram i ikkje-automatisk modus.
+Extended_description-no.utf-8: Den fila som trengs for forhåndsoppsettet kunne ikke lastes ned fra ${LOCATION}. Installasjonen vil fortsette med manuelle valg.
+Extended_description-pa.utf-8: ਪਹਿਲਾ-ਸੰਰਚਨਾ ਲਈ ਲੋੜੀਂਦੀ ਫਾਇਲ ${LOCATION} ਤੋਂ ਮੁੜ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਿਆ। ਇੰਸਟਾਲੇਸ਼ਨ ਬਿਨਾਂ-ਆਟੋਮੈਟਿਕ ਵਿਧੀ ਤੋਂ ਜਾਰੀ ਹੋਵੇਗੀ।
+Extended_description-pl.utf-8: Plik potrzebny do wstępnej konfiguracji nie mógł być pobrany z ${LOCATION}. Instalacja będzie kontynuowana w trybie nieautomatycznym.
+Extended_description-pt.utf-8: O ficheiro necessário para a pré-configuração não pode ser obtido de ${LOCATION}. A instalação vai continuar em modo não-automático.
+Extended_description-pt_br.utf-8: O arquivo necessário para a pré-configuração não pôde ser obtido de ${LOCATION}. A instalação prosseguirá em modo não-automatizado.
+Extended_description-ro.utf-8: Nu s-a putut descărca fișierul necesar pentru anteconfigurare de la ${LOCATION}. Instalarea va continua în modul non-automat.
+Extended_description-ru.utf-8: Не удалось получить файл из ${LOCATION}, необходимый для предварительной настройки. Установка будет продолжена в не автоматическом режиме.
+Extended_description-si.utf-8: ${LOCATION} වෙතින් පෙරසැකසීම සඳහා අවශ්‍ය ගොනුව ලබාගත නොහැකි විය, ස්ථාපනය දැන් ස්වයංක්‍රීය-නොවන ප්‍රකාරයෙන් ඉදිරියට යයි.
+Extended_description-sk.utf-8: Inštalácia bude pokračovať v neautomatickom režime, pretože sa nedal stiahnuť súbor s predvoleným nastavením z ${LOCATION}.
+Extended_description-sl.utf-8: Datoteke, potrebne za prednastavitev, ni mogoče prenesti iz ${LOCATION}. Namestitev se bo nadaljevala v ne-samodejnem načinu.
+Extended_description-sq.utf-8: Skedari i duhur për parakonfigurimin nuk mundi të shkarkohej nga ${LOCATION}. Instalimi do vazhdojë në mënyrën manuale.
+Extended_description-sr.utf-8: Фајл потребан за преконфигурацију није могао бити добављен са ${LOCATION}. Инсталација ће се наставити у неаутоматизованом моду.
+Extended_description-sv.utf-8: Filen som behövs för förkonfigurering kunde inte hämtas från ${LOCATION}. Installationen kommer att fortsätta i manuellt läge.
+Extended_description-ta.utf-8: ${LOCATION} இடத்திலிருந்து முன் வடிவமைப்பு கோப்பை மீட்டுப் பெற இயலவில்லை. நிறுவல் தானியங்காத வகையில் தொடரும்.
+Extended_description-te.utf-8:  ${LOCATION}నుండి  ముందలి అమరిక (preconfiguration)ఫైల్  తెచ్చుట విఫలమైంది. స్వయంచాలకము కాని పద్ధతిలో స్థాపన కొనసాగుతుంది.
+Extended_description-th.utf-8: ไม่สามารถดึงแฟ้มที่ต้องใช้เพื่อการตั้งค่าล่วงหน้าจาก ${LOCATION} ได้ การติดตั้งจะดำเนินต่อไปในแบบไม่เป็นอัตโนมัติ
+Extended_description-tl.utf-8: Ang talaksan na kailangan para sa preconfiguration ay hindi nakuha mula sa ${LOCATION}. Magpapatuloy ang pagluklok sa hindi-awtomatiko na mode.
+Extended_description-tr.utf-8: Ön yapılandırma için gerekli dosya ${LOCATION} üzerinden alınamadı. Kurulum otomatik olmayan kipte devam edecek.
+Extended_description-ug.utf-8: ${LOCATION} دىن ئالدىن سەپلىمە ئېھتىياجلىق ھۆججەتكە ئېرىشەلمىدى. ئورنىتىش پروگراممىسى غەيرىي ئۆزلۈكىدىن ئورنىتىش ھالىتىنى ئىشلىتىدۇ.
+Extended_description-uk.utf-8: Файл, необхідний для передналаштування, не може бути завантажений з ${LOCATION}. Встановлення буде продовжене в неавтоматичному режимі.
+Extended_description-vi.utf-8: Tập tin cần thiết để cấu hình sẵn không thể được lấy từ ${LOCATION}. Vậy việc cài đặt sẽ tiếp tục trong chế độ không tự động.
+Extended_description-zh_cn.utf-8: 无法从 ${LOCATION} 获得预配置所需要的文件。安装程序将会使用非自动安装模式。
+Extended_description-zh_tw.utf-8: 無法由 ${LOCATION} 取得在預先設定時所需要的檔案。安裝程式將以非自動模式進行。
+Type: error
+Owners: preseed/retrieve_error
+
+Name: preseed/run
+Description: for internal use; can be preseeded
+Extended_description: Programs to be obtained & run
+Type: string
+Owners: preseed/run
+
+Name: preseed/url
+Description: Location of initial preconfiguration file:
+Description-ast.utf-8: Llocalización del ficheru de preconfiguración inicial:
+Description-bg.utf-8: Местоположение на файла с предварителни настройки:
+Description-bn.utf-8: প্রাথমিক প্রিকনফিগারেশন ফাইলের অবস্থান:
+Description-bs.utf-8: Lokacija inicijalnog pretkonfiguracijskog fajla:
+Description-cs.utf-8: Umístění souboru s přednastavením:
+Description-de.utf-8: Speicherort der ersten Vorkonfigurationsdatei:
+Description-dz.utf-8: འགོ་ཐོག་ སྔོན་སྒྲིག་མ་འབད་བའི་ཧེ་མའི་ ཡིག་སྣོད་ཀྱི་གན་ཁོངས།
+Description-eo.utf-8: Loko de komenca antaŭagorda dosiero:
+Description-es.utf-8: Ubicación del archivo inicial de preconfiguración:
+Description-et.utf-8: Eelseadistusfaili asukoht:
+Description-fa.utf-8: محل فایل initial preconfiguration:
+Description-fr.utf-8: Emplacement du fichier initial de préconfiguration :
+Description-gu.utf-8: શરૂઆતની પૂર્વરૂપરેખાંકન ફાઇલનું સ્થાન:
+Description-hi.utf-8: प्रथम प्रीकॉन्फिगरेशन फाइल का स्थान:
+Description-it.utf-8: Posizione del file di preconfigurazione iniziale:
+Description-ja.utf-8: 初期事前設定ファイルの場所:
+Description-ka.utf-8: საწყისი კონფიგურაციის ფაილის მდებარეობა:
+Description-kk.utf-8: Бастапқы баптаулар файлының орналасуы:
+Description-ko.utf-8: 최초의 미리 설정 파일 위치:
+Description-mr.utf-8: प्राथमिक पूर्वसंरचना फाईलचे स्थान:
+Description-nb.utf-8: Plasseringen av den initielle fila med forhåndsoppsett:
+Description-ne.utf-8: पूर्वकन्फिगरेसन फाइलको स्थान
+Description-nl.utf-8: Lokatie van het eerste voorconfiguratiebestand:
+Description-no.utf-8: Plasseringen av den initielle fila med forhåndsoppsett:
+Description-pa.utf-8: ਸ਼ੁਰੂਆਤ ਪਹਿਲਾਂ-ਸੰਰਚਿਤ ਫਾਇਲ ਦਾ ਟਿਕਾਣਾ:
+Description-pl.utf-8: Lokalizacja wstępnego pliku prekonfiguracji:
+Description-pt.utf-8: Localização do ficheiro de pré-configuração inicial:
+Description-ro.utf-8: Locația fișierului cu preconfigurații:
+Description-ru.utf-8: Расположение первичного файла для автоматической настройки:
+Description-si.utf-8: ආරම්භක පෙරසැකසුම් ගොනුව සඳහා ස්ථානය:
+Description-sk.utf-8: Umiestnenie konfiguračného súboru inštalátora:
+Description-sr.utf-8: Локација иницијалног преконфигурационог фајла:
+Description-sv.utf-8: Plats för initial förkonfigureringsfil:
+Description-ta.utf-8: ஆரம்ப முன் வடிவமைப்பு கோப்பு உள்ள இடம்:
+Description-te.utf-8: ప్రారంభపు ముందలి అమరిక ఫైలు  స్థానం:
+Description-th.utf-8: ตำแหน่งของแฟ้มค่าตั้งล่วงหน้า:
+Description-tr.utf-8: İlk önyapılandırma dosyasının yeri:
+Description-ug.utf-8: ئالدىن سەپلەنگەن ھۆججەتنىڭ دەسلەپكى ئورنى:
+Description-uk.utf-8: Місцезнаходження первинного файлу передналаштувань:
+Description-zh_cn.utf-8: 初始预配置文件位置：
+Extended_description: In order to perform an automated install, you need to supply a preconfiguration file (which can in turn pull in other files). To do that, you need to provide a (perhaps partial) URL.\n\nThis can be as simple as the machine name where your preseed files reside up to a full URL. Any of these could be made to work:\n  intra		[for example.com, these three are equivalent]\n  intra.example.com\n  http://intra.example.com/d-i/./lenny/preseed.cfg\n  http://192.168.0.1/~phil/test47.txt\n  floppy://preseed.cfg\n  file:///hd-media/kiosk/./preseed.cfg\n\n\nFor fully automated installs, preseed/url should itself be preseeded (via kernel command line, DHCP, or syslinux.cfg on customised media)\n\nSee http://wiki.debian.org/DebianInstaller/Preseed for inspiration.
+Extended_description-ast.utf-8: N'orde a facer una instalación automática, necesites ufrir un ficheru de preconfiguración (col que puedas activar otros ficheros). Pa ello, necesites ufrir una URL (quiciabés parcial).\n\nEsto puede ser un nome de máquina simple onde residan los tos ficheros a URL completa. Cualesquiera d'ellos puede facer el trabayu:\n  intra		[por exemplu, estos tres son equivalentes]\n  intra.example.com\n  http://intra.example.com/d-i/./lenny/preseed.cfg\n  http://192.168.0.1/~phil/test47.txt\n  floppy://preseed.cfg\n  file:///hd-media/kiosk/./preseed.cfg\n\n\nPa una instalación totalmente automática, preséu/url debe ser un preséu (vía llínia de comandu al kernel, DHCP, o syslinux.cfg nun preséu configurable)\n\nMira http://wiki.debian.org/DebianInstaller/Preseed pa idegues.
+Extended_description-bg.utf-8: За извършване на автоматична инсталация е необходимо предоставянето на файл с предварителни настройки (който може да съдържа препратки към други файлове). За целта е необходимо да предоставите (вероятно частичен) адрес на файла.\n\nСтойността може да е просто име на машината, на която се съхраняват файловете с настройки, а може и да е пълен адрес. Например:\n  intra		[тези три примера са еквивалентни за example.com]\n  intra.example.com\n  http://intra.example.com/d-i/.lenny/preseed.cfg\n  http://192.168.0.1/~phil/test47.txt\n  floppy://preseed.cfg\n  file:///hd-media/kiosk/./preseed.cfg\n\n\nЗа изцяло автоматично инсталиране е необходимо указването на адреса на файла с предварителни настройки (на командния ред на ядрото, чрез DHCP или файла syslinux.cfg на специализиран носител)\n\nДопълнителна информация има на страницата http://wiki.debian.org/DebianInstaller/Preseed .
+Extended_description-bn.utf-8: স্বয়ংক্রিয় ইনস্টল চালাতে হলে, আপনাকে একটি প্রিকনফিগারেশন ফাইল দিতে হবে (যা অন্য ফাইলকে পুল করতে পারবে)। এটি করতে, আপনাকে একটি (সম্ভবত অংশিক) URL দিতে হবে।\n\nএটি কোনো URL এ মেশিনের নাম দেখার মতই সহজ। যেকোন একটি কাজে আসতে পারে:\n  intra		[for example.com, these three are equivalent]\n  intra.example.com\n  http://intra.example.com/d-i/./lenny/preseed.cfg\n  http://192.168.0.1/~phil/test47.txt\n  floppy://preseed.cfg\n  file:///hd-media/kiosk/./preseed.cfg\n\n\nসম্পূর্ণ স্বয়ংক্রিয় ইনস্টলের জন্য, preseed/url স্বয়ংক্রিয় ভাবে কাজ করে (কার্নেল কমান্ড লাইন, DHCP, বা স্বনির্ধারিত মিডিয়া syslinux.cfg ইত্যাদিতে কাজ করে)\n\nদেখুন http://wiki.debian.org/DebianInstaller/Preseed for inspiration.
+Extended_description-bs.utf-8: Da biste izvršili automatizovanu instalaciju, morate imate pretkonfiguracijski fajl (koji može povući druge fajlove). Da biste uradili to, morate unijeti (moguće skraćeni) URL.\n\nOvo može biti jednostavno poput naziva mašine gdje se nalaze pripremljene datoteke ili popun URL. Bilo koje od sljedećeg može raditi:\n  intra		[za example.com, ova tri su ista]\n  intra.example.com\n  http://intra.example.com/d-i/./lenny/preseed.cfg\n  http://192.168.0.1/~phil/test47.txt\n  floppy://preseed.cfg\n  file:///hd-media/kiosk/./preseed.cfg\n\n\nZa potpuno automatizovane instalacije, datoteke/url trebaju biti pripremljni (putem kernel komandne linije, DHCP ili syslinux.cfg na modifikovanom mediju)\n\nPogledajte http://wiki.debian.org/DebianInstaller/Preseed za ideje.
+Extended_description-cs.utf-8: Abyste mohli spustit automatizovanou instalaci, musíte zadat soubor s přednastavením (který si pak může dotáhnout další soubory se zbytkem přednastavení). Zadejte prosím (částečné) URL k tomuto souboru.\n\nURL může představovat cokoliv od prostého jména počítače, na kterém jsou soubory s přednastavením, až po kompletní adresu. Podle nastavení může fungovat cokoliv z následujícího:\n  intra		[pro example.com jsou tyto tři řádky ekvivalentní]\n  intra.example.com\n  http://intra.example.com/d-i/./lenny/preseed.cfg\n  http://192.168.0.1/~phil/test47.txt\n  floppy://preseed.cfg\n  file:///hd-media/kiosk/./preseed.cfg\n\n\nPro zcela automatizované instalace by mělo být přednastaveno i samotné preseed/url, například přes parametr jádra, DHCP nebo syslinux.cfg na upravených médiích.\n\nViz příklad na http://wiki.debian.org/DebianInstaller/Preseed.
+Extended_description-de.utf-8: Um eine automatisierte Installation durchzuführen, müssen Sie eine Vorkonfigurationsdatei bereitstellen (die dann wiederum weitere Dateien integrieren kann). Dazu müssen Sie eine (nicht zwingend vollständige) URL angeben.\n\nDies kann einfach nur der Rechnername sein, auf dem Ihre Vorkonfigurationsdatei liegt, oder eine vollständige URL. Jede der folgenden Varianten könnte funk

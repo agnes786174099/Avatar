@@ -1,0 +1,57 @@
+legamento; il file /etc/resolv.conf esistente viene preservato come /etc/resolvconf/resolv.conf.d/original e verrà ripristinato alla rimozione di questo pacchetto.\n\nIl rifiuto di questa opzione impedisce alle prossime installazioni di ricreare il collegamento simbolico e quindi la configurazione della risoluzione dei nomi non verrà aggiornata dinamicamente. L'aggiornamento dinamico può essere attivato seguendo le istruzioni nel file README.\n\nLa presenza di resolvconf può influenzare il funzionamento di altri programmi, quindi non deve essere lasciato non configurato.
+Extended_description-ja.utf-8: resolvconf パッケージは、リゾルバ設定ファイルの動的更新に必要とされる仕組みを含んでいます。必要となる仕組みの一つは /etc/resolv.conf から /run/resolvconf/resolv.conf へのシンボリックリンクです。このオプションを選ぶとこのリンクが作成されます。すでにある /etc/resolv.conf ファイルは /etc/resolvconf/resolv.conf.d/original として保存されます (このファイルは、パッケージが削除される際に元に戻されます)。\n\nこのオプションの利用を断ると、今後のインストール時にシンボリックリンクの再生成を行わないようになります。そのため、リゾルバの設定ファイルは動的に更新されなくなります。そのような場合、動的更新を可能にするには README ファイルにある指示に従ってください。\n\nresolvconf の存在によって他のプログラムの動作に影響が与える可能性があるので、インストールしたのにも関わらず未設定のままにはしていけません。
+Extended_description-nl.utf-8: Het resolvconf-pakket bevat de infrastructuur om automatisch bijwerken van het resolver-configuratiebestand mogelijk te maken. Een gedeelte van de noodzakelijke infrastructuur is een symbolische koppeling van /etc/resolv.conf naar /run/resolvconf/resolv.conf. Als u deze optie accepteert zal deze koppeling gemaakt worden; het bestaande /etc/resolv.conf-bestand zal worden bewaard als /etc/resolvconf/resolv.conf.d/original en zal worden teruggeplaatst als het pakket wordt verwijderd.\n\nHet weigeren van deze optie voorkomt dat toekomstige installaties de symbolische koppeling terug aanmaken; bijgevolg zal het resolver-configuratiebestand niet dynamisch worden bijgewerkt. Dynamisch bijwerken kan alsnog worden geactiveerd door de instructies in de README te volgen.\n\nDe aanwezigheid van resolvconf kan het gedrag van andere programma's beïnvloeden. Het is dus af te raden om dit pakket ongeconfigureerd, maar wel geïnstalleerd te laten.
+Extended_description-pt.utf-8: O pacote resolvconf contém a infraestrutura requerida para actualizar dinamicamente o ficheiro de configuração do resolver. Parte da infraestrutura necessária é uma ligação simbólica de /etc/resolv.conf para /run/resolvconf/resolv.conf. Se concordar, esta ligação será criada. O ficheiro /etc/resolv.conf existente será mantido como /etc/resolvconf/resolv.conf.d/original; será reposto se este pacote for removido.\n\nNão aceitar esta opção irá prevenir futuras instalações de recriar a ligação simbólica e portanto o ficheiro de configuração do resolver não será dinamicamente actualizado. A actualização dinâmica pode então ser activada seguindo as instruções do ficheiro README.\n\nA presença do resolvconf pode afectar o comportamento de outros programas, por isso não deve ser deixado instalado se não-configurado.
+Extended_description-ru.utf-8: Пакет resolvconf содержит инфраструктуру для динамического обновления файла настройки определителя имён. Одной из необходимых частей инфраструктуры является символическая ссылка /etc/resolv.conf на /run/resolvconf/resolv.conf. Если вы ответите утвердительно, то такая ссылка будет создана. Существующий файл /etc/resolv.conf будет сохранён под именем /etc/resolvconf/resolv.conf.d/original, и будет восстановлен при удалении пакета.\n\nВ случае отрицательного ответа символическая ссылка не будет создана при будущих установках и следовательно файл настройки определителя имён не будет динамически обновляться. Чтобы включить динамическое обновление, можно настроить resolvconf вручную следуя простым инструкциям из файла README.\n\nПрисутствие в системе ненастроенного пакета resolvconf может повлиять на другие программы, поэтому лучше его удалить.
+Extended_description-sv.utf-8: Detta paket innehåller infrastrukturen som krävs för dynamiska uppdateringar av filen för uppslagskonfigurationen. En del av den nödvändiga infrastrukturen är en symbolisk länk från /etc/resolv.conf till /run/resolvconf/resolv.conf. Om du godkänner kommer denna länk att skapas. Den existerande filen /etc/resolv.conf kommer att behållas som /etc/resolvconf/resolv.conf.d/original; den kommer att återställas om detta paket tas bort.\n\nNegativt svar vid detta alternativ kommer att förhindra framtida installationer från att skapa symboliska länkar och därmed kan inte inställningsfilen uppdateras dynamiskt. Dynamiska uppdateringar kan återaktiveras genom att följa instruktionen i README-filen.\n\nNärvaron av resolvconf kan påverka hur andra program uppträder så programmet ska inte finnas installerat utan att vara konfigurerat.
+Extended_description-vi.utf-8: Gói resolveconf chứa cơ sở hạ tầng cần thiết để cập nhật động tập tin cấu hình của phần mềm giải quyết. Một phần của cơ sở hạ tầng cần thiết là một liên kết tượng trưng từ « /etc/resolv.conf » đến « /run/resolvconf/resolv.conf ». Bật tùy chọn này thì liên kết này sẽ được tạo; tập tin « /etc/resolv.conf » đã tồn tại sẽ được bảo tồn dưới dạng « /etc/resolvconf/resolv.conf.d/original » và sẽ cũng được phục hồi nếu gói này bị gỡ bỏ.\n\nTắt tùy chọn này thì ngăn cản bản cài đặt tương lại tạo liên kết tượng trưng, do đó tập tin cấu hình phần mềm giải quyết sẽ không được cập nhật động. Tuy nhiên, vẫn còn có thể kích hoạt chức năng cập nhật đông tùy theo hướng dẫn trong tập tin Đọc Đi (README).\n\nSự có mặt của resolvconf có thể ảnh hưởng đến ứng xử của các chương trình khác, vì vậy bạn không nên để lại bản cài đặt của nó nếu nó chưa được cấu hình.
+Type: boolean
+Owners: resolvconf/linkify-resolvconf
+
+Name: resolvconf/reboot-recommended-after-removal
+Description: Reboot recommended
+Description-cs.utf-8: Doporučuje se restartovat systém
+Description-da.utf-8: Genstart anbefales
+Description-de.utf-8: Systemneustart empfohlen
+Description-es.utf-8: Se recomienda reiniciar
+Description-eu.utf-8: Berrabiaraztea gomendatzen da
+Description-fr.utf-8: Redémarrage recommandé
+Description-it.utf-8: Riavvio consigliato
+Description-nl.utf-8: Herstart aanbevolen
+Description-pt.utf-8: Re-início do sistema recomendado
+Description-ru.utf-8: Рекомендуется перезагрузка
+Description-sv.utf-8: Omstart rekomenderas
+Extended_description: The removal of the resolvconf package may have resulted in some information about name servers becoming unavailable. To correct this problem it is recommended that the system be rebooted.
+Extended_description-cs.utf-8: Odstranění balíku resolvconf může způsobit, že některé informace o jmenných serverech nebudou dostupné. Pro nápravu tohoto problému se doporučuje restartovat systém.
+Extended_description-da.utf-8: Fjernelsen af pakken resolvconf kan have medført, at information om navneservere er blevet utilgængelig. For at rette dette problem anbefales det, at systemet genstartes.
+Extended_description-de.utf-8: Die Entfernung des Pakets resolvconf könnte dazu geführt haben, dass einige Informationen über Name-Server nicht mehr verfügbar sind. Um dieses Problem zu beheben, wird ein Neustart des Systems empfohlen.
+Extended_description-es.utf-8: Es posible que la eliminación del paquete resolvconf haya tenido como resultado la pérdida de alguna información sobre los servidores de nombres. Se recomienda reiniciar el sistema para corregir este problema.
+Extended_description-eu.utf-8: resolvconf paketea kentzeak izen-zerbitzariei buruzko informazio batzuk eskuragarri ez egotea eragin dezake. Arazo hau konpontzeko, sistema berrabiaraztea gomendatzen da.
+Extended_description-fr.utf-8: La suppression du paquet resolvconf peut avoir eu comme conséquence l'indisponibilité d'informations sur les serveurs de noms. Pour corriger ce problème, il est recommandé de redémarrer le système.
+Extended_description-it.utf-8: La rimozione del pacchetto resolvconf potrebbe aver reso indisponibili alcune informazioni sui name server. Per correggere questo problema si consiglia un riavvio del sistema.
+Extended_description-nl.utf-8: Door het verwijderen van het resolvconf-pakket is sommige informatie over naamservers mogelijk niet meer beschikbaar. Om dit probleem op te lossen wordt een herstart aanbevolen.
+Extended_description-pt.utf-8: A remoção do pacote resolvconf pode ter resultado na indisponibilidade de alguma informação acerca de servidores de nomes. Para corrigir este problema é recomendável que o sistema seja reiniciado.
+Extended_description-ru.utf-8: Удаление пакета resolvconf может привести потере информации о серверах имён. Для устранения проблемы перезагрузите систему.
+Extended_description-sv.utf-8: När paketet resolvconf togs bort kan information om namnserverar ha gått förlorad. För att korrigera detta problem bör systemet startas om.
+Type: note
+Owners: resolvconf/reboot-recommended-after-removal
+
+Name: samba-common/dhcp
+Default: false
+Description: Modify smb.conf to use WINS settings from DHCP?
+Description-ar.utf-8: تغيير smb.conf لاستعمال إعدادات WINS عبر DHCP
+Description-ast.utf-8: ¿Camudar smb.conf pa usar configuraciones WINS dende DHCP?
+Description-be.utf-8: Змяніць файл наладак smb.conf такім чынам, каб ужываліся наладкі WINS, атрыманыя ад DHCP?
+Description-bg.utf-8: Да се промени ли smb.conf да взима настройките за WINS от DHCP?
+Description-bn.utf-8: DHCP থেকে WINS সেটিং ব্যবহারের জন্য smb.conf সম্পাদনা করা হবে?
+Description-bs.utf-8: Izmijeniti smb.conf za korištenje WINS postavki od DHCP-a?
+Description-ca.utf-8: Voleu modificar el smb.conf perquè utilitzi els paràmetres del WINS del DHCP?
+Description-cs.utf-8: Upravit smb.conf, aby používal WINS nastavení z DHCP?
+Description-da.utf-8: Ret smb.conf, så den benytter WINS-indstillinger fra DHCP?
+Description-de.utf-8: Soll smb.conf so abgeändert werden, dass per DHCP angebotene WINS-Einstellungen verwendet werden?
+Description-dz.utf-8: ཌི་ཨེཅ་སི་པི་ནང་ལས་ ཌབ་ལུ་ཨའི་ཨེན་ཨེསི་སྒྲིག་སྟངས་ཚུ་ལག་ལེན་འདབ་ནི་ལུ་ smb.conf ལེགས་བཅོས་འབད་ནི་ཨིན་ན་?
+Description-el.utf-8: Τροποποίηση του smb.conf ώστε να χρησιμοποιεί τις ρυθμίσεις WINS από τον server DHCP;
+Description-eo.utf-8: Ĉu modifi la dosieron smb.conf por uzi la agordojn WINS el DHCP?
+Description-es.utf-8: ¿Desea modificar «smb.conf» para usar la configuración WINS que proviene de DHCP?
+Description-et.utf-8: Muuta smb.conf, et kasutataks DHCP WINS seadeid?
+Description-eu.utf-8: smb.conf WINS e

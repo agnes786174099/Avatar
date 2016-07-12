@@ -1,0 +1,24 @@
+t*la*Lao
+ro*variant*la**Lao
+ro*variant*la*stea*Lao - Lao (STEA proposed standard layout)
+ro*layout*pk*Urdu (Pakistan)
+ro*variant*pk**Urdu (Pakistan)
+ro*variant*pk*urd-nla*Urdu (Pakistan) - Urdu (Pakistan, NLA)
+ro*variant*pk*ara*Urdu (Pakistan) - Arabic (Pakistan)
+ro*variant*pk*urd-crulp*Urdu (Pakistan) - Urdu (Pakistan, CRULP)
+ro*variant*pk*snd*Urdu (Pakistan) - Sindhi
+ro*layout*lv*Latvian
+ro*variant*lv**Latvian
+ro*variant*lv*adapted*Latvian - Latvian (adapted)
+ro*variant*lv*tilde*Latvian - Latvian (tilde variant)
+ro*variant*lv*ergonomic*Latvian - Latvian (ergonomic, ŪGJRMV)
+ro*variant*lv*fkey*Latvian - Latvian (F variant)
+ro*variant*lv*modern*Latvian - Latvian (modern)
+ro*variant*lv*apostrophe*Latvian - Latvian (apostrophe variant)
+ro*layout*fo*Faroese
+ro*variant*fo**Faroese
+ro*variant*fo*nodeadkeys*Faroese - Faroese (eliminate dead keys)
+ro*layout*ru*Rusă
+ro*variant*ru**Rusă
+ro*variant*ru*typewriter-legacy*Rusă - Russian (typewriter, legacy)
+ro*variant*ru*phonetic_winkeys*Rusă 

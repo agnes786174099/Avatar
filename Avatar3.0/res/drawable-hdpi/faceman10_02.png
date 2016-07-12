@@ -1,0 +1,83 @@
+_description-ru.utf-8: Возникла проблема при копировании файлов на жёсткий диск:\n\n${ERROR}\n\nЭто часто происходит по причине повреждённого CD/DVD диска или дисковода. Может помочь чистка CD/DVD, запись CD/DVD диска на меньшей скорости или чистка оптический линзы CD/DVD дисковода (чистящие наборы обычно имеются в продаже поставщиков электроники).
+Extended_description-si.utf-8: ස්ථාපකයට ගොනු දෘඩ තැටියට පිටපත් කිරීමේ දෝෂයක් ඇතිවිය:\n\n${ERROR}\n\nමෙය බොහෝ විට දෝශ සහගත CD/DVD තැටියක් හෝ ධාවකයක් නිසා සිදුවේ. CD/DVD පිරිසිදු කිරීම, CD/DVD අඩු වේගයකින් දහනය, CD/DVD ධාවකයේ කාච පිරිසිදු කිරීම සහායක් විය හැක (විද්‍යුත් උපකරණ සපයන්නන් සතුව පිරිසිදුකිරීමේ කට්ටල පවතී)
+Extended_description-sk.utf-8: Inštalátor narazil na chybu pri kopírovaní súborov na pevný disk:\n\n${ERROR}\n\nPríčinou tejto chyby býva často vadný CD/DVD disk alebo mechanika. Očistením CD/DVD disku, vypálením obsahu CD/DVD na nižšej rýchlosti, prípadne vyčistením optiky CD/DVD mechaniky sa môžete takejto chybe s veľkou pravdepodobnosťou vyvarovať (čistiace sady často nájdete v predajniach elektroniky).
+Extended_description-sl.utf-8: Med kopiranjem datotek na trdi disk je prišlo do napake:\n\n${ERROR}\n\nPonavadi do tega pride zaradi okvare diska ali enote CD/DVD. Morda bo pomagalo, če očistite CD/DVD, ponovno zapišete CD/DVD pri nižji hitrosti ali očistite lečo v enoti CD/DVD (čistilni paketi so pogosto na voljo pri prodajalcih elektronike).
+Extended_description-sq.utf-8: Instaluesi hasi në një gabim duke kopjuar skedarët në Hard Disk:\n\n${ERROR}\n\nKjo i dedikohet një disku CD/DVD të dëmtuar. Provoni ta pastroni CD/DVD, ta digjni CD/DVD me një shpejtësi më të vogël, apo të pastroni lenten e pajisjes CD/DVD (mjete pastruese gjenden shpesh në dyqanet elektronike).
+Extended_description-sr.utf-8: Инсталер је наишао на грешку приликом умножавања датотека на чврсти диск:\n\n${ERROR}\n\nОво се најчешће дешава услед грешке на оптичком (ЦД/ДВД) или чврстом диску. Могло би да помогне чишћење ЦД/ДВД диска, резање ЦД/ДВД диска споријом брзином или чишћење сочива ЦД/ДВД уређаја (комплети за чишћење се најчешће могу наћи у продавницама рачунарске опреме).
+Extended_description-sv.utf-8: Installationsprogrammet påträffade ett fel vid kopiering av filer till hårddisken:\n\n${ERROR}\n\nDetta händer ofta på grund av en trasig cd/dvd-skiva eller enhet. Det kan hjälpa att göra rent skivan, bränna skivan med en lägre hastighet eller att göra rent linsen i cd/dvd-enheten (rengöringspaket finns ofta tillgängliga hos elektronikleverantörer).
+Extended_description-te.utf-8: హార్డ్‍ డిస్క్‍కు ఫైళ్ళను నకలుతీసేటపుడు స్థాపకం ఒక దోషాన్ని ఎదుర్కొన్నది:\n\n${ERROR}\n\nసాధారణంగా చెడిపోయిన CD/DVD డిస్కు లేదా డ్రైవ్ వల్లే ఇలా అవుతుంది. ఇది CD/DVD లను శుభ్రంచేయుటకు సహాయపడవచ్చు, CD/DVD ని తక్కువ వేగం వద్ద బర్న్ చేయడం, లేదా CD/DVD డ్రైవ్ అద్దాన్ని శుభ్రంచేయటానికి(శుభ్రపరిచే సామాగ్రి సాధారణంగా ఎలక్ట్రానిక్స్ సరఫరాదారుల వద్ద లభిస్తాయి).
+Extended_description-th.utf-8: โปรแกรมติดตั้งเกิดข้อผิดพลาด ไม่สามารถคัดลอกแฟ้มลงฮาร์ดดิสก์ได้:\n\n${ERROR}\n\nปัญหานี้ส่วนใหญ่เกิดมาจากแผ่นซีดี/ดีวีดีหรือไดรว์เสีย อาจลองทำความสะอาดแผ่นซีดี/ดีวีดี เขียนแผ่นซีดี/ดีวีดีที่ความเร็วต่ำลง หรือทำความสะอาดเลนส์ของเครื่องเล่น (ชุดทำความสะอาดเลนส์หาซื้อได้จากร้านขายเครื่องไฟฟ้า)
+Extended_description-tr.utf-8: Kurulum aracı, dosyaları sabit diske kopyalarken bir hatayla karşılaştı:\n\n${ERROR}\n\nBu sorun, genellikle hatalı bir CD/DVD ya da CD/DVD sürücüsü yüzünden oluşur. CD/DVD'yi temizlemek, daha yavaş bir hızda yeniden yazdırmak ya da sürücünüzün merceğini temizlemek sorunu giderebilir (Temizleme gereçleri çoğunlukla elektronik malzemeler satan yerlerden temin edilebilir).
+Extended_description-ug.utf-8: ئورناتقۇچى ھۆججەتلەرنى قاتتىق دىسكىغا كۆچۈرگەندە خاتالىققا يولۇقتى:\n\n${ERROR}\n\nبۇ خىل قىسمەن خاتالىقلار ئادەتتە نۇقسان بار CD/DVD ياكى CD/DVD قوزغاتقۇچ سەۋەبىدىن كېلىپ چىقىدۇ. CD/DVD تازىلاڭ، CD/DVD نى تۆۋەن سۈرئەتتە ئويۇڭ ياكى CD/DVD قوزغاتقۇچنىڭ ئوقۇش بېشىنى تازىلاڭ (تازىلاش بويۇملىرى ئېلېكترون ئۇسكۈنىلىرى شىركەتلىرىدىن سېتىۋالالايسىز).
+Extended_description-uk.utf-8: Програма для встановлення виявила помилку копіювання файлів на жорсткий диск:\n\n${ERROR}\n\nТаке часто трапляється через дефект CD/DVD диска або пристрою. Може допомогти чистка CD/DVD, перезапис з меншою швидкістю або чистка оптичного приймача в CD/DVD пристрої (засоби чищення можна придбати в постачальника обладнання).
+Extended_description-vi.utf-8: Chương trình cài đặt gặp một lỗi khi chép các tập tin vào đĩa cứng:\n\n${ERROR}\n\nLỗi này thường do đĩa hoặc ổ đĩa CD/DVD bị hỏng. Hãy thử lau sạch CD/DVD, ghi CD/DVD với tốc độ chậm hơn, hoặc lau chùi mắt đọc của đầu CD/DVD (các dụng cụ lau chùi thường có bán tại các cửa hàng điện tử).
+Extended_description-zh_cn.utf-8: 安装程序向硬盘复制文件时遇到错误：\n\n${ERROR}\n\n这通常是由 CD/DVD 碟片或驱动器错误造成的。清洁光盘、使用低速刻录光盘或者清洁光驱激光头可能会解决问题 (清洁套装通常可在电子设备供应商处买到)。
+Extended_description-zh_hk.utf-8: 安裝程式在複製檔案到硬碟時遇到一個錯誤：\n\n${ERROR}\n\n多數是因為 CD/DVD 光碟或光碟機有問題。清潔一下 CD/DVD、以低速燒錄 CD/DVD，或是清潔一下 CD/DVD 光碟機的雷射針頭 (清潔用品於電器店有售) 可能解決此問題。
+Extended_description-zh_tw.utf-8: 安裝程式將檔案複製到硬碟時發生錯誤：\n\n${ERROR}\n\n多數是因為 CD/DVD 光碟或光碟機有問題。清潔一下 CD/DVD、以低速燒錄 CD/DVD，或是清潔一下 CD/DVD 光碟機的雷射針頭 (清潔用品於電器店有售) 可能解決此問題。
+Type: error
+Owners: ubiquity/install/copying_error/cd_fault
+
+Name: ubiquity/install/copying_error/cd_hd_fault
+Description: Installation Failed
+Description-ar.utf-8: فشل التثبيت
+Description-ast.utf-8: Falló la instalación
+Description-be.utf-8: Памылка інсталяцыі
+Description-bg.utf-8: Инсталацията е неуспешна
+Description-bn.utf-8: ইনস্টলেশন প্রক্রিয়া ব্যর্থ হয়েছে
+Description-bo.utf-8: སྒྲིག་འཇུག་མ་ཐུབ
+Description-bs.utf-8: Instalacija nije uspjela
+Description-ca.utf-8: Ha fallat la instal·lació
+Description-cs.utf-8: Instalace se nezdařila
+Description-da.utf-8: Installation mislykkedes
+Description-de.utf-8: Installation fehlgeschlagen
+Description-el.utf-8: Η εγκατάσταση απέτυχε
+Description-en_au.utf-8: Installation Failed
+Description-en_ca.utf-8: Installation Failed
+Description-en_gb.utf-8: Installation Failed
+Description-eo.utf-8: Instalado malsukcesis
+Description-es.utf-8: La instalación ha fallado
+Description-et.utf-8: Paigaldamine ebaõnnestus
+Description-eu.utf-8: Instalazioak huts egin du
+Description-fi.utf-8: Asennus epäonnistui
+Description-fr.utf-8: L’installation a échoué
+Description-gl.utf-8: A instalación fallou
+Description-he.utf-8: ההתקנה נכשלה
+Description-hi.utf-8: संस्थापना विफल
+Description-hr.utf-8: Instalacija nije uspjela
+Description-hu.utf-8: A telepítés meghiúsult
+Description-id.utf-8: Pemasangan Gagal
+Description-is.utf-8: Uppsetning mistókst
+Description-it.utf-8: Installazione non riuscita
+Description-ja.utf-8: インストールが失敗しました
+Description-kk.utf-8: Орнатылым сәтсіз аяқталды
+Description-km.utf-8: បាន​បរាជ័យ​ក្នុង​ការដំឡើង
+Description-ko.utf-8: 설치 실패
+Description-ku.utf-8: Sazkirin bi ser neket
+Description-lt.utf-8: Įdiegti nepavyko
+Description-lv.utf-8: Instalēšana neizdevās
+Description-nb.utf-8: Installasjonen mislyktes
+Description-nl.utf-8: Installatie mislukt
+Description-nn.utf-8: Installasjonen mislukkast
+Description-no.utf-8: Installasjonen mislyktes
+Description-pl.utf-8: Instalacja nieudana
+Description-pt.utf-8: A Instalação Falhou
+Description-pt_br.utf-8: Falha na instalação
+Description-ro.utf-8: Instalarea a eșuat
+Description-ru.utf-8: Ошибка установки
+Description-si.utf-8: ස්ථාපනය අසාර්ථකයි
+Description-sk.utf-8: Inštalácia zlyhala
+Description-sl.utf-8: Namestitev je spodletela
+Description-sq.utf-8: Instalimi Dështoi
+Description-sr.utf-8: Инсталација није успела
+Description-sv.utf-8: Installationen misslyckades
+Description-te.utf-8: స్థాపన విఫలమైనది
+Description-th.utf-8: การติดตั้งล้มเหลว
+Description-tr.utf-8: Kurulum Başarısız Oldu
+Description-ug.utf-8: ئورنىتىش مەغلۇپ بولدى
+Description-uk.utf-8: Спроба встановлення зазнала невдачі
+Description-vi.utf-8: Cài đặt không thành công
+Description-zh_cn.utf-8: 安装失败
+Description-zh_hk.utf-8: 安裝失敗
+Description-zh_tw.utf-8: 安裝失敗
+Extended_description: The installer encountered an error copying files to the hard disk:\n\n${ERROR}\n\nThis is often due to a faulty CD/DVD disk or drive, or a faulty hard disk. It may help to clean the CD/DVD, to burn the CD/DVD at a lower speed, to clean the CD/DVD drive lens (cleaning kits are often available from electronics suppliers), to check whether the hard disk is old and in need of replacement, or to move the system to a cooler environment.
+Extended_description-ar.utf-8: واجه المُثبّت خطأ أثناء نسخ الملفات للقرص الصلب:\n\n${ERROR}\n\nهذا غالبا ناتج عن خلل في القرص أو في محرك الأقراص أو عن قرص صلب معتل. يمكن حل المشكلة بتنظيف القرص، باستعمال قرص مسجل بسرعة كتابة منخفضة 

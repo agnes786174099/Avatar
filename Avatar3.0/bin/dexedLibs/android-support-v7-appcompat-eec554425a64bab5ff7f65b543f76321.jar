@@ -1,0 +1,1410 @@
+
+Template: debian-installer/console-setup-udeb/title
+Type: text
+Description: Configure the keyboard
+Description-am.UTF-8: የፊደል ገበታን አዘጋጅ
+Description-ar.UTF-8: تهيئة لوحة المفاتيح
+Description-ast.UTF-8: Configurar el tecláu
+Description-be.UTF-8: Наладзіць клавіятуру
+Description-bg.UTF-8: Настройка на клавиатурата
+Description-bn.UTF-8: কীবোর্ড কনফিগার করুন
+Description-bs.UTF-8: Podesi tastaturu
+Description-ca.UTF-8: Configura el teclat
+Description-cs.UTF-8: Nastavit klávesnici
+Description-da.UTF-8: Indstil tastaturet
+Description-de.UTF-8: Tastatur konfigurieren
+Description-el.UTF-8: Ρύθμιση του πληκτρολογίου
+Description-eo.UTF-8: Agordi la klavaron
+Description-es.UTF-8: Configure el teclado
+Description-et.UTF-8: Klaviatuuri seadistamine
+Description-eu.UTF-8: Konfiguratu teklatua
+Description-fa.UTF-8: پیکربندی صفحه کلید.
+Description-fi.UTF-8: Tee näppäimistön asetukset
+Description-fr.UTF-8: Configurer le clavier
+Description-ga.UTF-8: Cumraigh an méarchlár
+Description-gl.UTF-8: Configurar o teclado
+Description-gu.UTF-8: કીબોર્ડ રૂપરેખાંકિત કરો
+Description-hi.UTF-8: कुंजीपटल कॉन्फ़िगर करें
+Description-hr.UTF-8: Podesi tipkovnicu
+Description-hu.UTF-8: Billentyűzet beállítása
+Description-hy.UTF-8: Կարգավորել ստեղնաշարը
+Description-id.UTF-8: Mengonfigurasi keyboard
+Description-it.UTF-8: Configurare la tastiera
+Description-ja.UTF-8: キーボードの設定
+Description-kk.UTF-8: Пернетақтаны баптау
+Description-km.UTF-8: កំណត់​រចនាសម្ព័ន្ធក្ដារចុច
+Description-ko.UTF-8: 키보드 설정
+Description-ku.UTF-8: Klavyeyê saz bike
+Description-lt.UTF-8: Klaviatūros konfigūravimas
+Description-lv.UTF-8: Konfigurēt klaviatūru
+Description-mk.UTF-8: Конфигурирација на тастатурата
+Description-mr.UTF-8: कळफलक संरचित करा
+Description-nb.UTF-8: Sett opp tastaturet
+Description-nl.UTF-8: Het toetsenbord configureren
+Description-no.UTF-8: Sett opp tastaturet
+Description-pa.UTF-8: ਨੈੱਟਵਰਕ ਸੰਰਚਨਾ ਕਰੋ
+Description-pl.UTF-8: Konfiguruj klawiaturę
+Description-pt.UTF-8: Configure o teclado
+Description-pt_BR.UTF-8: Configure o teclado
+Description-ro.UTF-8: Configurarea tastaturii
+Description-ru.UTF-8: Настройка клавиатуры
+Description-sk.UTF-8: Nastavenie klávesnice
+Description-sl.UTF-8: Nastavitev tipkovnice
+Description-sr.UTF-8: Конфигуриши тастатуру
+Description-sr@latin.UTF-8: Konfiguriši tastaturu
+Description-sv.UTF-8: Konfigurera tangentbordet
+Description-ta.UTF-8: விசைப்பலகை அமைப்பை வடிவமை
+Description-th.UTF-8: ตั้งค่าผังแป้นพิมพ์
+Description-tr.UTF-8: Klavye yapılandırması
+Description-uk.UTF-8: Налаштувати клавіатуру
+Description-vi.UTF-8: Cấu hình bàn phím
+Description-zh_CN.UTF-8: 配置键盘
+Description-zh_TW.UTF-8: 設定鍵盤
+
+Template: keyboard-configuration/other
+Type: text
+Description: Other
+Description-am.UTF-8: ሌላ
+Description-ar.UTF-8: أخرى
+Description-ast.UTF-8: Otru
+Description-be.UTF-8: Іншае
+Description-bg.UTF-8: друга
+Description-bn.UTF-8: অন্যান্য
+Description-bs.UTF-8: Ostalo
+Description-ca.UTF-8: Altre
+Description-cs.UTF-8: Jiné
+Description-da.UTF-8: Andet
+Description-de.UTF-8: Andere
+Description-el.UTF-8: Άλλη
+Description-eo.UTF-8: Alia
+Description-es.UTF-8: Otro
+Description-et.UTF-8: Muu
+Description-eu.UTF-8: Bestelakoa
+Description-fa.UTF-8: سایر
+Description-fi.UTF-8: Muu
+Description-fr.UTF-8: Autre
+Description-ga.UTF-8: Eile
+Description-gl.UTF-8: Outro
+Description-gu.UTF-8: બીજું
+Description-hi.UTF-8: अन्य
+Description-hr.UTF-8: Drugo
+Description-hu.UTF-8: Egyéb
+Description-hy.UTF-8: Այլ
+Description-id.UTF-8: Lainnya
+Description-it.UTF-8: Altro
+Description-ja.UTF-8: その他
+Description-kk.UTF-8: Басқа
+Description-km.UTF-8: ផ្សេងៗ
+Description-ko.UTF-8: 기타
+Description-ku.UTF-8: Wekî din
+Description-lt.UTF-8: kita
+Description-lv.UTF-8: Cits
+Description-mk.UTF-8: Друго
+Description-mr.UTF-8: अन्य
+Description-nb.UTF-8: Annet
+Description-nl.UTF-8: Andere
+Description-no.UTF-8: Annet
+Description-pa.UTF-8: ਹੋਰ
+Description-pl.UTF-8: inne
+Description-pt.UTF-8: Outros
+Description-pt_BR.UTF-8: Outro
+Description-ro.UTF-8: Alta
+Description-ru.UTF-8: Другая
+Description-sk.UTF-8: Iné
+Description-sl.UTF-8: Drugo
+Description-sr.UTF-8: друга
+Description-sr@latin.UTF-8: druga
+Description-sv.UTF-8: Annan
+Description-ta.UTF-8: மற்றது
+Description-th.UTF-8: อื่นๆ
+Description-tr.UTF-8: Diğer
+Description-uk.UTF-8: Інша
+Description-vi.UTF-8: Khác
+Description-zh_CN.UTF-8: 其它
+Description-zh_TW.UTF-8: 其它
+
+Template: keyboard-configuration/model
+Type: select
+Choices: ${CHOICES}
+Description: Keyboard model:
+ Please select the model of the keyboard of this machine.
+Description-ar.UTF-8: طراز لوحة المفاتيح:
+ رجاء اختر نوع لوحة المفاتيح لهذا الجهاز.
+Description-ast.UTF-8: Módelu de tecláu:
+ Por favor, seleiciona'l modelu de tecláu pa esta máquina.
+Description-be.UTF-8: Мадэль клавіятуры:
+ Калі ласка, абярыце мадэль клавіятуры гэтае машыны.
+Description-bg.UTF-8: Модел на клавиатурата:
+ Изберете модела на използваната клавиатура.
+Description-bn.UTF-8: কীবোর্ড মডেল
+ অনুগ্রহপূর্বক এই মেশিনের কীবোর্ডের মডেলটি সিলেক্ট করুন।
+Description-bs.UTF-8: Model tastature:
+ Molim odaberite vrstu tastature na ovoj mašini.
+Description-ca.UTF-8: Model del teclat:
+ Seleccioneu el model del teclat de l'ordinador.
+Description-cs.UTF-8: Model klávesnice:
+ Vyberte model klávesnice tohoto počítače.
+Description-da.UTF-8: Tastaturmodel:
+ Vælg venligst tastaturmodellen for denne maskine.
+Description-de.UTF-8: Tastaturmodell:
+ Wählen Sie bitte das Modell der Tastatur dieses Rechners.
+Description-el.UTF-8: Μοντέλο Πληκτρολογίου :
+ Παρακαλώ, επιλέξτε τον τύπο του πληκτρολογίου  γι αυτό το μηχάνημα.
+Description-eo.UTF-8: Modelo de klavaro:
+ Bonvolu elekti la modelon de klavaro de tiu ĉi maŝino.
+Description-es.UTF-8: Modelo de teclado:
+ Por favor, elija el tipo de teclado que tiene este equipo.
+Description-et.UTF-8: Klaviatuuri mudel:
+ Palun vali selle arvuti klaviatuuri mudel:
+Description-eu.UTF-8: Teklatu modeloa:
+ Hautatu ordenagailu honen teklatu mota.
+Description-fa.UTF-8: نوع صفحه کلید:
+ لطفا نوع صفحه‌کلیدی را که به این سیستم متصل است، انتخاب کنید.
+Description-fi.UTF-8: Näppäimistön malli:
+ Valitse tämän koneen näppäimistön malli.
+Description-fr.UTF-8: Modèle du clavier :
+ Veuillez choisir le modèle du clavier de cette machine.
+Description-ga.UTF-8: Cineál an mhéarchláir:
+ Roghnaigh cineál mhéarchlár an ríomhaire seo.
+Description-gl.UTF-8: Modelo do teclado:
+ Escolla o tipo de teclado a configurar.
+Description-gu.UTF-8: કીબોર્ડ મોડેલ:
+ મહેરબાની કરીને આ મશીન માટે કીબોર્ડનો પ્રકાર પસંદ કરો.
+Description-hi.UTF-8: कुंजीपटल मॉडल.
+ इस यन्त्र के कुंजीपटल का प्रकार चुनें.
+Description-hr.UTF-8: Model tipkovnice:
+ Molim izaberite vrstu tipkovnice na ovom računalu.
+Description-hu.UTF-8: Billentyűzet modell
+ Kérlek, válaszd e gép billentyűzetmodelljét
+Description-id.UTF-8: Model keyboard:
+ Silahkan pilih jenis keyboard untuk mesin ini.
+Description-it.UTF-8: Modello di tastiera:
+ Selezionare il tipo di tastiera di questa macchina.
+Description-ja.UTF-8: キーボードモデル:
+ このマシンのキーボードのモデルを選択してください。
+Description-kk.UTF-8: Пернетақта моделі:
+ Бұл компьютер пернетақтасының моделін таңдаңыз.
+Description-km.UTF-8: ម៉ូដែល​ក្ដារចុច ៖
+ សូម​ជ្រើស​ប្រភេទ​ក្ដារចុចរបស់​ម៉ាស៊ីន​នេះ ។
+Description-ko.UTF-8: 키보드 모델:
+ 이 컴퓨터의 키보드 모델을 선택하십시오.
+Description-ku.UTF-8: Plana klavyeyê
+ Cureyê klavyeya ku dê were sazkirin hilbijêre.
+Description-lv.UTF-8: Klaviatūras modelis:
+ Lūdzu izvēlieties šī datora klaviatūras modeli.
+Description-mk.UTF-8: Модел на тастарура:
+ Одберете тип на тастатура на овој компјутер.
+Description-mr.UTF-8: कळफलक मॉडेल:
+ कृपया या संगणकाच्या कळफलकाचे मॉडेल निवडा.
+Description-nb.UTF-8: Tastaturtype:
+ Velg hvilken tastaturtype du vil sette opp på denne maskinen.
+Description-nl.UTF-8: Toetsenbordmodel:
+ Selecteer het type toetsenbord van dit systeem.
+Description-no.UTF-8: Tastaturtype:
+ Velg hvilken tastaturtype du vil sette opp på denne maskinen.
+Description-pa.UTF-8: ਕੀਬੋਰਡ ਮਾਡਲ:
+ ਆਪਣੇ ਕੀ-ਬੋਰਡ ਦੀ ਸੰਰਚਨਾ ਚੁਣੋ ਜੀ।
+Description-pl.UTF-8: Model klawiatury:
+ Proszę wybrać model klawiatury tej maszyny.
+Description-pt.UTF-8: Modelo de teclado:
+ Por favor escolha o modelo do teclado desta máquina.
+Description-pt_BR.UTF-8: Modelo do teclado:
+ Por favor, selecione o modelo de teclado desta máquina.
+Description-ro.UTF-8: Model de tastatură:
+ Vă rugăm să alegeți modelul de tastatură al acestui sistem.
+Description-ru.UTF-8: Модель клавиатуры:
+ Выберите модель клавиатуры этого компьютера.
+Description-sk.UTF-8: Model klávesnice:
+ Prosím, zvoľte model klávesnice tohto počítača.
+Description-sl.UTF-8: Vrsta tipkovnice:
+ Prosim izberite vrsto tipkovnice, za ta stroj.
+Description-sr.UTF-8: Модел тастатуре:
+ Изаберите тип тастатуре који одговара овој машини.
+Description-sr@latin.UTF-8: Model tastature:
+ Izaberite tip tastature koji odgovara ovoj mašini.
+Description-sv.UTF-8: Tangentbordsmodell:
+ Välj modell för tangentbordet.
+Description-ta.UTF-8: விசைப்பலகை மாடல்:
+ இந்த கணினியின் விசைப்பலகை மாடலை தேர்வு செய்க.
+Description-th.UTF-8: ชนิดของแป้นพิมพ์:
+ กรุณาเลือกชนิดของแป้นพิมพ์ของเครื่องนี้
+Description-tr.UTF-8: Klavye modeli:
+ Lütfen bu makinenin klavyesinin modelini seçin.
+Description-uk.UTF-8: Модель клавіатури:
+ Будь ласка, виберіть модель клавіатури для цього комп'ютера.
+Description-zh_CN.UTF-8: 键盘模型：
+ 请选择本机器的键盘型号。
+Description-zh_TW.UTF-8: 鍵盤型號：
+ 請選擇這台機器的鍵盤型號。
+
+Template: keyboard-configuration/layout
+Type: select
+Choices: ${CHOICES}
+Description: Country of origin for the keyboard:
+ The layout of keyboards varies per country, with some countries
+ having multiple common layouts. Please select the country of origin
+ for the keyboard of this computer.
+Description-ar.UTF-8: الدولة المصدر للوحة المفاتيح:
+ تختلف مخططات لوحة المفاتيح من دولة إلى أخرى، حيث تكون هناك مخططات عدة لبعض الدول. رجاءً اختر الدولة التي تريدها للوحة مفاتيح هذا الحاسب.
+Description-ast.UTF-8: País orixe pal tecláu:
+ La disposición de teclaos varía por país, dalgunos países tienen delles disposiciones comunes. Por favor, seleiciona'l país d'orixe pal tecláu d'esti ordenador.
+Description-be.UTF-8: Краіна паходжання клавіятуры:
+ Раскладка клавіятураў розніцца для розных краінаў, і некаторыя краіны маюць шматлікія агульныя раскладкі. Калі ласка, выберыце краіну, да якой належыць вашая клавіятура.
+Description-bg.UTF-8: Произход на клавиатурната подредба:
+ Подредбата на клавиатурата варира в различните страни, а в някои страни има разпространени няколко подредби. Изберете страната, от която произлиза клавиатурата на компютъра.
+Description-bn.UTF-8: কীবোর্ডের মূল উৎস দেশ:
+ দেশ অনুযায়ী কীবোর্ডের লেআউট পরিবর্তন হয়। কোন কোন দেশের  একাধিক সাধারণ লেআউট থাকে। অনুগ্রহপূর্বক এই কম্পিউটারের কীবোর্ডের জন্য মূল উৎস দেশ নির্বাচন করুন।
+Description-bs.UTF-8: Država za koju je tastatura:
+ Raspored tastera na tastaturi zavisi od države, s tim da neke države imaju više sličnih rasporeda. Molimo odaberite državu za tastaturu na ovom računaru.
+Description-ca.UTF-8: País d'origen del teclat:
+ Les disposicions dels teclats varien per país, i alguns països tenen múltiples disposicions comunes. Seleccioneu el país d'origen del teclat de l'ordinador.
+Description-cs.UTF-8: Země klávesnice:
+ Rozložení klávesnice se mezi jednotlivými zeměmi liší, přičemž některé země mohou mít vícero rozložení. Vyberte prosím zemi pro klávesnici tohoto počítače.
+Description-da.UTF-8: Tastaturets ophavsland:
+ Forskellige lande bruger forskellige tastaturlayout, og nogle lande har mere end et udbredt layout. Vælg venligst ophavslandet for denne computers tastatur.
+Description-de.UTF-8: Herkunftsland für die Tastatur:
+ Die Belegung von Tastaturen unterscheidet sich abhängig vom Land, wobei für einige Länder sogar mehrere gängige Belegungen existieren. Bitte wählen Sie das Land, zu dem die Tastaturbelegung gehört.
+Description-el.UTF-8: Χώρα προέλευσης του πληκτρολογίου:
+ Το σχέδιο των πληκτρολογίων διαφέρει από χώρα σε χώρα , ενώ κάποιες χώρες έχουν πολλαπλά κοινά σχέδια. Παρακαλώ επιλέξτε την χώρα προέλευσης για το πληκτρολόγιο του υπολογιστή σας.
+Description-eo.UTF-8: Devena lando de la klavaro:
+ La aranĝo de klavaroj varias laŭ lando, kaj kelkaj landoj havas plurajn ordinarajn aranĝojn. Bonvolu elekti la devenan landon de la klavaro por tiu ĉi komputilo.
+Description-es.UTF-8: País de origen del teclado:
+ Las distribuciones de teclado varían por país, y algunos países tienen distribuciones de teclado comunes. Seleccione el país de origen del teclado de este ordenador.
+Description-et.UTF-8: Klaviatuuri päritoluriik:
+ Klaviatuuripaigutus erineb riikide kaupa, ning mõnes riigis on levinud mitu paigutust. Palun vali selle arvuti klaviatuuri päritoluriik.
+Description-eu.UTF-8: Teklatuaren jatorrizko herrialdea:
+ Teklatuaren diseinua aldatu egiten da herrialdearen arabera, herrialde batzuk diseinu desberdinak erabiltzen dituzte. Hautatu ordenagailuko teklatuaren jatorrizko herrialdea.
+Description-fa.UTF-8: کشور مالک این صفحه کلید:
+ طرح بندی صفحه کلید در کشور های مختلف متفاوت است، در بعضی از کشور ها چندین طرح بندی صفحه کلید متداول وجود دارد. لطفا کشور مورد نظر را برای صفحه کلید این سیستم انتحاب کنید.
+Description-fi.UTF-8: Näppäimistön alkuperämaa:
+ Näppäimistöjen näppäinasettelu vaihtelee maasta toiseen ja joissain maissa on useita asetteluja yleisesti käytössä. Valitse tämän tietokoneen näppäimistön alkuperämaa.
+Description-fr.UTF-8: Pays d'origine du clavier :
+ La disposition des claviers varie selon les pays. Dans certains pays, il peut même exister plusieurs dispositions possibles. Veuillez choisir le pays d'origine du clavier de cette machine.
+Description-ga.UTF-8: An tír ina n-úsáidtear an méarchlár seo:
+ Tá leaganacha amach éagsúla ar mhéarchláir i dtíortha éagsúla, fiú níos mó ná leagan amach amháin in úsáid go coitianta i roinnt tíortha. Roghnaigh an tír ina n-úsáidtear méarchlár an ríomhaire seo.
+Description-gl.UTF-8: País de orixe do teclado:
+ A disposición do teclado varía segun paises, ainda que algúns teñen disposicións comúns. Escolla o pais de orixe do teclado.
+Description-gu.UTF-8: કીબોર્ડ માટેનો મૂળ દેશ:
+ કીબોર્ડ્સનો દેખાવ દેશ પ્રમાણે બદલાય છે, જ્યાં કેટલાક દેશોને અનેક સામાન્ય દેખાવો હોય છે. મહેરબાની કરી આ કોમ્પ્યુટરના કીબોર્ડ માટે મૂળ દેશ પસંદ કરો.
+Description-hi.UTF-8: कुंजीपटल जिस देश से है:
+ कुंजीपटल के प्रकार इस पर निर्भर हैं की वह किस देश के हैं; कई देशऐसे हैं जिनके कई कुंजीपटल प्रकार होते हैं. आपके यन्त्र का कुंजीपटल किस देशसे है, वह चुनिए.
+Description-hr.UTF-8: Država podrijetla tipkovnice:
+ Raspored tipkovnice ovisi o državi, dok neke države imaju nekoliko tipičnih rasporeda. Molim odaberite državu podrijetla za tipkovnicu ovog računala.
+Description-hu.UTF-8: Billentyűzet országa:
+ A billentyűzetek kiosztása országonként eltér, egyesekben több általános kiosztás is van. Kérlek, jelöld ki a származás országát e gép billentyűzetéhez.
+Description-id.UTF-8: Negara asal untuk keyboard ini:
+ Pola keyboard tiap negara berbeda. Beberapa negara memiliki banyak pola umum. Silakan pilih negara asal untuk keyboard pada komputer ini.
+Description-it.UTF-8: Lingua della tastiera:
+ La disposizione della tastiera varia a seconda della nazione; a volte persino nello stesso paese sono in uso varie disposizioni diverse. Selezionare il paese d'origine della tastiera di questo computer.
+Description-ja.UTF-8: キーボードが由来する国:
+ キーボードのレイアウトは国によって異なり、いくつかの国では複数の一般的レイアウトがあります。このコンピュータのキーボードが由来する国を選択してください。
+Description-kk.UTF-8: Пернетақта үшін сай ел:
+ Пернетақта жаймалары ел-елге байланысты әр түрлі болады, кейбір елдерде бірнеше жайма қолданылауы мүмкін. Бұл компьютер үшін тиісті пернетақта жаймасы қолданылатын елді таңдаңыз.
+Description-km.UTF-8: ប្រទេស​ដើម​សម្រាប់ក្ដារចុច ៖
+ ប្លង់​ក្ដារចុច​ខុស​គ្នា​ពីប្រទេស​នីមួយ ប្រទេស​ខ្លះ​មាន​ប្លង់​ធម្មតា​ច្រើន ។ សូម​ជ្រើស​ប្រទេស​ដើម​សម្រាប់​ក្ដារចុច​សម្រាប់​កុំព្យូទ័រ​នេះ ។
+Description-ko.UTF-8: 키보드 제조 국가:
+ 키보드 배치는 국가마다 다르고, 어떤 국가에서는 여러 개의 키보드 배치를 표준으로 사용합니다. 이 컴퓨터의 키보드의 제조 국가를 선택하십시오.
+Description-ku.UTF-8: Welatê orîjîna klavyeyê:
+ Cureyên klavyeyê li gorî welatan tên nîşandan, di hinek welatan de gelek cure hene. Tika ye ji bo klavyeyê welatê tu lê dijî diyar bike.
+Description-lv.UTF-8: Klaviatūras izcelsmes valsts:
+ Klaviatūras izklājums dažādās valstīs ir dažāds un dažās valstīs ir vairāki bieži lietoti klaviatūras izklājumi. Izvēlieties šī datora klaviatūras izcelsmes valsti.
+Description-mk.UTF-8: Тип/земја на тастатура:
+ Распоредот на буквите на тастатурата  варира зависно од земјата, некои земји имаат повеќе заеднички распореди. Ве можам изберете земја за тастатурата на овој компјутер.
+Description-mr.UTF-8: या कळफलकाचा उगम देश:
+ कळफलकांचे आराखडे देशाप्रमाणे बदलतात, काही देशांचे  एकाहून अधिक सामान्य आराखडे असतात. कृपया या संगणकाच्या कळफलकाचा उगम देश निवडा.
+Description-nb.UTF-8: Opprinnelsesland for dette tastaturet:
+ Utformingen av tastatur varierer fra land til land hvor noen land har flere felles utforminger. Velg opprinnelsesland for tastaturet på denne maskinen.
+Description-nl.UTF-8: Oorsprong van het toetsenbord:
+ De toetsenbordindeling verschilt per land. Sommige landen hebben zelfs meerdere veelgebruikte indelingen. Selecteer het land van oorsprong van het toetsenbord van dit systeem.
+Description-no.UTF-8: Opprinnelsesland for dette tastaturet:
+ Utformingen av tastatur varierer fra land til land hvor noen land har flere felles utforminger. Velg opprinnelsesland for tastaturet på denne maskinen.
+Description-pa.UTF-8: ਕੀ-ਬੋਰਡ ਦੀ ਟਾਈਪ:
+ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਦੇਸ਼ ਦੇ ਹਿਸਾਬ ਨਾਲ ਬਦਲਦਾ ਹੈ, ਕੁਝ ਦੇਸ਼ਾਂ ਦਾ ਲੇਆਉਟ ਸਾਂਝਾ ਹੋ ਸਕਦਾ ਹੈ । ਕਿਰਪਾ ਕਰਕੇ ਦੇਸ਼ ਦੇ ਆਧਾਰ ਤੇ ਇਸ ਕੰਪਿਊਟਰ ਦਾ ਕੀਬੋਰਡ ਚੁਣੋ ਜੀ।
+Description-pl.UTF-8: Kraj pochodzenia klawiatury:
+ W różnych krajach stosowane są różne układy klawiatury, a w niektórych popularny jest więcej niż jeden układ. Proszę wybrać kraj pochodzenia klawiatury tego komputera.
+Description-pt.UTF-8: País de origem para o teclado:
+ A disposição dos teclados varia por país, com alguns países a terem várias disposições comuns. Por favor escolha o país de origem para o teclado deste computador.
+Description-pt_BR.UTF-8: País de origem para o teclado:
+ O layout dos teclados varia por país, com alguns países tendo múltiplos layouts comuns. Por favor, selecione o país de origem para o teclado deste computador.
+Description-ro.UTF-8: Țara de origine a tastaturii:
+ Aranjamentul tastaturii diferă în funcție de țară, unele țări având mai multe aranjamente uzuale. Alegeți țara de origine pentru tastatura acestui computer.
+Description-ru.UTF-8: Страна, для которой предназначена клавиатура:
+ В каждой стране используется своя раскладка клавиатуры, а в некоторых странах используется несколько общих раскладок. Выберите страну, для которой произведена данная клавиатура компьютера.
+Description-sk.UTF-8: Krajina pôvodu klávesnice:
+ Rozloženia klávesnice sa líšia podľa krajiny, pričom niektoré krajiny majú viacero bežne používaných rozložení. Prosím, vyberte krajinu pôvodu klávesnice tohto počítača.
+Description-sl.UTF-8: Država izvora tipkovnice:
+ Postavitev tipkovnice je različna glede na državo. Nekatere države imajo več skupnih postavitev. Izberite prosim izvorno državo tipkovnice na tem računalniku.
+Description-sr.UTF-8: Земља порекла за тастатуру:
+ Распоред тастатура зависи од земље, где поједине земље имају више распореда. Изаберите земљу порекла за тастатуру овог компјутера.
+Description-sr@latin.UTF-8: Zemlja porekla za tastaturu:
+ Raspored tastatura zavisi od zemlje, gde pojedine zemlje imaju više rasporeda. Izaberite zemlju porekla za tastaturu ovog kompjutera.
+Description-sv.UTF-8: Tangentbordets ursprungsland:
+ Layouten för tangentbord skiljer sig mellan länder där även vissa länder har flera vanliga layouter. Välj det land som ditt tangentbord är anpassat för.
+Description-ta.UTF-8: விசைப்பலகைக்கு உரிய நாடு:
+ ஒவ்வொரு நாட்டுக்கும் விசைப்பலகை அமைப்புகள் மாறுகின்றன. சில நாடுகளுக்கு ஒன்றுக்கு மேற்பட்ட பொது இட அமைவுகள் உள்ளன. தயை செய்து இந்த கணினிக்கான விசைப்பலகைக்கு நாட்டை தேர்ந்தெடுக்கவும்.
+Description-th.UTF-8: ประเทศต้นทางของแป้นพิมพ์:
+ ผังของแป้นพิมพ์จะแตกต่างกันในประเทศต่างๆ โดยในบางประเทศอาจมีแป้นพิมพ์ที่นิยมใช้กันหลายผัง กรุณาเลือกประเทศต้นทางของแป้นพิมพ์ของคอมพิวเตอร์เครื่องนี้
+Description-tr.UTF-8: Klavyenin kökeninin ülkesi:
+ Klavye düzeni ülkeye göre değişir, bazı ülkelerde birden fazla yaygın düzen vardır. Lütfen bu klavyenin köken ülkesini seçin.
+Description-uk.UTF-8: Країна, для якої призначена дана клавіатура:
+ Розкладки клавіатур для різних країн відрізняються, а в деяких країнах використовується декілька розкладок. Будь ласка, виберіть країну, для якої було виготовлено клавіатуру цього комп'ютера.
+Description-zh_CN.UTF-8: 键盘布局所属国家：
+ 键盘布局在每个国家都不相同，有的国家甚至可能有多种常见布局。请选择此计算机键盘布局所属的国家。
+Description-zh_TW.UTF-8: 這個鍵盤所屬的國家或地區：
+ 隨著國家的不同而相異之鍵盤排列方式，有些國家甚至同時存在多種鍵盤排列方式。請選擇這台機器的鍵盤所屬的國家或地區。
+
+Template: keyboard-configuration/variant
+Type: select
+Choices: ${CHOICES}
+Description: Keyboard layout:
+ Please select the layout matching the keyboard for this machine.
+Description-am.UTF-8: የፊደል ገበታ አጣጣል፦
+ እባክዎ ለፊደል ገበታው የሚስማማውን አጣጣል ይምረጡ።
+Description-ar.UTF-8: تخطيط لوحة المفاتيح:
+ رجاء اختر تخطيط لوحة المفاتيح الذي يتوافق مع هذا الجهاز.
+Description-ast.UTF-8: Disposición de tecláu
+ Por favor, seleiciona la disposición del tecláu pa esta máquina.
+Description-be.UTF-8: Раскладка клавіятуры:
+ Калі ласка, пазначце раскладку клавіятуры гэтае машыны.
+Description-bg.UTF-8: Клавиатурна подредба:
+ Моля, проверете дали е прикачен твърд диск към тази машина.
+Description-bn.UTF-8: কীবোর্ড লেআউট
+ অনুগ্রহপূর্বক এই মেশিনের কীবোর্ডের উপযুক্ত লেআউট নির্বাচন করুন।
+Description-bs.UTF-8: Raspored tastature:
+ Molimo izaberite raspored kao na tastaturi na ovoj mašini.
+Description-ca.UTF-8: Disposició del teclat:
+ Seleccioneu la disposició que concorda amb el teclat de l'ordinador.
+Description-cs.UTF-8: Rozložení klávesnice:
+ Vyberte rozložení klávesnice odpovídající tomuto počítači.
+Description-da.UTF-8: Tastaturlayout:
+ Vælg venligst det layout, der passer til tastaturet på denne maskine.
+Description-de.UTF-8: Tastaturbelegung:
+ Bitte wählen Sie eine Tastaturbelegung, die zur Tastatur dieses Rechners passt.
+Description-el.UTF-8: Διάταξη πληκτρολογίου:
+ Παρακαλώ επιλέξτε τη διάταξη που ταιριάζει στο πληκτρολόγιο αυτού του μηχανήματος.
+Description-eo.UTF-8: Klavar-aranĝo:
+ Bonvolu elekti la aranĝon kongruan al la klavaro de tiu ĉi maŝino.
+Description-es.UTF-8: Distribución de teclado:
+ Por favor, seleccione la distribución del teclado de este equipo.
+Description-et.UTF-8: Klaviatuuripaigutus:
+ Vali selle arvuti klaviatuurile vastav paigutus.
+Description-eu.UTF-8: Teklatuaren diseinua:
+ Hautatu ordenagailu honen teklatuari dagokion diseinua.
+Description-fa.UTF-8: طرح بندی صفحه کلید:
+ لطفا طرح بندیی که با صفحه کلید این سیستم مطابقت دارد را انتخاب کنید.
+Description-fi.UTF-8: Näppäinasettelu:
+ Valitse koneen näppäimistöä vastaava näppäinasettelu.
+Description-fr.UTF-8: Disposition du clavier :
+ Veuillez choisir la disposition qui correspond au clavier de cette machine.
+Description-ga.UTF-8: Leagan amach an mhéarchláir:
+ Roghnaigh leagan amach an mhéarchláir le haghaidh an ríomhaire seo.
+Description-gl.UTF-8: Disposición do teclado:
+ Escolla a disposición que encaixe co seu teclado.
+Description-gu.UTF-8: કીબોર્ડ દેખાવ:
+ મહેરબાની કરી આ મશીન માટે સંબંધિત કીબોર્ડ દેખાવ પસંદ કરો.
+Description-hi.UTF-8: कुंजीपट का अभिन्यास:
+ कृपया इस मशीन के लिए उचित कुंजीपटल अभिन्यास चुनें.
+Description-hr.UTF-8: Raspored tipkovnice:
+ Molim provjerite odgovarajući raspored tipkovnice za ovo računalo.
+Description-hu.UTF-8: Billentyűkiosztás:
+ Kérlek, jelöld ki a billentyűzethez illő kiosztást e számítógéphez
+Description-id.UTF-8: Pola keyboard:
+ Silakan pilih pola keyboard yang cocok untuk mesin ini.
+Description-it.UTF-8: Disposizione della tastiera:
+ Selezionare la disposizione corrispondente alla tastiera di questo computer.
+Description-ja.UTF-8: キーボードのレイアウト:
+ このマシンのキーボードに適したレイアウトを選んでください。
+Description-kk.UTF-8: Пернетақта жаймасы:
+ Бұл компьютер пернетақтасына сай жайманы таңдаңыз.
+Description-km.UTF-8: ​ប្លង់​ក្ដារចុច ៖
+ សូមជ្រើស​ប្លង់​ដែល​ផ្គូផ្គង​គ្នា​នឹង​ក្ដារចុច​សម្រាប់​ម៉ាស៊ីន​នេះ ។
+Description-ko.UTF-8: 키보드 배치:
+ 이 컴퓨터의 키보드에 맞는 키보드 배치를 선택하십시오.
+Description-ku.UTF-8: Rengê klavyeyê
+ Tika ye ji bo vê makîneyê hevgirtina klavyeyê hilbijêre.
+Description-lt.UTF-8: Klaviatūros išdėstymas:
+ Pasirinkite tinkamą klaviatūros išdėstymą.
+Description-lv.UTF-8: Klaviatūras izklājums:
+ Izvēlieties izklājumu, kas atbilst šī datora klaviatūrai.
+Description-mk.UTF-8: Распоред на тастатура:
+ Изберете го распоредот што одговара на тастатурата на овој компјутер.
+Description-mr.UTF-8: कळफलकाचा आरखडा:
+ कृपया या यंत्राच्या कळफलकाशी जुळणारा आराखडा निवडा.
+Description-nb.UTF-8: Tastaturutforming:
+ Velg utformingen som stemmer med tastaturet på denne maskinen.
+Description-nl.UTF-8: Toetsenbordindeling:
+ Selecteer de indeling die overeenkomt met uw toetsenbord.
+Description-no.UTF-8: Tastaturutforming:
+ Velg utformingen som stemmer med tastaturet på denne maskinen.
+Description-pa.UTF-8: ਆਪਣਾ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਚੁਣੋ
+ ਜਾਂਚ ਕਰੋ ਕਿ ਹਾਰਡ ਡਿਸਕ ਇਸ ਮਸ਼ੀਨ ਨਾਲ ਜੁੜੀ ਹੈ ਜੀ।
+Description-pl.UTF-8: Układ klawiatury:
+ Proszę wybrać układ pasujący do klawiatury tej maszyny.
+Description-pt.UTF-8: Disposição do teclado:
+ Por favor escolha a disposição que coincide com o teclado desta máquina.
+Description-pt_BR.UTF-8: Layout do teclado:
+ Por favor, selecione o layout que confere com o teclado para esta máquina.
+Description-ro.UTF-8: Aranjamentul de tastatură:
+ Selectați aranjamentul care se potrivește cu tastatura acestui sistem.
+Description-ru.UTF-8: Раскладка клавиатуры:
+ Выберите подходящую раскладку клавиатуры.
+Description-sk.UTF-8: Rozloženie klávesnice:
+ Prosím, vyberte rozloženie klávesnice tohto počítača.
+Description-sl.UTF-8: Postavitev tipkovnice:
+ Izberite prosim postavitev, ki se sklada s tipkovnico tega stroja.
+Description-sr.UTF-8: Распоред тастатуре:
+ Изаберите распоред који одговара тастатури ове машине.
+Description-sr@latin.UTF-8: Raspored tastature:
+ Izaberite raspored koji odgovara tastaturi ove mašine.
+Description-sv.UTF-8: Tangentbordslayout:
+ Välj den layout som matchar tangentbordet på den här datorn.
+Description-ta.UTF-8: விசைப்பலகை இடஅமைவு:
+ இந்த கணினிக்கு பொருத்தமான விசைப்பலகை அமைவை தேர்ந்தெடுக்கவும்.
+Description-th.UTF-8: ผังแป้นพิมพ์:
+ กรุณาเลือกผังแป้นพิมพ์ที่ตรงกับของเครื่องนี้
+Description-tr.UTF-8: Klavye düzeni:
+ Lütfen klavyenize uygun bir klavye düzeni seçin
+Description-uk.UTF-8: Розкладка клавіатури:
+ Будь ласка, виберіть актуальну розкладку клавіатури.
+Description-vi.UTF-8: Bố trí bàn phím:
+ Hãy chọn bố trí tương ứng với bàn phím cho máy này.
+Description-zh_CN.UTF-8: 键盘布局：
+ 请选择匹配这台机器键盘的布局。
+Description-zh_TW.UTF-8: 鍵盤排列方式：
+ 請選擇一個合乎這台機器的鍵盤所使用的排列方式。
+
+Template: keyboard-configuration/unsupported_config_layout
+Type: boolean
+Default: true
+Description: Keep the current keyboard layout in the configuration file?
+ The current keyboard layout in the configuration file
+ /etc/default/keyboard is defined as XKBLAYOUT="${XKBLAYOUT}" and
+ XKBVARIANT="${XKBVARIANT}".
+ .
+ Please choose whether you want to keep it. If you choose this option,
+ no questions about the keyboard layout will be asked and the current
+ configuration will be preserved.
+Description-ar.UTF-8: هل تريد إبقاء مخطط لوحة المفاتيح الحالية في ملف التهيئة؟
+ مُخطط المفاتيح الحالي في ملف التهيئة /etc/default/keyboard مُحدد بالقيمة XKBLAYOUT="${XKBLAYOUT}" و XKBVARIANT="${XKBVARIANT}".
+ .
+ رجاءً اختر ما إذا كنت تريد إبقاءه. إن انتقيت هذا الخيار، فلن تُسأل أية أسئلة حول مُخطط لوحة المفاتيح وسيتم الإبقاء على التهيئة الحالية.
+Description-ast.UTF-8: ¿Caltener disposición de tecláu actual nel ficheru de configuración?
+ La disposición actual del tecláu nel ficheru de configuración /etc/default/keyboard ta definida como XKBLAYOUT="${XKBLAYOUT}" y XKBVARIANT="${XKBVARIANT}".
+ .
+ Por favor, escueyi si quies caltenelu. Si escueyes esta opción, nun van amosase entrugues tocante a la disposición del tecláu y preservaráse la configuración actual.
+Description-be.UTF-8: Пакінуць цяперашнюю раскладку клавіятуры ў канфігурацыйным файле?
+ Цяперашняя раскладка клавиятуры ў канфігурацыйным файле /etc/default/keyboard вызначаная як XKBLAYOUT="${XKBLAYOUT}" і XKBVARIANT="${XKBVARIANT}".
+ .
+ Вызначце, ці хочаце вы захаваць гэта. Калі выберыце, то ніякіх пытанняў пра раскладку клавіятуры не будзе спытана і вашыя бягучыя налады будуць захаваны.
+Description-bg.UTF-8: Запазване на текущата подредба на клавиатурата във файла с настройки?
+ В момента подредбата на клавиатурата е описана във файла с настройки /etc/default/keyboard като XKBLAYOUT="${XKBLAYOUT}" и XKBVARIANT="${XKBVARIANT}".
+ .
+ Моля, преценете дали желаете да я запазите.  Ако изберете да я запазите, тогава няма да бъдат задавани въпроси за клавиатурната подредба, а текущата настройка ще бъде запазена.
+Description-bn.UTF-8: বর্তমান কীবোর্ডের লেআউট কি কনফিগারেশন ফাইলে রাখা হবে?
+  /etc/default/keyboard কনফিগারেশন ফাইলে বর্তমান কীবোর্ড লেআউট  এখন XKBLAYOUT="${XKBLAYOUT}" এবং XKBVARIANT="${XKBVARIANT}" তে নির্দেশিত হল
+ .
+ আপনি কি এটা রাখতে চান? যদি আপনি এই অপশন না পছন্দ করেন তবে কীবোর্ড লেআউট নিয়ে প্রশ্ন আবার করা হবে এবং বর্তমান কনফিগারেশন সংরক্ষণ করা হবে।
+Description-bs.UTF-8: Snimiti trenutnu konfiguraciju rasporeda tastature u konfiguracijsku datoteku?
+ Trenutni raspored tastera na tastaturi u konfiguracijskom fajlu /etc/default/keyboard je definiran sa XBKLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}".
+ .
+ Molimo izaberite želite li zadržati ovo. Ako izaberete ovu opciju, nećete biti pitani za raspored tastera na tastaturi i trenutna konfiguracija će biti sačuvana.
+Description-ca.UTF-8: Voleu mantindre la disposició del teclat actual al fitxer de configuració?
+ La disposició del teclat actual al fitxer de configuració «/etc/default/keyboard» és definida com a XKBLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}".
+ .
+ Seleccioneu si voleu mantenir-la. Si seleccioneu aquesta opció, no es farà cap pregunta sobre la disposició del teclat, i es preservarà la configuració actual.
+Description-cs.UTF-8: Ponechat stávající rozložení klávesnice z konfiguračního souboru?
+ Konfigurační soubor /etc/default/keyboard definuje rozložení klávesnice následovně: XKBLAYOUT="${XKBLAYOUT}" a XKBVARIANT="${XKBVARIANT}".
+ .
+ Rozhodněte se, zda je chcete ponechat. Odpovíte-li kladně, nebudete dotázáni na žádné další otázky ohledně rozložení klávesnice a současné nastavení bude zachováno.
+Description-da.UTF-8: Bevar nuværende tastaturlayout i opsætningsfilen?
+ Det nuværende tastaturlayout i opsætningsfilen /etc/default/keyboard er defineret som XKBLAYOUT="${XKBLAYOUT}" og XKBVARIANT="${XKBVARIANT}".
+ .
+ Vælg venligst om du vil beholde den. Hvis du vælger dette, vil der ikke blive stillet nogen spørgsmål om tastaturlayoutet, og den aktuelle opsætning bevares.
+Description-de.UTF-8: Aktuelle Tastaturbelegung in der Konfigurationsdatei beibehalten?
+ Die aktuelle Tastaturbelegung in der Konfigurationsdatei /etc/default/keyboard ist als XKBLAYOUT=»${XKBLAYOUT}« und XKBVARIANT=»${XKBVARIANT}« definiert.
+ .
+ Bitte wählen Sie aus, ob Sie diese beibehalten möchten. Wenn Sie sich dafür entscheiden, werden keine weiteren Fragen über die Tastaturbelegung gestellt und die gegenwärtige Konfiguration wird beibehalten.
+Description-el.UTF-8: Να κρατηθούν οι τρέχουσες ρυθμίσεις πληκτρολογίου στο αρχείο διαμόρφωσης?
+ Το τρέχον σχέδιο πληκτρολογίου στο αρχείο διαμόρφωσης /etc/default/keyboard είναι καθορισμένο ως XKBLAYOUT="${XKBLAYOUT}" και XKBVARIANT="${XKBVARIANT}".
+ .
+ Παρακαλώ επιλέξτε αν θέλετε να το διατηρήσετε . Αν διαλέξετε κάτι τέτοιο δεν θα σας γίνει καμία ερώτηση σχετικά με το σχέδιο πληκτρολογίου και θα διατηρηθούν οι τρέχουσες ρυθμίσεις.
+Description-eo.UTF-8: Ĉu teni la aktualan klavar-aranĝon en la agordo-dosiero?
+ La aktuala klavar-aranĝo en la agordo-dosiero /etc/default/keyboard estas difinita kiel XKBLAYOUT="${XKBLAYOUT}" kaj XKBVARIANT="${XKBVARIANT}".
+ .
+ Bonvolu elekti ĉu vi volas teni ĝin. Se vi elektos tiun ĉi opcion, neniu demando pri la klavar-aranĝo estos farata kaj la nuna agordo estos tenata.
+Description-es.UTF-8: ¿Desea mantener la distribución de teclado actual en el archivo de configuración?
+ La distribución de teclado en el archivo de configuración «/etc/default/keyboard» está definida como XKBLAYOUT="${XKBLAYOUT}" y XKBVARIANT="${XKBVARIANT}".
+ .
+ Escoja si quiere mantenerla. Si escoge esta opción, no se le preguntará acerca de la distribución del teclado y se mantendrá la configuración actual.
+Description-et.UTF-8: Kas jätta praegune seadistusfaili klaviatuuripaigutus?
+ Praegune klaviatuuripaigutus  on määratud seadistusfailis /etc/default/keyboard: XKBLAYOUT="${XKBLAYOUT}" ja XKBVARIANT="${XKBVARIANT}".
+ .
+ Vali kas see säilitada või mitte. Kui valid säilitamise, ei küsita klaviatuuripaigutuse kohta mitte midagi ja praegune seadistus säilitatakse.
+Description-eu.UTF-8: Mantendu uneko teklatuaren diseinua konfigurazioko fitxategian?
+ Uneko teklatuaren diseinua XKBLAYOUT="${XKBLAYOUT}" eta XKBVARIANT="${XKBVARIANT}" bezala ezarrita dago /etc/default/keyboard fitxategian.
+ .
+ Aukeratu honela mantentzea nahi duzun ala ez. Aukera hau hautatzen baduzu, ez zaizu teklatuaren diseinuari buruzko galdera gehiago egingo eta uneko konfigurazioa mantenduko da.
+Description-fa.UTF-8: طرح بندی فعلی صفحه کلید را در فایل پیکربندی نگه داشته شود؟
+ طرح بندی صفحه کلید فعلی در فایل پیکربندی /etc/default/keyboard به صورت XKBLAYOUT="${XKBLAYOUT}" و XKBVARIANT="${XKBVARIANT}" تعریف شده است.
+ .
+ لطفا آنچه را می خواهید نگه دارید انتخاب کنید. در صورت انتخاب این گزینه ، در مورد طرح بندی صفحه کلید سوال نخواهد شد و پیکربندی فعلی حفظ می شود.
+Description-fi.UTF-8: Säilytetäänkö nykyinen näppäinasettelu asetustiedostossa?
+ Tällä hetkellä asetustiedostossa /etc/default/keyboard on näppäinasetteluksi määritelty XKBLAYOUT="${XKBLAYOUT}" ja XKBVARIANT="${XKBVARIANT}".
+ .
+ Valitse haluatko säilyttää sen. Jos valitset tämän vaihtoehdon, näppäinasetteluun liittyviä kysymyksiä ei kysytä ja nykyiset asetukset säilytetään.
+Description-fr.UTF-8: Conserver cette disposition de clavier dans le fichier de configuration ?
+ La disposition du clavier dans le fichier de configuration /etc/default/keyboard est actuellement définie par XKBLAYOUT="${XKBLAYOUT}" et XKBVARIANT="${XKBVARIANT}".
+ .
+ Veuillez choisir si vous souhaitez la conserver. Si vous choisissez cette option, aucune information ne vous sera demandée concernant la disposition des touches du clavier et la configuration actuelle sera conservée.
+Description-ga.UTF-8: An bhfuil fonn ort leagan amach reatha an mhéarchláir a choinneáil sa chomhad cumraíochta?
+ Is é XKBLAYOUT="${XKBLAYOUT}" agus XKBVARIANT="${XKBVARIANT}" an leagan amach reatha sa chomhad cumraíochta /etc/default/keyboard.
+ .
+ Roghnaigh an bhfuil fonn ort é a choinneáil. Má roghnaíonn tú é seo, ní chuirfear aon cheisteanna ort faoi leagan amach an mhéarchláir agus coinneofar an chumraíocht atá ann faoi láthair.
+Description-gl.UTF-8: Desexa conservar a disposición do teclado no ficheiro de configuración?
+ A disposición de teclado actual no ficheiro de configuración /etc/default/keyboard está definida como XKBLAYOUT="${XKBLAYOUT}" e XKBVARIANT="${XKBVARIANT}".
+ .
+ Indique se desexa mantelos. Se escolle esta opción non se han facer preguntas acerca da disposición de teclado e hase conservar a configuración actual.
+Description-gu.UTF-8: રૂપરેખાંકન ફાઈલમાં હાલનો કીબોર્ડ દેખાવ એમ જ રાખશો?
+ રૂપરેખાંકન ફાઈલ /etc/default/keyboard માં હાલનો કીબોર્ડ દેખાવ XKBLAYOUT="${XKBLAYOUT}" and XKBVARIANT="${XKBVARIANT}" તરીકે વ્યાખ્યાયિત છે.
+ .
+ મહેરબાની કરી પસંદ કરો કે તમે રાખવા માંગો છો. જો તમે આ વિકલ્પ પસંદ કરશો તો, કીબોર્ડ દેખાવ વિશે કોઈપણ પ્રશ્નો પૂછવામાં આવશે નહી અને હાલનું રૂપરેખાંકન સાચવવામાં આવશે.
+Description-hi.UTF-8: वर्त्तमान कुंजीपटल प्रकार को कॉन्फ़िगरेशन में लिखें?
+ वर्त्तमान कुंजीपटल प्रकार को कॉन्फ़िगरेशन फ़ाइल /etc/default/keyboard मेंXKBLAYOUT="${XKBLAYOUT}" और XKBVARIANT="${XKBVARIANT}" दिया गया है.
+ .
+ कृपया चुनिए की आप इसे रखना चाहते हैं या नहीं. अगर आप इसे चुनते हैंतो कुंजीपटल के बारे में प्रश्न नहीं पूछे जायेंगे, और वर्त्तमान कुंजीपटल अभिन्यासरखे जायेंगे.
+Description-hr.UTF-8: Zadrži trenutni raspored tipkovnice u konfiguracijskoj datoteci?
+ Trenutni raspored tipkovnice u konfiguracijskoj datoteci /etc/default/keyboard je određen kao XKBLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}".
+ .
+ Molim odaberiti želite li ovo zadržati. Ukoliko odaberete ovu mogućnost, neće biti postavljenih pitanja oko rasporeda tipkovnice, te će trenutne postavke biti sačuvane.
+Description-hu.UTF-8: Megtartod a jelenlegi kiosztást a beállító fájlban?
+ A mostani billentyűkiosztás a /etc/default/keyboard fájlban van: XKBLAYOUT="${XKBLAYOUT}" és XKBVARIANT="${XKBVARIANT}".
+ .
+ Most döntsd el, hogy megtartod-e. Ha ezt a lehetőséget választod, nem teszek fel több kérdést a billentyűzetkiosztásról, hanem megtartom a mostani beállítást.
+Description-id.UTF-8: Gunakan pola keyboard yang ada pada berkas konfigurasi saat ini?
+ Pola keyboard saat ini dalam berkas konfigurasi /etc/default/keyboard adalah XKBLAYOUT="${XKBLAYOUT}" dan XKBVARIANT="${XKBVARIANT}".
+ .
+ Silakan pilih jika Anda akan menggunakannya. Jika Anda memilihnya, tidak akan ada lagi pertanyaan tentang ppla keyboard dan konfigurasi yang ada akan digunakan.
+Description-it.UTF-8: Mantenere l'attuale disposizione della tastiera nel file di configurazione?
+ L'attuale disposizione della tastiera nel file di configurazione /etc/default/keyboard è definito come XKBLAYOUT="${XKBLAYOUT}" e XKBVARIANT="${XKBVARIANT}".
+ .
+ Scegliere se mantenere tale disposizione. Se viene scelta questa opzione non verrà posta alcuna domanda riguardo la disposizione della tastiera e verrà mantenuta la configurazione attuale.
+Description-ja.UTF-8: 設定ファイルにある現在のキーボードレイアウトを保持しますか?
+ 設定ファイル /etc/default/keyboard にある現在のキーボードレイアウトは、XKBLAYOUT="${XKBLAYOUT}" および XKBVARIANT="${XKBVARIANT}" と定義されています。
+ .
+ そのまま保持するかどうかを選んでください。この選択肢で「はい」を選ぶと、キーボードのレイアウトについての質問は尋ねられず、現在の設定が保存されます。
+Description-kk.UTF-8: Ағымдағы пернетақта жаймасын баптаулар файлында қалдыру керек пе?
+ Ағымдағы пернетақта жаймасы /etc/default/keyboard баптаулар файлында XKBLAYOUT="${XKBLAYOUT}" және XKBVARIANT="${XKBVARIANT}" ретінде анықталған.
+ .
+ Оны қалдыруды қалайсыз ба, соны көрсетіңіз. Бұл опцияны қаласаңыз, пернетақта жаймасы жөнінде ешбір сұрақ қойылмайды, және ағымдағы баптаулар сақталады.
+Description-km.UTF-8: រក្សាទុក​ប្លង់​ក្ដារចុច​បច្ចុប្បន្ន​នៅក្នុង​ឯកសារ​កំណត់​រចនាសម្ព័ន្ធ ?
+ ប្លង់​ក្ដារចុច​បច្ចុប្បន្ន​នៅ​ក្នុង​ឯកសារ​កំណត់​រចនាសម្ព័ន្ធ /etc/default/keyboard ត្រូវ​បាន​កំណត់​ជា XKBLAYOUT="${XKBLAYOUT}" and XKBVARIANT="${XKBVARIANT}" ។
+ .
+ សូម​ជ្រើ​សថាតើ អ្នក​ចង់​រក្សាទុក​វា​ដែរឬទេ ។ ប្រសិនបើ​អ្នក​ជ្រើ​សជម្រើស​នេះ គ្មាន​សំណួរ​នឹង​ត្រូវបាន​សួរ​ ហើយ​ការ​កំណត់​រចនាសម្ព័ន្ធ​បច្ចុប្បន្ន​នឹង​ត្រូវបាន​ប្រើ ។
+Description-ko.UTF-8: 현재 키보드 배치를 설정 파일에 유지하시겠습니까?
+ 현재 키보드 배치는 /etc/default/keyboard 설정 파일에 XKBLAYOUT="${XKBLAYOUT}" 및 XKBVARIANT="${XKBVARIANT}" (이)라고 정의되어 있습니다.
+ .
+ 이 키보드 배치를 유지할지 여부를 선택하십시오. 유지한다면 이 뒤로는 키보드 배치에 관한 질문을 받지 않고 현재 설정을 계속 사용합니다.
+Description-ku.UTF-8: Bila klavyeya niha di pelê vesazkirinê de bê parastin?
+ Şêweya klavyeya niha ya di pelê vesazkirinê /etc/default/keyboardê de wekî XKBLAYOUT="${XKBLAYOUT}" û XKBVARIANT="${XKBVARIANT}" hatiye diyarkirin.
+ .
+ Tika ye ciyê dixwazî lê hilînî diyar bike. Eger vê vebijêrkê hilbijêrî, derbarê şêweya klavyeyê de dê tu pirs neyê kirin û mîhenga heyî dê bê parastin.
+Description-lv.UTF-8: Saglabāt konfigurācijas failā esošo klaviatūras izklājumu?
+ Šī brīža klaviatūras izklājums ir noteikts konfigurācijas failā /etc/default/keyboard kā XKBLAYOUT="${XKBLAYOUT}" un XKBVARIANT="${XKBVARIANT}".
+ .
+ Izvēlieties vai to saglabāt. Izvēloties šo iespēju tālākie jautājumi par klaviatūras konfigurāciju tiks izlaisti un esošā konfigurācija tiks saglabāta nemainīga.
+Description-mk.UTF-8: Зачувај го моменталниот распоред на тастатурата во конфигурационен фајл?
+ Моменталниот распоред на тастатурата во конфигурациониот фајл /etc/default/keyboard е дефиниран како XKBLAYOUT="${XKBLAYOUT}" и XKBVARIANT="${XKBVARIANT}".
+ .
+ Изберете дали сакате да го зачувате. Ако ја изберете оваа опција, нема да бидат поставувани прашања за распоредот на тастатурата и моменталната конфигурација ќе биде зачувана.
+Description-mr.UTF-8: संरचना फायलीत सध्याचाच कळफलक आराखडा ठेवायचा?
+ /etc/default/keyboard संरचना फायलीतील सध्याचा कळफलक आराखडाXKBLAYOUT="${XKBLAYOUT}" व XKBVARIANT="${XKBVARIANT}" आहे.
+ .
+ आपल्याला हे ठेवायचे आहे का, ते निवडा. आपण हा पर्याय निवडल्यास कळफलक आराखड्याविषयी कोणतेही प्रश्न विचारले जाणार नाहीत, आणि सद्य संरचना तशीच राखली जाईल.
+Description-nb.UTF-8: Behold gjeldende tastaturutforming i konfigurasjonsfilen?
+ Den gjeldende tastaturutformingen i konfigurasjonsfilen /etc/default/keyboard er definert som XKBLAYOUT="${XKBLAYOUT}" og XKBVARIANT="${XKBVARIANT}".
+ .
+ Velg om du vil beholde den. Hvis du velger å beholde, så vil du ikke få noen spørsmål om tastaturutformingen og den gjeldende konfigurasjonen blir bevart.
+Description-nl.UTF-8: Wilt u de huidige toetsenbordindeling in het configuratiebestand houden?
+ De huidige toetsenbordindeling in het configuratiebestand /etc/default/keyboard is gedefinieerd als XKBLAYOUT="${XKBLAYOUT}" en XKBVARIANT="${XKBVARIANT}".
+ .
+ Kiest u alstublieft of u het wilt houden. Als u hiervoor kiest, zullen verder geen vragen over de toetsenbordindeling worden gesteld en zal de huidige configuratie worden behouden.
+Description-no.UTF-8: Behold gjeldende tastaturutforming i konfigurasjonsfilen?
+ Den gjeldende tastaturutformingen i konfigurasjonsfilen /etc/default/keyboard er definert som XKBLAYOUT="${XKBLAYOUT}" og XKBVARIANT="${XKBVARIANT}".
+ .
+ Velg om du vil beholde den. Hvis du velger å beholde, så vil du ikke få noen spørsmål om tastaturutformingen og den gjeldende konfigurasjonen blir bevart.
+Description-pa.UTF-8: ਮੌਜੂਦਾ ਪਾਰਟੀਸ਼ਨ ਲੇਆਉਟ ਰੱਖੋ ਅਤੇ LVM ਸੰਰਚਿਤ ਕਰੋ?
+ ਮੋਜੂਦਾ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਜੋ ਕਿ ਇਸ ਕੰਨਫੀਗਰੇਸ਼ਨ ਫਾਇਲ ਵਿੱਚ ਹੈ /etc/default/keyboard ਦਰਸ਼ਉਂਦਾ ਹੈ ਕਿ XKBLAYOUT="${XKBLAYOUT}" and XKBVARIANT="${XKBVARIANT}".
+ .
+ ਕਿਰਪਾ ਕਰਕੇ ਚੁਣੋ ਜੇਕਰ ਤੁਸੀਂ ਇਹ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ । ਜੇ ਤੁਸੀਂ ਇਹ ਚੁਣਦੇ ਹੋ, ਤਾਂ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਬਾਰੇ ਕੁਝ ਨਹੀਂ ਪੁਛਿਆ ਜਾਵੇਗਾ ਤੇ ਹੁਣ ਵਾਲੀ ਸੰਰਚਨਾ ਸੰਭਾਲ ਲਈ ਜਾਵੇਗੀ।
+Description-pl.UTF-8: Zachować obecny układ klawiatury w pliku konfiguracyjnym?
+ Obecny układ klawiatury w pliku konfiguracyjnym /etc/default/keyboard jest zdefiniowany jako XKBLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}".
+ .
+ Proszę zdecydować czy chcesz go zachować. Jeśli odpowiesz twierdząco, nie zostaną zadane żadne pytania na temat układu klawiatury i zostanie zachowana bieżąca konfiguracja.
+Description-pt.UTF-8: Manter a disposição de teclado actual no ficheiro de configuração?
+ A disposição actual do teclado no ficheiro de configuração /etc/default/keyboard está definido como  XKBLAYOUT="${XKBLAYOUT}" e XKBVARIANT="${XKBVARIANT}".
+ .
+ Escolha, por favor, se quer mantê-la. Se escolher esta opção, não serão feitas perguntas sobre a disposição de teclado e a configuração actual será mantida.
+Description-pt_BR.UTF-8: Manter o layout de teclado atual no arquivo de configuração?
+ O layout de teclado atual no arquivo de configuração /etc/default/keyboard está definido como XKBLAYOUT="${XKBLAYOUT}" e XKBVARIANT="${XKBVARIANT}".
+ .
+ Por favor, escolha se você quer mantê-lo. Se você escolher esta opção, nenhuma pergunta sobre o layout do teclado será feita e a configuração atual será mantida.
+Description-ro.UTF-8: Se păstrează aranjamentul curent din fișierul de configurare?
+ Aranjamentul curent în fișierul de configurare /etc/default/keyboard este definit ca XKBLAYOUT="${XKBLAYOUT}" și XKBVARIANT="${XKBVARIANT}".
+ .
+ Alegeți dacă doriți să-l păstrați. Dacă alegeți această opțiune nu se vor pune întrebări despre aranjamentul de tastatură și configurația curentă va fi păstrată.
+Description-ru.UTF-8: Оставить текущую клавиатурную раскладку из файла настройки?
+ Текущая клавиатурная раскладка в файле настройки /etc/default/keyboard определена как XKBLAYOUT="${XKBLAYOUT}" и XKBVARIANT="${XKBVARIANT}".
+ .
+ Выберите, хотите ли вы оставить её. Если ответить утвердительно, то вопросы о раскладке клавиатуры заданы не будут, а имеющаяся настройка будет сохранена.
+Description-sk.UTF-8: Zachovať súčasné rozloženie klávesnice v konfiguračnom súbore?
+ Súčasné rozloženie klávesnice v konfiguračnom súbore /etc/default/keyboard je definované ako XKBLAYOUT="${XKBLAYOUT}" a XKBVARIANT="${XKBVARIANT}".
+ .
+ Rozhodnite sa, či ho chcete zachovať. Ak zvolíte túto možnosť, inštalačný program sa vás nebude pýtať na rozloženie klávesnice a zachová sa súčasná konfigurácia.
+Description-sl.UTF-8: Želite hraniti trenutno postavitev tipkovnice v nastavitveni datoteki?
+ Trenutna postavitev tipkovnice v nastavitveni datoteki /etc/default/keyboard je določena kot  XKBLAYOUT="${XKBLAYOUT}" in XKBVARIANT="${XKBVARIANT}".
+ .
+ Izberite prosim, če želite ohraniti to nastavitev. V primeru, da izberete to možnost, ne bo več postavljeno nobeno vprašanje o postavitvi tipkovnice in bo ohranjena trenutna nastavitev.
+Description-sr.UTF-8: Задржати тренутни распоред тастатуре у конфигурационом фајлу?
+ Тренутни распоред тастатуре у конфигурационом фајлу /etc/default/keyboard је дефинисан као XKBLAYOUT=„${XKBLAYOUT}“ и XKBVARIANT=„${XKBVARIANT}“.
+ .
+ Изаберите да ли желите да га задржите. Ако изаберете ову опцију, неће бити питања о распореду тастатуре и тренутна конфигурација ће се задржати.
+Description-sr@latin.UTF-8: Zadržati trenutni raspored tastature u konfiguracionom fajlu?
+ Trenutni raspored tastature u konfiguracionom fajlu /etc/default/keyboard je definisan kao XKBLAYOUT=„${XKBLAYOUT}“ i XKBVARIANT=„${XKBVARIANT}“.
+ .
+ Izaberite da li želite da ga zadržite. Ako izaberete ovu opciju, neće biti pitanja o rasporedu tastature i trenutna konfiguracija će se zadržati.
+Description-sv.UTF-8: Behåll den aktuella tangentbordslayouten i konfigurationsfilen?
+ Den aktuella tangentbordslayouten i konfigurationsfilen /etc/default/keyboard är definierad som XKBLAYOUT="${XKBLAYOUT}" och XKBVARIANT="${XKBVARIANT}".
+ .
+ Ange om du vill behålla detta. Om du väljer detta alternativ kommer inga övriga frågor att ställas om tangentbordsupplägget och din nuvarande konfiguration behålls.
+Description-ta.UTF-8: தற்போதய வடிவமைப்பு கோப்பில் உள்ள இட அமைப்பை வைத்துக் கொள்ளவா?
+ /etc/default/keyboard வடிவமைப்புக்கோப்பில் தற்போதைய இட அமைப்பு இப்படி வரையறுக்கப்பட்டுள்ளது:  XKBLAYOUT="${XKBLAYOUT}" மற்றும் XKBVARIANT="${XKBVARIANT}".
+ .
+ இதை அப்படியே வைத்துக்கொள்வதா என தேர்வு செய்யவும். இதை தேர்ந்தெடுத்தால் மேற்கொண்டு விசைப்பலகை இட அமைவு குறித்து கேள்விகள் ஏதும் கேட்டக்கப்பட மாட்டா.மற்றும் நடப்பு அமைப்பு பாதுகாக்கப்படும்.
+Description-th.UTF-8: จะคงค่าผังแป้นพิมพ์ปัจจุบันในแฟ้มค่าตั้งไว้หรือไม่?
+ ผังแป้นพิมพ์ปัจจุบันในแฟ้มค่าตั้ง /etc/default/keyboard กำหนดไว้เป็น XKBLAYOUT="${XKBLAYOUT}" และ XKBVARIANT="${XKBVARIANT}"
+ .
+ กรุณาเลือกว่าคุณต้องการคงค่านี้ไว้หรือไม่ โดยถ้าคุณเลือกคงค่าไว้ ก็จะไม่มีการถามเกี่ยวกับผังแป้นพิมพ์อีก และจะคงค่าตั้งปัจจุบันไว้
+Description-tr.UTF-8: Yapılandırma dosyasındaki mevcut klavye düzeni kullanılmaya devam edilsin mi?
+ /etc/default/keyboard yapılandırma dosyasındaki klavye düzeni  XKBLAYOUT="${XKBLAYOUT}" ve  XKBVARIANT="${XKBVARIANT}" olarak tanımlanmış.
+ .
+ Eğer bu düzeni korumayı seçerseniz klavye düzeniyle ilgili herhangi bir soru sorulmayacak ve mevcut yapılandırmanız korunacak.
+Description-uk.UTF-8: Залишити поточну розкладку клавіатури в файлі налаштувань?
+ Наразі в файлі налаштувань /etc/default/keyboard вказано такі параметри для розкладки клавіатури: XKBLAYOUT="${XKBLAYOUT}" та XKBVARIANT="${XKBVARIANT}".
+ .
+ Будь ласка, вкажіть, чи хочете ви залишити цей варіант. Якщо ви погодитесь, жодних питань стосовно розкладки клавіатури більше задаватись не буде, будуть збережені поточні налаштування.
+Description-zh_CN.UTF-8: 在配置文件中保留当前键盘布局吗？
+ 当前键盘布局在配置文件 /etc/default/keyboard 中定义为了 XKBLAYOUT="${XKBLAYOUT}" 和 XKBVARIANT="${XKBVARIANT}"。
+ .
+ 请选择您是否想保留。如果您选择此选项，将不会再询问有关键盘布局的问题，并且当前配置将会保留。
+Description-zh_TW.UTF-8: 是否保留目前的設定檔中所指定的鍵盤排列方式？
+ 目前在設定檔 /etc/default/keyboard 中的鍵盤排列方式乃設定為 XKBLAYOUT="${XKBLAYOUT}" 及 XKBVARIANT="${XKBVARIANT}"。
+ .
+ 請選擇您是否要保留這個設定。如果您選擇了這個選項，接下來將不會再詢問任何有關鍵盤配置的問題，且將保留目前的設定。
+
+Template: keyboard-configuration/unsupported_layout
+Type: boolean
+Default: true
+Description: Keep default keyboard layout (${XKBLAYOUTVARIANT})?
+ The default value for the keyboard layout is XKBLAYOUT="${XKBLAYOUT}"
+ and XKBVARIANT="${XKBVARIANT}".  This default value is based on the
+ currently defined language/region and the settings in
+ /etc/X11/xorg.conf.
+ .
+ Please choose whether you want to keep it. If you choose this option,
+ no questions about the keyboard layout will be asked.
+Description-ar.UTF-8: هل تريد إبقاء مخطط لوحة المفاتيح الإفتراضية (${XKBLAYOUTVARIANT})?
+ القيمة الإفتراضية لمخطط لوحة المفاتيح هو XKBLAYOUT="${XKBLAYOUT}" و XKBVARIANT="${XKBVARIANT}".  هذه القيمة محددة وفقاً للغة الدولة/المنطقة والإعدادات في /etc/X11/xorg.conf.
+ .
+ رجاءً اختر ما إذا كنت تريد إبقاءه. إن اخترت هذا الخيار، فلن تُطرح عليك أية أسئلة حول تخطيط لوحة المفاتيح.
+Description-ast.UTF-8: Caltener la disposición de tecláu actual (${XKBLAYOUTVARIANT})?
+ El valor por defeutu pa la disposición de tecláu ye XKBLAYOUT="${XKBLAYOUT}" and XKBVARIANT="${XKBVARIANT}". Esti valor por defeutu ta basáu nel territoriu/llingua definíos y la configuración en /etc/X11/xorg.conf.
+ .
+ Por favor, escueyi si quies caltenela. Si escueyes esta opción, nun se entrugará más sobre la disposición del tecláu.
+Description-be.UTF-8: Пакінуць перадвызначаную раскладку клавіятуры (${XKBLAYOUTVARIANT})?
+ Перадвызначанае значэнне раскладкі клавіятуры: XKBLAYOUT="${XKBLAYOUT}" і XKBVARIANT="${XKBVARIANT}".  Гэтае перадвызначанае значэнне заснавана на выбранай мове, рэгіёне і наладках у /etc/X11/xorg.conf.
+ .
+ Вызначце, ці хочаце вы захаваць гэта. Калі выберыце, то ніякіх пытанняў пра раскладку клавіятуры не будзе спытана.
+Description-bg.UTF-8: Да се запази ли клавиатурната подредба по подразбиране (${XKBLAYOUTVARIANT})?
+ Според указаните език/регион и настройките в /etc/X11/xorg.conf, клавиатурната подредба по подразбиране е XKBLAYOUT="${XKBLAYOUT}" и XKBVARIANT="${XKBVARIANT}".
+ .
+ Моля, изберете дали желаете да запазите тази подредба.  Ако решите да я запазите, няма да бъдат задавани повече въпроси за клавиатурната подредба.
+Description-bn.UTF-8: ডিফল্ট কীবোর্ড লেআউট  (${XKBLAYOUTVARIANT}) রাখা হবে?
+ কীবোর্ড লেআউটের ডিফল্ট মান হল  XKBLAYOUT="${XKBLAYOUT}" এবং XKBVARIANT="${XKBVARIANT}".  এই ডিফল্ট মান নির্দেশিত হয়েছে বর্তমান  language/region এবং  /etc/X11/xorg.conf ফাইলের  সেটিং এর উপর ভিত্তি করে।
+ .
+ অনুগ্রহপূর্বক জানান, আপনি কি এটা রাখতে চান? যদি আপনি এই অপশনে না পছন্দ করেন তবে কীবোর্ড লেআউট নিয়ে প্রশ্ন আবার করা হবে।
+Description-bs.UTF-8: Zadrži standardni raspored tastature (${XKBLAYOUTVARIANT})?
+ Standardna vrijednost za raspored tastature je XKBLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}".  Ova standardna vrijednost je bazirana na trenutno definisanom jeziku/regionu i opcijama u /etc/X11/xorg.conf.
+ .
+ Molimo izaberite želite li zadržavi ovo. Ako izaberete ovu opciju, nećete biti pitani za raspored tastature kasnije.
+Description-ca.UTF-8: Voleu mantenir la disposició del teclat predeterminada (${XKBLAYOUTVARIANT})?
+ El valor per defecte per a la disposició del teclat és XKBLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}". Aquest valor predeterminat es basa en la regió/llengua definida actualment i en els paràmetres del fitxer «/etc/X11/xorg.conf».
+ .
+ Seleccioneu si voleu mantenir-la. Si seleccioneu aquesta opció, no es farà cap pregunta sobre la disposició del teclat.
+Description-cs.UTF-8: Ponechat výchozí rozložení klávesnice (${XKBLAYOUTVARIANT})?
+ Výchozí rozložení klávesnice je XKBLAYOUT="${XKBLAYOUT}" a XKBVARIANT="${XKBVARIANT}". To je z založeno na aktuálně definovaných hodnotách jazyka, regionu a volbách v souboru /etc/X11/xorg.conf.
+ .
+ Rozhodněte se, zda chcete toto rozložení ponechat. Odpovíte-li kladně, nebudete dotázáni na žádné další otázky ohledně rozložení klávesnice.
+Description-da.UTF-8: Behold standardtastaturlayout (${XKBLAYOUTVARIANT})?
+ Standardværdien for tastaturlayoutet er XKBLAYOUT="${XKBLAYOUT}" og XKBVARIANT="${XKBVARIANT}".  Denne standardværdi er baseret på den nuværende definition af sprog og region, samt indstillingerne i /etc/X11/xorg.conf.
+ .
+ Vælg venligst om du vil beholde den. Hvis du vælger dette, vil der ikke blive stillet nogen spørgsmål om tastaturlayout.
+Description-de.UTF-8: Voreingestellte Tastaturbelegung (${XKBLAYOUTVARIANT}) beibehalten?
+ Der voreingestellte Wert für die Tastaturbelegung ist XKBLAYOUT=»${XKBLAYOUT}« und XKBVARIANT=»${XKBVARIANT}«. Dieser Standardwert basiert auf dem derzeit definierten Wert für Sprache/Region und den Einstellungen in /etc/X11/xorg.conf.
+ .
+ Bitte wählen Sie aus, ob Sie diesen beibehalten möchten. Wenn Sie sich dafür entscheiden, werden keine weiteren Fragen über die Tastaturbelegung gestellt.
+Description-el.UTF-8: Διατήρηση του τρέχοντος σχεδίου πληκτρολογίου (${XKBLAYOUTVARIANT})?
+ Η προκαθορισμένη τιμή για το σχέδιο του πληκτρολογίου είναι XKBLAYOUT="${XKBLAYOUT}" και XKBVARIANT="${XKBVARIANT}".   Η προκαθορισμένη τιμή βασίζεται  στην γλώσσα/περιοχή και τις ρυθμίσεις στο /etc/X11/xorg.conf.
+ .
+ Παρακαλώ επιλέξτε αν θέλετε να το διατηρήσετε. Αν επιλέξετε κάτι τέτοιο καμία ερώτηση για το πληκτρολόγιο δεν θα σας γίνει.
+Description-eo.UTF-8: Ĉu teni la aprioran klavar-aranĝon (${XKBLAYOUTVARIANT})?
+ La apriora valoro por la klavar-aranĝo estas XKBLAYOUT="${XKBLAYOUT}" kaj XKBVARIANT="${XKBVARIANT}". Tiu ĉi apriora valoro surbaziĝas je la nune difinita lingvo/regiono kaj je la agordoj en /etc/X11/xorg.conf.
+ .
+ Bonvolu elekti ĉu vi volas teni ĝin. Se vi elektos tiun ĉi opcion, neniu demando pri la klavar-aranĝo estos farata.
+Description-es.UTF-8: ¿Desea mantener la distribución predeterminada del teclado (${XKBLAYOUTVARIANT})?
+ El valor predeterminado de la distribución del teclado es XKBLAYOUT="${XKBLAYOUT}" y XKBVARIANT="${XKBVARIANT}". Este valor predeterminado se basa en el idioma/región actualmente definido y en la configuración del archivo «/etc/X11/xorg.conf».
+ .
+ Escoja si quiere mantenerlo. Si escoge esta opción, no se le preguntará acerca de la distribución del teclado.
+Description-et.UTF-8: Kas säilitada (${XKBLAYOUTVARIANT}) vaikimisi klaviatuuripaigutus?
+ Klaviatuuri vaikimisi paigutus on XKBLAYOUT="${XKBLAYOUT}" ja XKBVARIANT="${XKBVARIANT}". See vaikeväärtus määratakse valitud keele/regiooni ning /etc/X11/xorg.conf faili järgi.
+ .
+ Vali, kas tahad seda hoida. Kui valid selle, ei küsita klaviatuuri kohta mingeid küsimusi.
+Description-eu.UTF-8: Mantendu teklatuaren diseinu lehenetsia (${XKBLAYOUTVARIANT})?
+ Teklatuaren diseinuaren balio lehenetsiak XKBLAYOUT="${XKBLAYOUT}" eta XKBVARIANT="${XKBVARIANT}" dira. Lehenetsitako balio hauek hizkuntza/eskualdea eta /etc/X11/xorg.conf fitxategiko ezarpenetan oinarritzen dira.
+ .
+ Aukeratu hori mantentzea nahi duzun ala ez. Aukera hau hautatzen baduzu, ez zaizu teklaturen diseinuari buruzko galdera gehiago egingo.
+Description-fa.UTF-8: طرح بندی فعلی صفحه کلید (${XKBLAYOUTVARIANT}) حفظ شود؟
+ طرح بندی پیش فرض صفحه کلید XKBLAYOUT="${XKBLAYOUT}" و XKBVARIANT="${XKBVARIANT}" است. این مقدار بر اساس زبان/منطقه که تعریف شد و تنظیمات /etc/X11/xorg.conf است.
+ .
+ لطفا آنچه را می خواهید نگه دارید انتخاب کنید. در صورت انتخاب این گزینه ، در مورد طرح بندی صفحه کلید سوال نخواهد شد.
+Description-fi.UTF-8: Säilytetäänkö oletusnäppäinasettelu (${XKBLAYOUTVARIANT})? 
+ Näppäinasettelun oletusarvo on XKBLAYOUT="${XKBLAYOUT}" ja XKBVARIANT="${XKBVARIANT}". Oletusarvo perustuu tällä hetkellä käytössä olevaan kieleen ja alueeseen sekä tiedoston /etc/X11/xorg.conf asetuksiin.
+ .
+ Valitse haluatko säilyttää sen. Jos valitset tämän vaihtoehdon näppäinasetteluun liittyviä kysymyksiä ei kysytä.
+Description-fr.UTF-8: Conserver la disposition clavier par défaut (${XKBLAYOUTVARIANT}) ?
+ La valeur par défaut de la disposition clavier est XKBLAYOUT="${XKBLAYOUT}" et XKBVARIANT="${XKBVARIANT}". La valeur par défaut est basée sur la langue et la région choisies et les réglages de /etc/X11/xorg.conf.
+ .
+ Veuillez choisir si vous souhaitez la conserver. Si vous choisissez cette option, aucune information ne vous sera demandée concernant la disposition des touches du clavier.
+Description-ga.UTF-8: An bhfuil fonn ort an leagan amach réamhshocraithe a choinneáil (${XKBLAYOUTVARIANT})?
+ Is é seo leagan amach réamhshocraithe an mhéarchláir: XKBLAYOUT="${XKBLAYOUT}" agus XKBVARIANT="${XKBVARIANT}". Tá an leagan amach réamhshocraithe seo bunaithe ar an teanga/réigiún atá i bhfeidhm faoi láthair, agus na socruithe in /etc/X11/xorg.conf.
+ .
+ Roghnaigh an bhfuil fonn ort é a choinneáil. Má roghnaíonn tú é seo, ní chuirfear aon cheisteanna ort faoi leagan amach an mhéarchláir.
+Description-gl.UTF-8: Desexa manter a disposición do teclado predeterminada (${XKBLAYOUTVARIANT})?
+ O valor predeterminado da disposición do teclado é XKBLAYOUT="${XKBLAYOUT}" e XKBVARIANT="${XKBVARIANT}". Este valor está baseado na linguaxe/rexión definida actualmente e na configuración en /etc/X11/xorg.conf.
+ .
+ Indique se desexa mantela. Se escolle esta opción, non se farán preguntas acerca da disposición do teclado.
+Description-gu.UTF-8: મૂળભૂત કીબોર્ડ દેખાવ રાખશો (${XKBLAYOUTVARIANT})?
+ કીબોર્ડ દેખાવની મૂળભૂત કિંમત XKBLAYOUT="${XKBLAYOUT}" અને XKBVARIANT="${XKBVARIANT}" છે.  આ મૂળભૂત કિંમત હાલમાં વ્યાખ્યાયિત ભાષા/વિસ્તારઅને /etc/X11/xorg.conf ની ગોઠવણીઓ પર આધારિત છે.
+ .
+ મહેરબાની કરી પસંદ કરો કે તમારે રાખવું છે. જો તમે આ વિકલ્પ પસંદ કરશો તો, કીબોર્ડ દેખાવ વિશે કોઇપણ પ્રશ્ર્નો પૂછવામાં આવશે નહીં.
+Description-hi.UTF-8: (${XKBLAYOUTVARIANT}) को डीफाल्ट कुंजीपटल अभिन्यास रखें?
+ कुंजीपटल अभिन्यास डिफाल्ट XKBLAYOUT="${XKBLAYOUT}" andXKBVARIANT="${XKBVARIANT}" है. यह /etc/X11/xorg.conf में देश/स्थान कीजानकारी पर आधारित है.
+ .
+ कृपया चुनिए की आप इसे रखना चाहते हैं या नहीं. अगर आप इसे चुनते हैंतो कुंजीपटल के बारे में प्रश्न नहीं पूछे जायेंगे.
+Description-hr.UTF-8: Zadržati zadani raspored tipkovnice (${XKBLAYOUTVARIANT})?
+ Zadana vrijednost za raspored tipkovnice je XKBLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}".  Ova zadana vrijednost je temeljena na trenutno određenom jeziku/regiji i postavkama u /etc/X11/xorg.conf.
+ .
+ Molim odaberiti želite li ovo zadržati. Ukoliko odaberete ovu mogućnost, neće biti postavljenih pitanja oko rasporeda tipkovnice.
+Description-hu.UTF-8: Megtartod az alap billentyűkiosztást (${XKBLAYOUTVARIANT})?
+ Az alap érték a billentyűkiosztásra az XKBLAYOUT="${XKBLAYOUT}" és XKBVARIANT="${XKBVARIANT}".  Ez a mostani nyelv/régió és a /etc/X11/xorg.conf beállításra épül.
+ .
+ Most döntsd el, hogy megtartod-e. Ha ezt választod, nem teszek fel több kérdést a kiosztásról.
+Description-id.UTF-8: Gunakan pola keyboard yang ada:(${XKBLAYOUTVARIANT})? 
+ Pola keyboard yang digunakan sekarang adalah XKBLAYOUT="${XKBLAYOUT}" dan "XKBVARIANT="${XKBVARIANT}". Pola standar ini berdasarkan konfigurasi bahasa/wilayah dan konfigurasi di /etc/X11/xorg.conf.
+ .
+ Silakan pilih bila Anda ingin menggunakannya. Jika Anda memilihnya, tidak akan ada lagi pertanyaan tentang pola keyboard.
+Description-it.UTF-8: Mantenere la disposizione predefinita della tastiera (${XKBLAYOUTVARIANT})?
+ Il valore predefinito per la disposizione della tastiera è XKBLAYOUT="${XKBLAYOUT}" and XKBVARIANT="${XKBVARIANT}". Questo valore è basato sulla lingua e regione attualmente definite e sulle impostazioni contenute in /etc/X11/xorg.conf.
+ .
+ Scegliere se mantenere tale disposizione. Se viene scelta questa opzione non verrà posta alcuna domanda riguardo la disposizione della tastiera.
+Description-ja.UTF-8: デフォルトのキーボードレイアウト (${XKBLAYOUTVARIANT}) を保持しますか?
+ キーボードレイアウトのデフォルト値は、XKBLAYOUT="${XKBLAYOUT}" と XKBVARIANT="${XKBVARIANT}" です。このデフォルト値は、現在定義されている言語/地域および /etc/X11/xorg.conf の設定に基づいています。
+ .
+ そのまま保持するかどうかを選んでください。この選択肢で「はい」を選ぶと、キーボードのレイアウトについての質問は尋ねられません。
+Description-kk.UTF-8: Бастапқы пернетақта жаймасын (${XKBLAYOUTVARIANT}) қалдыру керек пе?
+ Пернетақта жаймасы үшін бастапқы мәні XKBLAYOUT="${XKBLAYOUT}" және XKBVARIANT="${XKBVARIANT}". Бастапқы мәндер ағымдағы ел/аймақ және /etc/X11/xorg.conf ішіндегі баптаулар негізінде алынған.
+ .
+ Оны қалдыруды қалайсыз ба, соны көрсетіңіз. Бұл опцияны қаласаңыз, пернетақта жаймасы жөнінде ешбір сұрақ қойылмайтын болады.
+Description-km.UTF-8: រក្សា​ទុក​ប្លង់​ក្ដារចុច​លំនាំដើម (${XKBLAYOUTVARIANT})?
+ តម្លៃ​លំនាំដើម​សម្រាប់​ប្លង់​ក្ដារចុច​គឺ XKBLAYOUT="${XKBLAYOUT}" និងXKBVARIANT="${XKBVARIANT}" ។  តម្លៃ​លំនាំដើម​នេះ​មាន​មូលដ្ឋាន​លើ​តំបន់/ភាសា​ដែល​បាន​កំណត់​​បច្ចុប្បន្ន ហើយ​និង​នៅ​ក្នុង​​ការ​កំណត់​នៅ​ក្នុង /etc/X11/xorg.conf.
+ .
+ សូម​ជ្រើស​ថាតើ ​អ្នក​ចង់​រក្សាទុក​វា​ដែរឬទេ ។ ប្រសិនបើ​អ្នក​ជ្រើស​ជម្រើស​នេះ គ្មាន​សំណួរ​អំពី​ប្លង់​ក្ដារចុច​នឹង​ត្រូវ​បាន​សួ​ររក​ទេ ។
+Description-ko.UTF-8: 기본 키보드 배치를 유지하시겠습니까 (${XKBLAYOUTVARIANT})?
+ 현재 키보드 배치 기본값은 XKBLAYOUT="${XKBLAYOUT}" 및 XKBVARIANT="${XKBVARIANT}"입니다. 이 기본값은 현재 정의된 언어/지역 및 /etc/X11/xorg.conf 파일의 설정에 따라 정해진 값입니다.
+ .
+ 이 키보드 배치를 유지할지 여부를 선택하십시오. 유지한다면 이 뒤로는 키보드 배치에 관한 질문을 받지 않습니다.
+Description-ku.UTF-8: Klavyeya standard (${XKBLAYOUTVARIANT})ê biparêze?
+ Nirxê standard ê ji bo klavyeyê XKBLAYOUT="${XKBLAYOUT}" û XKBVARIANT="${XKBVARIANT}" ye. Ev nirxê standard li gorî ziman/herêm û mîhenga /etc/X11/xorg.confê tê diyarkirin.
+ .
+ Ji kerema xwe re hilbijêre ka dê beşa nû li destpêk an jî li dawiya ciyekî pêkan were çêkirin.
+Description-lv.UTF-8: Saglabāt esošo klaviatūras izklājumu  (${XKBLAYOUTVARIANT})?
+ Klaviatūras izklājums pēc noklusējuma ir XKBLAYOUT="${XKBLAYOUT}" un XKBVARIANT="${XKBVARIANT}". Šī vērtība ir balstīta uz izvēlēto valodu, reģionu un uz uzstādījumiem failā /etc/X11/xorg.conf.
+ .
+ Lūdzu, izvēlieties vai saglabāt esošo konfigurāciju. Izvēloties šo iespēju, papildus jautājumi par klaviatūras izklājumu tiks izlaisti.
+Description-mk.UTF-8: Задржи го основниот распоред на тастатурата (${XKBLAYOUTVARIANT})?
+ Основната вредност за распоредот на тастатурата е  XKBLAYOUT="${XKBLAYOUT}" и XKBVARIANT="${XKBVARIANT}".  Оваа основна вредност е базирана на моментално дефинираниот јазик/регион и поставките во /etc/X11/xorg.conf.
+ .
+ Изберете дали сакате да го зачувате. Ако ја изберете оваа опција, нема да бидат поставени прашања за разпоредот на тастатурата.
+Description-mr.UTF-8:  (${XKBLAYOUTVARIANT}) हा मूलनिर्धारित कळफलक आराखडा ठेवायचा?
+ कळफलक आराखड्याचे मूलनिर्धारित मूल्य सद्ध्या ठरवलेले भाषा/प्रदेश व  /etc/X11/xorg.conf मधील निर्धारणे यांवर आधारित आहे. हे मूलनिर्धारित मूल्य XKBLAYOUT="${XKBLAYOUT}" आणि XKBVARIANT="${XKBVARIANT}" आहे.
+ .
+ आपल्याला हे ठेवायचे आहे का, ते निवडा. आपण हा पर्याय निवडल्यास कळफलक आराखड्याविषयी कोणतेही प्रश्न विचारले जाणार नाहीत, आणि सद्य संरचना तशीच राखली जाईल.
+Description-nb.UTF-8: Behold standard tastaturutforming (${XKBLAYOUTVARIANT})?
+ Standardverdien for tastaturutformingen er XKBLAYOUT="${XKBLAYOUT}" og XKBVARIANT="${XKBVARIANT}". Denne standardverdien er basert på gjeldende definert språk/region og innstillingene i /etc/X11/xorg.conf.
+ .
+ Velg om du vil beholde den. Hvis du velger å beholde, så vil du ikke få noen spørsmål om tastaturutformingen.
+Description-nl.UTF-8: Wilt u de standaard toetsenbordindeling (${XKBLAYOUTVARIANT}) behouden?
+ De standaardwaarde voor de toetsenbordindeling is XKBLAYOUT="${XKBLAYOUT}" en XKBVARIANT="${XKBVARIANT}". Deze standaardwaarde is gebaseerd op de huidige instelling voor land/regio en de instellingen in /etc/X11/xorg.conf.
+ .
+ Kiest u of u dit wilt behouden. Als u hiervoor kiest, zullen verder geen vragen over de toetsenbordindeling worden gesteld.
+Description-no.UTF-8: Behold standard tastaturutforming (${XKBLAYOUTVARIANT})?
+ Standardverdien for tastaturutformingen er XKBLAYOUT="${XKBLAYOUT}" og XKBVARIANT="${XKBVARIANT}". Denne standardverdien er basert på gjeldende definert språk/region og innstillingene i /etc/X11/xorg.conf.
+ .
+ Velg om du vil beholde den. Hvis du velger å beholde, så vil du ikke få noen spørsmål om tastaturutformingen.
+Description-pa.UTF-8: ਕੀ ਡੀਫਾਲਟ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਰੱਖਣਾ ਹੈ (${XKBLAYOUTVARIANT})?
+ ਡੀਫਾਲਟ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਹੈ  XKBLAYOUT="${XKBLAYOUT}"  ਅਤੇXKBVARIANT="${XKBVARIANT}" । ਇਹ ਡੀਫਾਲਟ ਕੀਮਤ /etc/X11/xorg.conf ਵਿੱਚ ਦਰਸ਼ਾਈ ਗਈ ਭਾਸ਼ਾ/ਇਲਾਕੇ ਅਤੇ ਸੈਟਿੰਗ ਤੇ ਅਧਾਰਿਤ ਹੈ ।
+ .
+ ਚੁਣੋ ਕਿ ਕੀ ਤੁਸੀਂ ਨਵਾਂ ਪਾਰਟੀਸ਼ਨ ਉਪਲੱਬਧ ਥਾਂ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ ਵਿੱਚ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ।
+Description-pl.UTF-8: Zachować obecny układ klawiatury (${XKBLAYOUTVARIANT})?
+ Domyślne ustawienie układu klawiatury to XKBLAYOUT="${XKBLAYOUT}" i XKBVARIANT="${XKBVARIANT}". Jest ono oparte na obecnie zdefiniowanym kraju/regionie i ustawieniach w /etc/X11/xorg.conf.
+ .
+ Proszę wybrać czy chcesz go zatrzymać. Jeśli wybierzesz tą opcję, nie zostaną zadane żadne pytania na temat układu klawiatury.
+Description-pt.UTF-8: Manter a disposição padrão do teclado (${XKBLAYOUTVARIANT})?
+ O valor padrão para a disposição do teclado é XKBLAYOUT="${XKBLAYOUT}" e XKBVARIANT="${XKBVARIANT}". Este valor padrão é baseado nas definições de idioma/região em /etc/X11/xorg.conf.
+ .
+ Por favor, escolha se quer mantê-lo. Se escolher esta opção, não serão apresentadas questões sobre a disposição do teclado.
+Description-pt_BR.UTF-8: Manter o layout de teclado (${XKBLAYOUTVARIANT}) padrão?
+ O valor padrão para o layout do teclado é XKBLAYOUT="${XKBLAYOUT}" e XKBVARIANT="${XKBVARIANT}". Este valor padrão é baseado na configuração atual de língua/região e nas configurações em /etc/X11/xorg.conf.
+ .
+ Por favor, escolha se você quer mantê-lo. Se você escolher esta opção, nenhuma pergunta sobre o layout do teclado será feita.
+Description-ro.UTF-8: Se păstrează aranjamentul de tastatură implicit (${XKBLAYOUTVARIANT})?
+ Valoarea implicită pentru aranjamentul de tastatură este XKBLAYOUT="${XKBLAYOUT}" și XKBVARIANT="${XKBVARIANT}". Această valoare implicită este bazată pe limba/regiunea definită și setările din /etc/X11/xorg.conf.
+ .
+ Vă rugăm să alegeți dacă doriți să o păstrați. Dacă alegeți această opțiune nu se vor pune întrebări legate de aranjamentul de tastatură.
+Description-ru.UTF-8: Оставить раскладку клавиатуры (${XKBLAYOUTVARIANT}), используемую по умолчанию?
+ Значение клавиатурной раскладки по умолчанию равно XKBLAYOUT="${XKBLAYOUT}" и XKBVARIANT="${XKBVARIANT}".Оно основывается на выбранном языке/местности и настройках из /etc/X11/xorg.conf.
+ .
+ Укажите, хотите ли вы оставить его. Если ответить утвердительно, то вопросы о раскладке клавиатуры заданы не будут.
+Description-sk.UTF-8: Zachovať súčasné rozloženie klávesnice (${XKBLAYOUTVARIANT})?
+ Predvolená hodnota rozloženia klávesnice je XKBLAYOUT="${XKBLAYOUT}" a XKBVARIANT="${XKBVARIANT}". Predvolená hodnota je založená na momentálne definovanom jazyku/regióne a nastaveniach v súbore /etc/X11/xorg.conf.
+ .
+ Rozhodnite sa, či ho chcete zachovať. Ak zvolíte túto možnosť, inštalátor sa vás nebude pýtať žiadne otázky týkajúce sa rozloženia klávesnice.
+Description-sl.UTF-8: Želite ohraniti privzeto postavitev tipkovnice  (${XKBLAYOUTVARIANT})?
+ Privzeta vrednost za postavitev tipkovnice je XKBLAYOUT="${XKBLAYOUT}" in XKBVARIANT="${XKBVARIANT}". Ta privzeta postavitev je osnovana na trenutno določenem jeziku/deželi in nastavitvah v /etc/X11/xorg.conf.
+ .
+ Izberite prosim, če želite ohraniti to postavitev. V primeru, da izberete to možnost, ne bo več postavljeno nobeno vprašanje o postavitvi tipkovnice.
+Description-sr.UTF-8: Задржати подразумевани распоред тастатуре (${XKBLAYOUTVARIANT})?
+ Подразумевана вредност за распоред тастатуре је XKBLAYOUT=„${XKBLAYOUT}“ и XKBVARIANT=„${XKBVARIANT}“. Ова вредност је базирана на тренутно дефинисаним језику/региону и подешавањима у /etc/X11/xorg.conf.
+ .
+ Изаберите да ли желите да га задржите. Ако изаберете ову опцију, неће бити питања о рапореду тастатуре.
+Description-sr@latin.UTF-8: Zadržati podrazumevani raspored tastature (${XKBLAYOUTVARIANT})?
+ Podrazumevana vrednost za raspored tastature je XKBLAYOUT=„${XKBLAYOUT}“ i XKBVARIANT=„${XKBVARIANT}“. Ova vrednost je bazirana na trenutno definisanim jeziku/regionu i podešavanjima u /etc/X11/xorg.conf.
+ .
+ Izaberite da li želite da ga zadržite. Ako izaberete ovu opciju, neće biti pitanja o raporedu tastature.
+Description-sv.UTF-8: Behåll standardlayouten för tangentbord (${XKBLAYOUTVARIANT})?
+ Standardvärdet för tangentbordslayouten är XKBLAYOUT="${XKBLAYOUT}" och XKBVARIANT="${XKBVARIANT}".  Detta standardvärde är baserat på definierat språk/region samt inställningarna i /etc/X11/xorg.conf.
+ .
+ Ange om du vill behålla detta. Väljer du denna väg kommer inga frågor om tangetnbordsupplägg att ställas.
+Description-ta.UTF-8: முன்னிருப்பு விசைப்பலகை இட அமைவு (${XKBLAYOUTVARIANT}) ஐ அப்படியே வைத்துக்கொள்ளலாமா?
+ முன்னிருப்பு விசைப்பலகை இட அமைவு  XKBLAYOUT="${XKBLAYOUT}" மற்றும் XKBVARIANT="${XKBVARIANT}".  இந்த முன்னிருப்பு அமைவு /etc/X11/xorg.conf. இல் உள்ள நாடு மற்றும் வட்டாரம் அமைப்பின் அடிப்படையில் தேர்ந்தெடுக்கப்பட்டது.
+ .
+ தயை செய்து இதை வைத்துக்கொள்வதா என தேர்வு செய்யவும். இதை தேர்ந்தெடுத்தால் மேற்கொண்டு விசைப்பலகை வடிவமைப்பு குறித்து எந்த கேள்வியும் கேட்கப்படமாட்டாது.
+Description-th.UTF-8: จะคงค่าผังแป้นพิมพ์ปริยาย (${XKBLAYOUTVARIANT}) หรือไม่?
+ ค่าปริยายของผังแป้นพิมพ์คือ XKBLAYOUT="${XKBLAYOUT}" และ XKBVARIANT="${XKBVARIANT}" โดยค่านี้จะอ้างอิงจากภาษา/ภูมิภาคที่กำหนดอยู่ในปัจจุบัน และค่าตั้งใน /etc/X11/xorg.conf
+ .
+ กรุณาเลือกว่าคุณต้องการคงค่านี้ไว้หรือไม่ โดยถ้าคุณเลือกคงค่าไว้ ก็จะไม่มีการถามเกี่ยวกับผังแป้นพิมพ์อีก
+Description-tr.UTF-8: Öntanımlı klavye düzeni (${XKBLAYOUTVARIANT}) kullanılmaya devam edilsin mi?
+ Öntanımlı klavye düzeni  XKBLAYOUT="${XKBLAYOUT}" and XKBVARIANT="${XKBVARIANT}" şeklindedir. Bu öntanımlı değer dil/bölge ayarlarınıza ve /etc/X11/xorg.conf dosyasındaki ayarları temel alır.
+ .
+ Bu değeri değiştirmemeyi seçerseniz klavye düzeni hakkında sorularla karşılaşmayacaksınız.
+Description-uk.UTF-8: Залишити поточну розкладку клавіатури (${XKBLAYOUTVARIANT})?
+ Звичними значеннями для розкладки клавіатури є XKBLAYOUT="${XKBLAYOUT}" та XKBVARIANT="${XKBVARIANT}". Вони встановлюються відповідно до поточних значень мови/регіону та налаштувань у файлі /etc/X11/xorg.conf.
+ .
+ Будь ласка, вкажіть, чи хочете ви залишити цей варіант. Якщо ви погодитесь, жодних питань стосовно розкладки клавіатури більше задаватись не буде.
+Description-zh_CN.UTF-8: 保留默认键盘布局 (${XKBLAYOUTVARIANT})？
+ 键盘布局的默认值是 XKBLAYOUT="${XKBLAYOUT}" 和 XKBVARIANT="${XKBVARIANT}"。此默认值根据当前设置语言和国家，以及 /etc/X11/xorg.conf 中的设置确定。
+ .
+ 请选择是否保留。如果您选择此选项，将不会再询问有关键盘布局的问题。
+Description-zh_TW.UTF-8: 是否保留預設的鍵盤排列方式（${XKBLAYOUTVARIANT}）？
+ 鍵盤排列方式的預設值為 XKBLAYOUT="${XKBLAYOUT}" 及 XKBVARIANT="${XKBVARIANT}"。這個預設值乃是取決於目前所設定的語言/地區，及 /etc/X11/xorg.conf 裡的設定。
+ .
+ 請選擇您是否要保留它。如果您選擇了這個選項，將不會再詢問任何有關鍵盤配置的問題。
+
+Template: keyboard-configuration/unsupported_config_options
+Type: boolean
+Default: true
+Description: Keep current keyboard options in the configuration file?
+ The current keyboard options in the configuration file
+ /etc/default/keyboard are defined as XKBOPTIONS="${XKBOPTIONS}".
+ .
+ If you choose to keep these options, no questions about the keyboard
+ options will be asked.
+Description-ar.UTF-8: هل تريد إبقاء خيارات لوحة المفاتيح الحالية في ملف التهيئة؟
+ خيارات لوحة المفاتيح الحالية في ملف التهيئة /etc/default/keyboard مُحددة بالقيمة XKBOPTIONS="${XKBOPTIONS}".
+ .
+ إن اخترت إبقاء هذه الخيارات، فلن تُسأل أية أسئلة عن خيارات لوحة المفاتيح.
+Description-ast.UTF-8: ¿Caltener opciones actuales del tecláu nel ficheru de configuración?
+ Les opciones actuales de tecláu nel ficheru de configuración /etc/default/keyboard tan definíes como XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Si escueyes caltener estes opciones, nun se fadrán entrugues sobre les opciones de tecláu.
+Description-be.UTF-8: Ці пакінуць цяперашнія настаўленні клавіятуры ў канфігурацыйным файле?
+ Цяперашнія наладкі клавіятуры ў канфігурацыйным файле /etc/default/keyboard вызначаныя як XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Калі вы вырашыце пакінуць гэтыя наладкі, то не будзе задавацца ніякіх пытанняў пра наладкі клавіятуры.
+Description-bg.UTF-8: Запазване на текущите опции в конфигурационния файл?
+ Текущите опции на клавиатурата в /etc/default/keyboard са XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Ако изберете да ги запазите, няма да бъдат задавани повече въпроси за настройките на клавиатурата.
+Description-bn.UTF-8: বর্তমান কীবোর্ড অপশন কি কনফিগারেশন ফাইলে রাখা হবে?
+ The current keyboard options in the configuration file /etc/default/keyboard are defined as XKBOPTIONS="${XKBOPTIONS}". /etc/default/keyboard কনফিগারেশন ফাইলে বর্তমান কীবোর্ড অপশন  এখন XKBOPTIONS="${XKBOPTIONS}" তে নির্দেশিত হল
+ .
+ আপনি যদি এই অপশনগুলো রাখতে পছন্দ করেন, তবে কীবোর্ড অপশন নিয়ে আর প্রশ্ন করা হবেনা।
+Description-bs.UTF-8: Snimiti trenutnu konfiguraciju postavki tastature u konfiguracijsku datoteku?
+ Trenutne postavke tastature u konfiguracijskom fajlu /etc/default/keyboard su definisane kao XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Ako izaberete da zadržite ove opcije, nećete biti pitani za postavke tastature.
+Description-ca.UTF-8: Voleu mantenir les opcions del teclat actuals al fitxer de configuració?
+ Les opcions del teclat actuals al fitxer de configuració «/etc/default/keyboard» són definides com a XKBOPTIONS=«${XKBOPTIONS}".
+ .
+ Si trieu mantenir aquestes opcions, no es farà cap pregunta sobre les opcions del teclat.
+Description-cs.UTF-8: Ponechat stávající parametry klávesnice z konfiguračního souboru?
+ Konfigurační soubor /etc/default/keyboard definuje parametry klávesnice následovně: XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Rozhodnete-li se tyto parametry ponechat, nebudete dotázáni žádné další otázky ohledně parametrů klávesnice.
+Description-da.UTF-8: Behold nuværende tastaturindstillinger i opsætningsfilen?
+ De nuværende tastaturindstillinger i opsætningsfilen /etc/default/keyboard er defineret som XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Hvis du vælger at beholde disse indstillinger, vil der ikke blive stillet nogen spørgsmål om tastaturindstillinger.
+Description-de.UTF-8: Aktuelle Optionen der Tastaturbelegung in der Konfigurationsdatei behalten?
+ Die aktuellen Optionen der Tastaturbelegung in der Konfigurationsdatei /etc/default/keyboard sind als XKBOPTIONS=»${XKBOPTIONS}« definiert.
+ .
+ Wenn Sie sich dafür entscheiden, diese Optionen beizubehalten, werden keine weiteren Fragen über die Optionen der Tastaturbelegung gestellt.
+Description-el.UTF-8: Διατήρηση των τρέχουσων επιλογών πληκτρολογίου στο αρχείο διαμόρφωσης?
+ Οι τρέχουσες επιλογές πληκτρολογίου στο αρχείο διαμόρφωσης /etc/default/keyboard είναι διαμορφωμένες ως XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Αν επιλέξετε κάτι τέτοιο καμία ερώτηση για το πληκτρολόγιο δεν θα σας γίνει.
+Description-eo.UTF-8: Ĉu teni la aktualajn klavar-preferojn en la agordo-dosiero?
+ La nunaj klavar-preferoj en la agordo-dosiero /etc/defaut/keyboard estas difinitaj kiel XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Se vi tenos tiujn ĉi elektojn, neniu demando pri la klavar-preferoj estos farata.
+Description-es.UTF-8: ¿Desea guardar las opciones de teclado actuales en el archivo de configuración?
+ Las opciones de teclado actuales están definidas en el archivo de configuración «/etc/default/keyboard» y son XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Si escoge mantener estas opciones, no se le hará ninguna pregunta acerca de las opciones del teclado.
+Description-et.UTF-8: Kas hoida praegused klaviatuurivalikud seadistusfailis?
+ Praegused klaviatuuri valikud on määratud seadistusfailis /etc/default/keyboard: XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Kui valid nende valikute säilitamise, ei küsita klaviatuuri kohta rohkem küsimusi.
+Description-eu.UTF-8: Mantendu uneko teklatuaren aukerak konfigurazioko fitxategian?
+ Uneko teklatuaren aukerak XKBOPTIONS="${XKBOPTIONS}" gisa definituta daude /etc/default/keyboard fitxategian.
+ .
+ Aukera hauek mantentzea hautatzen baduzu, ez zaizu teklatuaren aukerei buruzko galdera gehiago egingo.
+Description-fa.UTF-8: گزینه های فعلی صفحه کلید در فایل پیکربندی نگه داشته شود؟
+ گزینه های فعلی تعریف شده در فایل پیکربندی /etc/default/keyboard به صورت XKBOPTIONS="${XKBOPTIONS}" می باشد.
+ .
+ در صورتی که شما حفظ این گزینه ها را انتخاب کنید، در مورد گزینه های صفحه کلید دیگر سوالی نخواهد شد.
+Description-fi.UTF-8: Säilytetäänkö nykyiset näppäimistön asetukset asetustiedostossa?
+ Tällä hetkellä asetustiedostossa /etc/default/keyboard määritellyt näppäimistön asetukset ovat XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Jos päätät säilyttää nämä asetukset, näppäimistön asetuksiin liittyviä kysymyksiä ei kysytä.
+Description-fr.UTF-8: Conserver les options actuelles pour le clavier dans le fichier de configuration ?
+ Les options actuelles pour le clavier dans le fichier de configuration /etc/default/keyboard sont XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Si vous choisissez de les conserver, plus aucune question relative aux options du clavier ne sera posée.
+Description-ga.UTF-8: An bhfuil fonn ort na roghanna reatha méarchláir a choinneáil sa chomhad cumraíochta?
+ Seo iad na roghanna reatha méarchláir sa chomhad cumraíochta /etc/default/keyboard: XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Má choinníonn tú na roghanna seo, ní chuirfear aon cheisteanna ort faoi roghanna an mhéarchláir.
+Description-gl.UTF-8: Desexa gardar as opcións de teclado actuais no ficheiro de configuración?
+ As opcións do teclado actuais no ficheiro de configuración /etc/default/keyboard están definidas como XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Se escolle manter estas opcións, non se farán preguntas acerca das opcións do teclado.
+Description-gu.UTF-8: રૂપરેખાંકન ફાઇલમાં હાલનાં કીબોર્ડ વિકલ્પો રાખશો?
+ રૂપરેખાંકન ફાઇલ /etc/default/keyboard માં કીબોર્ડ વિકલ્પો XKBOPTIONS="${XKBOPTIONS}" તરીકે વ્યાખ્યાયિત કરેલ છે.
+ .
+ જો તમે આ વિકલ્પો રાખવાનું પસંદ કરશો તો, કીબોર્ડ વિકલ્પો વિશે કોઇપણ પ્રશ્ર્નો પૂછવામાં આવશે નહી.
+Description-hi.UTF-8: वर्त्तमान कुंजीपटल विकल्प कॉन्फ़िगरेशन फ़ाइल में लिखें?
+ वर्त्तमान कुंजीपटल विकल्प कॉन्फ़िगरेशन फ़ैल /etc/default/keyboard मेंXKBOPTIONS="${XKBOPTIONS}" दी गई हैं.
+ .
+ अगर आप इन विकल्पों को चुनते हैं तो कुंजीपटल के विकल्पों के बारे में प्रश्ननहीं पूछे जायेंगे.
+Description-hr.UTF-8: Zadržati trenutno postavke tipkovnce u konfiguracijskoj datoteci?
+ Trenutne postavke tipkovnice u konfiguracijskoj datoteci /etc/default/keyboard su određene kao XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Ukoliko zadržite ove postavke, neće više biti postavljenih pitanja vezanih uz postavke tipkovnice.
+Description-hu.UTF-8: Megtartod a mostani billentyűzet opciókat a beállító fájlban?
+ A mostani billentyűzet opciók a /etc/default/keyboard fájlban vannak: XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Ha ezen opciók megtartását választod, nem teszek fel több kérdést ezekről.
+Description-id.UTF-8: Gunakan pilihan pola keyboard dalam berkas konfigurasi saat ini?
+ Pilihan pola keyboard saat ini dalam berkas konfigurasi /etc/default/keyboard adalah XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Jika Anda mengambil pilihan ini, tidak akan ada lagi pertanyaan tentang pilihan keyboard.
+Description-it.UTF-8: Mantenere le impostazioni di tastiera attuali nel file di configurazione?
+ Le opzioni di tastiera attuali nel file /etc/default/keyboard sono definite come XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Se si sceglie di mantenere queste opzioni non verranno poste ulteriori domande sulla configurazione della tastiera.
+Description-ja.UTF-8: 設定ファイルにある現在のキーボードオプションを保持しますか?
+ 設定ファイル /etc/default/keyboard にある現在のキーボードオプションは XKBOPTIONS="${XKBOPTIONS}" と定義されています。
+ .
+ これらのオプションを保持することを選ぶと、キーボードのオプションについての質問は尋ねられません。
+Description-kk.UTF-8: Ағымдағы пернетақта опцияларын баптаулар файлында қалдыру керек пе?
+ Ағымдағы пернетақта опциялары /etc/default/keyboard файлында XKBOPTIONS="${XKBOPTIONS}" ретінде анықталған.
+ .
+ Ол опцияларды қалдыруды қаласаңыз, бұдан былай сізге пернетақта опциялары жөнінде ешбір сұрақ қойылмайды.
+Description-km.UTF-8: រក្សាទុក​ជម្រើស​ក្ដារចុច​បច្ចុប្បន្ន​នៅ​ក្នុង​ឯកសារ​កំណត់​រចនាសម្ព័ន្ធ ?
+ ជម្រើស​ក្ដារចុច​បច្ចុប្បន្ន​នៅ​ក្នុង​ឯកសារ​កំណត់​រចនាសម្ព័ន្ធ /etc/default/keyboard ត្រូវបាន​កំណត់​ជា XKBOPTIONS="${XKBOPTIONS}" ។
+ .
+ ប្រសិនបើ​អ្នក​ជ្រើស​ត្រូវ​រក្សាទុក​ជម្រើស​នេះ គ្មាន​សំណួរ​អំពី​ជម្រើស​ក្ដារចុច​នឹង​ត្រូវបាន​សួរ​រក​ទេ ។
+Description-ko.UTF-8: 현재 키보드 옵션을 설정 파일에 유지하시겠습니까?
+ 현재 키보드 옵션은 /etc/default/keyboard 설정 파일에 XKBOPTIONS="${XKBOPTIONS}" (이)라고 정의되어 있습니다.
+ .
+ 이 옵션을 유지한다면 이 뒤로는 키보드 옵션에 관한 질문을 받지 않습니다.
+Description-ku.UTF-8: Di pelê mîhengê de klavyeya niha biparêze?
+ Vebijêrkên klavyeya niha a di pelê vesazkirinê /etc/default/keyboardê de wekî XKBOPTIONS="${XKBOPTIONS}" hatiye diyarkirin.
+ .
+ Eger parastina vebijêrkan hilbijêrî, derbarê cureyê klavyeyê de dê ji  te tu tilt neyê pirsîn.
+Description-lv.UTF-8: Saglabāt pašreizējos klaviatūras uzstādījumus konfigurācijas failā?
+ Šī brīža klaviatūras uzstādījumi ir definēti konfigurācijas failā /etc/default/keyboard kā  XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Izvēloties saglabāt šos uzstādījumus pārējie jautājumi par uzstādījumiem tiks izlaisti.
+Description-mk.UTF-8: Задржи ги моменталните опции за тастатурата во конфигурациониот датотека?
+ Моменталните опции за тастатурата во конфигурационата датотека /etc/default/keyboard се дефинирани како XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Ако изберете да ги задржите овие опции, нема да бидат поставени прашања за опции за тастатурата.
+Description-mr.UTF-8: संरचना फायलीत सद्य कळफलक पर्याय ठेवायचे?
+ /etc/default/keyboard संरचना फायलीतील सद्य कळफलक पर्याय हे XKBOPTIONS="${XKBOPTIONS}" असे आहेत.
+ .
+ आपण हे पर्याय ठेवायचे निवडल्यास कळफलक आराखड्याविषयी कोणतेही प्रश्न विचारले जाणार नाहीत.
+Description-nb.UTF-8: Behold gjeldende tastaturvalg i konfigurasjonsfilen?
+ De gjeldende tastaturvalgene i konfigurasjonsfilen /etc/default/keyboard er definert som XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Hvis du velger å beholde disse valgene, så vil du ikke få noen spørsmål om tastaturvalgene.
+Description-nl.UTF-8: Wilt u de huidige toetsenbordinstellingen in het configuratiebestand behouden?
+ De huidige toetsenbordinstellingen in het configuratiebestand /etc/default/keyboard zijn gedefinieerd als XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Als u deze opties wilt behouden, zullen verder geen vragen over de toetsenbordinstellingen worden gesteld.
+Description-no.UTF-8: Behold gjeldende tastaturvalg i konfigurasjonsfilen?
+ De gjeldende tastaturvalgene i konfigurasjonsfilen /etc/default/keyboard er definert som XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Hvis du velger å beholde disse valgene, så vil du ikke få noen spørsmål om tastaturvalgene.
+Description-pa.UTF-8: ਇੰਕ੍ਰਿਪਸ਼ਨ ਸੰਰਚਨਾ ਅਸਫਲਤਾ
+ ਕਿਰਪਾ ਕਰਕੇ ਚੁਣੋ ਜੇਕਰ ਤੁਸੀਂ ਇਹ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ । ਜੇ ਤੁਸੀਂ ਇਹ ਚੁਣਦੇ ਹੋ, ਤਾਂ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਬਾਰੇ ਕੁਝ ਨਹੀਂ ਪੁਛਿਆ ਜਾਵੇਗਾ ਤੇ ਹੁਣ ਵਾਲੀ ਸੰਰਚਨਾ ਸੰਭਾਲ ਲਈ ਜਾਵੇਗੀ।
+ .
+ ਚੁਣੋ ਕਿ ਕੀ ਤੁਸੀਂ ਨਵਾਂ ਪਾਰਟੀਸ਼ਨ ਉਪਲੱਬਧ ਥਾਂ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ ਵਿੱਚ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ।
+Description-pl.UTF-8: Zachować obecne opcje klawiatury w pliku konfiguracyjnym?
+ Bieżące opcje klawiatury w pliku konfiguracyjnym /etc/default/keyboard są zdefiniowane jako XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Jeśli zdecydujesz zachować te opcje, nie zostaną zadane żadne pytania na temat opcji klawiatury.
+Description-pt.UTF-8: Manter as opções actuais do teclado no ficheiro de configuração?
+ As opções actuais do teclado no ficheiro /etc/default/keyboard estão definidas como XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Se escolher manter estas opções, não serão colocadas questões sobre as opções do teclado.
+Description-pt_BR.UTF-8: Manter opções de teclado atuais no arquivo de configuração?
+ As opções de teclado atuais no arquivo de configuração /etc/default/keyboard estão definidas como XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Se você escolher manter estas opções, nenhuma pergunta sobre as opções do teclado será feita.
+Description-ro.UTF-8: Se păstrează opțiunile de tastatură din fișierul de configurare?
+ Opțiunile curente pentru tastatură din fișierul de configurare /etc/default/keyboard sunt definite ca XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Dacă alegeți să păstrați aceste opțiuni nu se vor pune întrebări legate de opțiunile pentru tastatură.
+Description-ru.UTF-8: Оставить имеющиеся параметры клавиатуры из файла настройки?
+ Имеющиеся параметры клавиатуры в файле настройки /etc/default/keyboard определены как XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Если вы выберете оставить параметры, то вопросы о параметрах клавиатуры заданы не будут.
+Description-sk.UTF-8: Zachovať súčasné voľby v konfiguračnom súbore?
+ Súčasné rozloženie klávesnice v konfiguračnom súbore /etc/default/keyboard je definované ako XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Ak sa rozhodnete zachovať tieto voľby, inštalátor sa vás nebude pýtať žiadne otázky týkajúce sa rozloženia klávesnice.
+Description-sl.UTF-8: Želite hraniti trenutne možnosti tipkovnice v nastavitveni datoteki?
+ Trenutne možnosti tipkovnice v nastavitveni datoteki /etc/default/keyboard so določene kot XKBOPTIONS="${XKBOPTIONS}".
+ .
+ V primeru, da ohranite te možnosti, ne bo več postavljeno nobeno vprašanje o možnostih postavitve tipkovnice.
+Description-sr.UTF-8: Задржати тренутне опције тастатуре у конфигурационом фајлу?
+ Тренутне опције за тастатуру у конфигурационом фајлу /etc/default/keyboard су дефинисане као XKBOPTIONS=„${XKBOPTIONS}“.
+ .
+ Ако изаберете ову опцију, неће бити питања о опцијама тастатуре.
+Description-sr@latin.UTF-8: Zadržati trenutne opcije tastature u konfiguracionom fajlu?
+ Trenutne opcije za tastaturu u konfiguracionom fajlu /etc/default/keyboard su definisane kao XKBOPTIONS=„${XKBOPTIONS}“.
+ .
+ Ako izaberete ovu opciju, neće biti pitanja o opcijama tastature.
+Description-sv.UTF-8: Behåll aktuella tangentbordsalternativ i konfigurationsfilen?
+ De aktuella tangentbordsalternativen i konfigurationsfilen /etc/default/keyboard är definierade som XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Om du väljer att behålla dessa alternativ så kommer inga frågor om tangentbordsalternativ att ställas.
+Description-ta.UTF-8: தற்போதைய வடிவமைப்பு கோப்பில் உள்ள விசைப்பலகை தேர்வை வைத்துக்கொள்ளவா?
+ /etc/default/keyboard வடிவமைப்பு கோப்பில் உள்ள நடப்பு விசைப்பலகை இட அமைவு தேர்வு XKBOPTIONS="${XKBOPTIONS}" என வரையறுக்கப்பட்டது.
+ .
+ இந்த தேர்வுகளை வைத்துக்கொண்டால் மேற்கொண்டு விசைப்பலகை தேர்வுகள் குறித்து கேள்விகள் கேட்கப்பட மாட்டா.
+Description-th.UTF-8: จะคงค่าตัวเลือกปัจจุบันของแป้นพิมพ์ในแฟ้มค่าตั้งหรือไม่?
+ ตัวเลือกปัจจุบันของแป้นพิมพ์ในแฟ้มค่าตั้ง /etc/default/keyboard กำหนดไว้เป็น XKBOPTIONS="${XKBOPTIONS}"
+ .
+ ถ้าคุณเลือกคงค่าตัวเลือกเหล่านี้ไว้ ก็จะไม่มีการถามเกี่ยวกับตัวเลือกของแป้นพิมพ์อีก
+Description-tr.UTF-8: Yapılandırma dosyasındaki desteklenmeyen klavye seçenekleri kullanılmaya devam edilsin mi?
+ /etc/default/keyboard yapılandırma dosyasında kullanımdaki klavye seçenekleri  XKBOPTIONS="${XKBOPTIONS}" olarak tanımlanmış.
+ .
+ Bu seçenekleri değiştirmemeyi seçerseniz klavye seçenekleri hakkında sorularla karşılaşmayacaksınız.
+Description-uk.UTF-8: Залишити поточні параметри клавіатури в файлі налаштувань?
+ Поточні параметри клавіатури в файлі налаштувань /etc/default/keyboard визначено як XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Якщо ви виберете залишити ці налаштування, жодних питань стосовно розкладки клавіатури більше задаватись не буде.
+Description-zh_CN.UTF-8: 在配置文件保持当前键盘选项？
+ 当前键盘选项在 /etc/default/keyboard 定义为了 XKBOPTIONS="${XKBOPTIONS}"。
+ .
+ 如果您选择保留这些选项，将不会询问有关键盘布局的问题。
+Description-zh_TW.UTF-8: 是否要保留目前設定檔裡的鍵盤設定？
+ 目前在設定檔 /etc/default/keyboard 中的鍵盤選項乃設定為 XKBOPTIONS="${XKBOPTIONS}"。
+ .
+ 如果您選擇了要保留這些設定，將不會再詢問任何有關鍵盤選項的問題。
+
+Template: keyboard-configuration/unsupported_options
+Type: boolean
+Default: true
+Description: Keep default keyboard options (${XKBOPTIONS})?
+ The default value for the options of the keyboard layout is
+ XKBOPTIONS="${XKBOPTIONS}".  It is based on the currently defined
+ language/region and the settings in /etc/X11/xorg.conf.
+ .
+ If you choose to keep it, no questions about the keyboard options
+ will be asked.
+Description-ar.UTF-8: هل تريد إبقاء خيارات لوحة المفاتيح الإفتراضية (${XKBOPTIONS})؟
+ القيمة الافتراضية لخيارات مُخطط لوحة المفاتيح هي XKBOPTIONS="${XKBOPTIONS}".  وتلك القيمة مُحددة وفقاً للّغة/المنطقة والإعدادات في /etc/X11/xorg.conf.
+ .
+ إن اخترت إبقاءه، فلن تسأل أي شيء عن خيارات لوحة المفاتيح.
+Description-ast.UTF-8: Caltener les opciones por defeutu del tecláu (${XKBOPTIONS})?
+ El valor por defeutu pa les opciones del tecláu ye XKBOPTIONS="${XKBOPTIONS}". Ta basao nel territoriu/llingua definíos actualmente y na configuración en /etc/X11/xorg.conf.
+ .
+ Si escueyes caltenelo, nun s'entrugará más sobre les opciones del tecláu.
+Description-be.UTF-8: Пакінуць перадвызначаныя наладкі клавіятуры (${XKBOPTIONS})?
+ Перадвызначанае значэнне наладак клавіятуры: XKBOPTIONS="${XKBOPTIONS}".  Яно заснаванае на выбранай мове, рэгіёне і наладках у /etc/X11/xorg.conf.
+ .
+ Калі вы вырашыце пакінуць гэта так, то не будзе задавацца ніякіх пытанняў пра наладкі клавіятуры.
+Description-bg.UTF-8: Запазване на опциите по подразбиране на клавиатурата (${XKBOPTIONS})?
+ Според указаните език/регион и настройките в /etc/X11/xorg.conf, опциите по подразбиране на клавиатурната подредба са XKBOPTIONS="${XKBOPTIONS}".
+ .
+ Ако изберете да ги запазите, няма да бъдат задавани повече въпроси за опциите на клавиатурата.
+Description-bn.UTF-8: ডিফল্ট কীবোর্ড অপশন  (${XKBOPTIONS})রাখা হবে?
+ কীবোর্ড লেআউট অপশনের ডিফল্ট মান হল XKBOPTIONS="${XKBOPTIONS}". এটা বর্তমানে নির্দেশিত  language/region এবং /etc/X11/xorg.conf এর সেটিং এর উপর ভিত্তি করে করা হয়েছে.
+ .
+ আপনি যদি এটা রাখতে পছন্দ করেন, তবে কীবোর্ড অপশন নিয়ে প্রশ্ন আর করা হবেনা।
+Description-bs.UTF-8: Zadrži standardne postavke tastature (${XKBOPTIONS})?
+ Standardna vrijednost za postavke rasporeda tastera je XKBOPTIONS="${XKBOPTIONS}".  Bazirane su na trenutno definisanom jeziku/regionu i postavkama u /etc/X11/xorg.conf.
+ .
+ Ako izaberete da zadržite ovo, nećete biti pitani za postavke tastature.
+Description-ca.UTF-8: Voleu mantenir les opcions del teclat predeterminades (${XKBOPTIONS})?
+ El valor per defecte per a les opcions de la disposició del teclat és XKBOPTIONS="${XKBOPTIONS}" Aquest valor es basa en la regió/llengua definida actualment i en els paràmetres del fitxer «/etc/X11/xorg.conf».
+ .
+ Si trieu mantenir-la, no es farà cap pregunta sobre les opcions del teclat.
+Description-cs.UTF-8: Ponechat výchozí parametry klávesnice (${XKBOPTIONS})?
+ Výchozí parametry rozložení klávesnice jsou XKBOPTIONS="${XKBOPTIONS}". To je z založeno na aktuálně definovaných hodnotách jazyka, regionu a volbách v souboru /etc/X11/xorg.conf.
+ .
+ Rozhodnete-li se parametry ponechat, nebudete dotázáni žádné další otázky ohledně parametrů klávesnice.
+Description-da.UTF-8: Behold standardtastaturindstillinger (${XKBOPTIONS})?
+ Standardværdien for indstillingerne af tastaturlayout er XKBOPTIONS="${XKBOPTIONS}".  Den er baseret på den nuværende definition af sprog og region, samt indstillingerne i /etc/X11/xorg.conf.
+ .
+ Hvis du vælger at beholde den, vil der ikke blive stillet nogen spørgsmål om tastaturindstillinger.
+Description-de.UTF-8: Voreingestellte Optionen der Tastaturbelegung (${XKBOPTIONS}) beibehalten?
+ Der voreingestellte Wert für die Optionen der Tastaturbelegung ist XKBOPTIONS=»${XKBOPTIONS}«. Er basiert auf dem derzeit definierten Wert für Sprache/Region und den Einstellungen in /etc/X11/xorg.conf.
+ .
+ Wenn Sie sich dafür entscheiden, diese Optionen beizubehalten, werden keine weiteren Fragen über die Optionen der Tastaturbelegung gestellt.
+Description-el.UTF-8: Να διατηρηθούν οι προκαθορισμένες επιλογές του πληκτρολογίου(${XKBOPTIONS});
+ Οι προκαθορισμένες επιλογές πληκτρολογίου είναι XKBOPTIONS="${XKBOPTIONS}". Είναι βασισμένο στην τρέχουσα επιλεγμένη γλώσσα/περιοχή στο /etc/X11/xorg.conf.
+ .
+ Αν επιλέξετε κάτι τέτοιο καμία ερώτηση για το πληκτρολόγιο δεν θα σας γίνει.
+Description-eo.UTF-8: Ĉu teni la apriorajn klavar-preferojn (${XKBOPTIONS})?
+ La apriora valoro por la preferoj de la klavar-aranĝo estas XKBOPTIONS="${XKBOPTIONS}". Ĝi surbaziĝas je la nune difinita lingvo/regiono kaj je la difinoj en /etc/X11/xorg.conf.
+ .
+ Se vi elektos teni ĝin, neniu demando pri la klavar-preferoj estos farata.
+Description-es.UTF-8: ¿Desea mantener las opciones predeterminadas del teclado (${XKBOPTIONS})?
+ El valor predeterminado de las opciones de la distribución de teclado es XKBOPTIONS="${XKBOPTIONS}". Este valor se basa en el idioma/región actualmente definidos y en la configuración del archivo «/etc/X11/xorg.conf».
+ .
+ Si escoge mantenerlo, no se le hará ninguna pregunta acerca de las opciones del teclado.
+Description-et.UTF-8: Kas säilitada (${XKBOPTIONS}) vaikimisi klaviatuurivalikud?
+ Klaviatuurivalikute vaikimisi väärtus on XKBOPTIONS="${XKBOPTIONS}". See määratakse valitud keele/regiooni ning /etc/X11/xorg.conf faili järgi.
+ .
+ Vali, kas tahad seda hoida. Kui valid selle, ei küsita klaviatuuri kohta mingeid küsimusi.
+Description-eu.UTF-8: Mantendu teklatuaren aukera lehenetsiak (${XKBOPTIONS})?
+ Teklatuaren diseinuaren aukeren balio lehenetsia XKBOPTIONS="${XKBOPTIONS}" da. Unean definitutako hizkuntza/eskualdea eta /etc/X11/xorg.conf fitxategiko ezarpenetan oinarritzen da.
+ .
+ Hau mantentzea hautatzen baduzu, ez zaizu teklatuaren aukerei buruzko galdera gehiago egingo.
+Description-fa.UTF-8: گزینه های پیشفرض صفحه کلید (${XKBOPTIONS}) حفظ شود؟
+ مقدار پیش فرض برای گزینه های طرح بندی این صفحه کلید XKBOPTIONS="${XKBOPTIONS}" است. این مقدار بر مبنای زبان/منطقه تعریف شده فعلی و تنظیمات /etc/X11/xorg.conf است.
+ .
+ در صورتی که شما تصمیم به حفظ آن بگیرید، در مورد گزینه های صفحه کلید دیگر سوالی نخواهد شد.
+Description-fi.UTF-8: Säilytetäänkö näppäimistön oletusasetukset (${XKBOPTIONS})? 
+ Näppäinasettelun asetusten oletusarvo on XKBOPTIONS="${XKBOPTIONS}". Tämä perustuu tällä hetkellä käytössä olevaan kieleen ja alueeseen sekä tiedostossa /etc/X11/xorg.conf oleviin asetuksiin.
+ .
+ Jos päätät säilyttää sen näppäimistön asetuksiin liittyviä kysymyksiä ei kysytä.
+Description-fr.UTF-8: Conserver les options par défaut du clavier (${XKBOPTIONS}) ?
+ La valeur par défaut des options de la disposition clavier est XKBOPTIONS="${XKBOPTIONS}". Elle est basée sur la langue et la région choisies et les réglages de /etc/X11/xorg.conf.
+ .
+ Si vous choisissez de la conserver, plus aucune question relative aux options du clavier ne sera posée.
+Description-ga.UTF-8: An bhfuil fonn ort na roghanna réamhshocraithe méarchláir a choinneáil (${XKBOPTIONS})?
+ Is iad seo na roghanna réamhshocraithe a bhaineann le leagan amach an mhéarchláir: XKBOPTIONS="${XKBOPTIONS}".  Tá siad bunaithe ar an teanga/réigiún atá i bhfeidhm faoi láthair agus ar na socruithe in /etc/X11/xorg.conf.
+ .
+ Má choinníonn tú é, ní chuirfear aon cheisteanna ort faoi roghanna an mhéarchláir.
+Description-gl.UTF-8: Desexa manter as opcións do teclado predeterminadas (${XKBOPTIONS})?
+ O valor predeterminado das opcións da disposición do teclado é XKBOPTIONS="${XKBOPTIONS}". Este valor está baseado na linguaxe/rexión actualmente definida e na configuración en /etc/X11/xorg.conf.
+ .
+ Se escolle mantelas, non se farán preguntas acerca das opcións do teclado.
+Description-gu.UTF-8: મૂળભૂત કીબોર્ડ વિકલ્પો (${XKBOPTIONS}) રાખશો?
+ કીબોર્ડ દેખાવના વિકલ્પોની મૂળભૂત કિંમત XKBOPTIONS="${XKBOPTIONS}" છે.  તે હાલમાં વ્યાખ્યાયિતકરેલ ભાષા/વિસ્તાર અને /etc/X11/xorg.conf ની ગોઠવણીઓ પર આધારિત છે.
+ .
+ જો તમે જાળવી રાખવાનું પસંદ કરશો તો, કીબોર્ડ વિકલ્પો વિશે કોઇપણ પ્રશ્ર્નો પૂછવામાં આવશે નહી.
+Description-hi.UTF-8: डिफाल्ट कुंजीपटल विकल्प (${XKBOPTIONS}) रखें?
+ कुंजीपटल अभिन्यास के डिफाल्ट डिफाल्ट विकल्प XKBOPTIONS= "${XKBOPTIONS}"है. यह /etc/X11/xorg.conf में देश/स्थान की जानकारी पर आधारित है.
+ .
+ अगर आप इसे रखना चाहते हैं तो कुंजीपटल के विकल्पों के बारे में प्रश्ननहीं पूछे जायेंगे.
+Description-hr.UTF-8: Zadrži zadane postavke tipkovnice (${XKBOPTIONS})?
+ Zadana vrijednost postavki rasporeda tipkovnice je XKBOPTIONS="${XKBOPTIONS}". Temeljena je na trenutno određenom jeziku/regiji i postavkama u /etc/X11/xorg.conf.
+ .
+ Ukoliko zadržite ovo, neće više biti postavljenih pitanja vezanih uz postavke tipkovnice.
+Description-hu.UTF-8: Megtartod az alap billentyűzet opciókat (${XKBOPTIONS})?
+ Az alap érték a billentyűkiosztás opcióira az XKBOPTIONS="${XKBOPTIONS}".  Ez a mostani nyelv/régió és a /etc/X11/xorg.conf beállításra épül.
+ .
+ Ha ennek megtartásár választod, nem teszek fel több kérdést a billentyűzet opciókról.
+Description-id.UTF-8: Gunakan pilihan pola keyboard saat ini: (${XKBOPTIONS})?
+ Nilai bawaan untuk pilihan pola keyboard adalah  XKBOPTIONS="
+ "${XKBOPTIONS}". Ini berdasarkan konfigurasi bahasa/wilayah saat ini dan konfigurasi di /etc/X11/xorg.conf.
+ .
+ Jika Anda memilihnya, tidak akan ada lagi pertanyaan tentang pilihan keyboard.
+Description-it.UTF-8: Mantenere la disposizione predefinita della tastiera (${XKBOPTIONS})?
+ Il valore predefinito per le opzioni della disposizione della tastiera è XKBOPTIONS="${XKBOPTIONS}". È basato sulla lingua e regione attualmente definite e sulle impostazioni contenute in /etc/X11/xorg.conf.
+ .
+ Se si decide di mantenerli non verrà posta nessun'altra domanda sulla disposizione della tastiera.
+Description-ja.UTF-8: デフォルトのキーボードオプション (${XKBOPTIONS}) を保持しますか?
+ キーボードレイアウトのオプションのデフォルト値は、XKBOPTIONS="${XKBOPTIONS}" です。これは、現在定義されている言語/地域および /etc/X11/xorg.conf の設定に基づいています。
+ .
+ 保持することを選ぶと、キーボードのオプションについての質問は尋ねられません。
+Description-kk.UTF-8: Басатпқы пернетақта опцияларын (${XKBOPTIONS}) қалдыру керек пе?
+ Пернетақта опциялары үшін бастапқы мәні XKBOPTIONS="${XKBOPTIONS}". Ол ағымдағы ел/аймақ және /etc/X11/xorg.conf ішіндегі баптаулар негізінде алынған.
+ .
+ Оны қалдыруды қаласаңыз, бұдан былай сізге пернетақта жаймасы жөнінде ешбір сұрақ қойылмайды.
+Description-km.UTF-8: រក្សាទុក​ជម្រើស​ក្ដារចុច​លំនាំដើម (${XKBOPTIONS})?
+ តម្លៃ​លំនាំដើម​សម្រាប់​ជម្រើស​ប្លង់​ក្ដារចុច​គឺ XKBOPTIONS="${XKBOPTIONS}" ។  វា​​ផ្អែក​លើ​តំបន់/ភាសា​ដែល​បាន​កំណត់​បច្ចុប្បន្ន និង​នៅ​ក្នុង​ការ​កំណត់ /etc/X11/xorg.conf.
+ .
+ ប្រសិន​បើ​អ្នក​ជ្រើស​រក្សាទុក​វា គ្មាន​សំណួរ​អំពី​ជម្រើស​ក្ដារចុច​នឹង​ត្រូវបាន​សួ​ររក​ទេ ។
+Description-ko.UTF-8: 기본 키보드 옵션을 유지하시겠습니까 (${XKBOPTIONS})?
+ 현재 키보드 배치 옵션 기본값은 XKBOPTIONS="${XKBOPTIONS}"입니다. 이 기본값은 현재 정의된 언어/지역 및 /etc/X11/xorg.conf 파일의 설정에 따라 정해진 값입니다.
+ .
+ 유지한다면 이 뒤로는 키보드 옵션에 관한 질문을 받지 않습니다.
+Description-ku.UTF-8: Vebijêrkên klavyeya standard (${XKBOPTIONS})ê biparêze?
+ Nirxê standard ê ji bo klavyeyê XKBOPTIONS="${XKBOPTIONS}" ye. Ev nirxê standard li gorî ziman/herêm û mîhenga /etc/X11/xorg.confê tê diyarkirin.
+ .
+ Eger parastina vebijêrkan hilbijêrî, derbarê cureyê klavyeyê de dê ji  te tu tilt neyê pirsîn.
+Description-lv.UTF-8: Saglabāt esošos klaviatūras uzstādījumus (${XKBOPTIONS})?
+ Pašreizējā klaviatūras izklājuma noklusējuma uzstādījumi ir XKBOPTIONS="${XKBOPTIONS}". Tie ir bāzēti uz pašreiz izvēlēto valodu, reģionu un uzstādījumiem failā /etc/X11/xorg.conf.
+ .
+ Izvēloties to saglabāt pārējie jautājumi par uzstādījumiem tiks izlaisti.
+Description-mk.UTF-8: Зачувај го основниот распоред на тастатурата (${XKBOPTIONS})?
+ Основната вредност за опциите за распоредот на тастатурата е XKBOPTIONS="${XKBOPTIONS}".  Базирана е на моментално дефинираниот јазик/регион и поставките во /etc/X11/xorg.conf.
+ .
+ Ако изберете да ги задржите овие опции, нема да бидат поставени прашања за опции за тастатурата.
+Description-mr.UTF-8: (${XKBOPTIONS}) हे मूलनिर्धारित कळफलक पर्याय ठेवायचे?
+ कळफलक आराखड्यासाठीच्या पर्यायांचे मूलनिर्धारित मूल्य XKBOPTIONS="${XKBOPTIONS}" आहे.हे मूलनिर्धारित मूल्य सद्ध्या ठरवलेले भाषा/प्रदेश व /etc/X11/xorg.conf मधील निर्धारणे यांवर आधारित आहे.
+ .
+ आपण हे ठेवायचे निवडल्यास कळफलक पर्यायांविषयी कोणतेही प्रश्न विचारले जाणार नाहीत.
+Description-nb.UTF-8: Behold standard tastaturvalg (${XKBOPTIONS})?
+ Standardverdien for valgene for tastaturutformingen er XKBOPTIONS="${XKBOPTIONS}". Den er basert på gjeldende definert språk/region og innstillingene i /etc/X11/xorg.conf.
+ .
+ Hvis du velger å beholde det, så vil du ikke få noen spørsmål om tastaturvalgene.
+Description-nl.UTF-8: Standaard toetsenbordindeling (${XKBOPTIONS}) behouden?
+ De standaardwaarde voor de opties van de toetsenbordindeling is XKBOPTIONS="${XKBOPTIONS}". Het is gebaseerd op de huidige instelling voor land/regio en de instellingen in /etc/X11/xorg.conf.
+ .
+ Als dit wilt behouden, zullen verder geen vragen over de toetsenbordinstellingen worden gesteld.
+Description-no.UTF-8: Behold standard tastaturvalg (${XKBOPTIONS})?
+ Standardverdien for valgene for tastaturutformingen er XKBOPTIONS="${XKBOPTIONS}". Den er basert på gjeldende definert språk/region og innstillingene i /etc/X11/xorg.conf.
+ .
+ Hvis du velger å beholde det, så vil du ikke få noen spørsmål om tastaturvalgene.
+Description-pa.UTF-8: ਕੀ ਡੀਫਾਲਟ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਰੱਖਣਾ ਹੈ (${XKBOPTIONS})?
+ ਡੀਫਾਲਟ ਕੀ-ਬੋਰਡ ਲੇਆਉਟ ਹੈ XKBOPTIONS="${XKBOPTIONS}"। ਇਹ ਡੀਫਾਲਟ ਕੀਮਤ /etc/X11/xorg.conf ਵਿੱਚ ਦਰਸ਼ਾਈ ਗਈ ਭਾਸ਼ਾ/ਇਲਾਕੇ ਅਤੇ ਸੈਟਿੰਗ ਤੇ ਅਧਾਰਿਤ ਹੈ ।
+ .
+ ਚੁਣੋ ਕਿ ਕੀ ਤੁਸੀਂ ਨਵਾਂ ਪਾਰਟੀਸ਼ਨ ਉਪਲੱਬਧ ਥਾਂ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ ਵਿੱਚ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ।
+Description-pl.UTF-8: Zachować obecne opcje klawiatury (${XKBOPTIONS})?
+ Domyślne ustawienie opcji klawiatury to XKBOPTIONS="${XKBOPTIONS}". Jest ono oparte na obecnie zdefiniowanym kraju/regionie i ustawieniach w /etc/X11/xorg.conf.
+ .
+ Jeśli zdecydujesz je zachować, nie zostaną zadane żadne pytania na temat opcji klawiatury.
+Description-pt.UTF-8: Manter as opções padrão do teclado (${XKBOPTIONS})?
+ O valor padrão para as opções da disposição do teclado é XKBOPTIONS="${XKBOPTIONS}". É baseada na definição actual de idioma/região e definições em /etc/X11/xorg.conf.
+ .
+ Se escolher mantê-la, não serão apresentadas questões sobre a disposição do teclado.
+Description-pt_BR.UTF-8: Manter as opções padrão de teclado (${XKBOPTIONS})?
+ O valor padrão para as opções do layout do teclado é XKBOPTIONS="${XKBOPTIONS}".  Ele é baseado na língua/região definida atualmente e nas configurações em /etc/X11/xorg.conf.
+ .
+ Se você escolher mantê-lo, nenhuma pergunta sobre as opções do teclado será feita.
+Description-ro.UTF-8: Se păstrează opțiunile implicite de tastatură (${XKBOPTIONS})?
+ Valoarea implicită pentru opțiunile aranjamentului de tastatură este XKBOPTIONS="${XKBOPTIONS}". Aceasta se bazează pe țara/regiunea definită și configurația din /etc/X11/xorg.conf.
+ .
+ Dacă alegeți să o păstrați nu se vor pune întrebări legate de opțiunile pentru tastatură.
+Description-ru.UTF-8: Оставить параметры клавиатуры (${XKBOPTIONS}), используемые по умолчанию?
+ Значение параметров клавиатурной раскладки по умолчанию равно XKBOPTIONS="${XKBOPTIONS}". Оно основывается на указанном языке/местности и настройках из /etc/X11/xorg.conf.
+ .
+ Укажите, хотите ли вы оставить его. Если ответить утвердительно, то вопросы о параметрах клавиатуры заданы не будут.
+Description-sk.UTF-8: Zachovať predvolené rozloženie klávesnice (${XKBOPTIONS})?
+ Predvolená hodnota volieb rozloženia klávesnice je XKBOPTIONS="${XKBOPTIONS}". Je založená na momentálne definovanom jazyku/regióne a nastaveniach v súbore /etc/X11/xorg.conf.
+ .
+ Ak sa rozhodnete ho zachovať, inštalátor sa vás nebude pýtať žiadne otázky týkajúce sa rozloženia klávesnice.
+Description-sl.UTF-8: Želite ohraniti privzete možnosti tipkovnice  (${XKBOPTIONS})?
+ Privzeta vrednost za možnosti postavitve tipkovnice je XKBOPTIONS="${XKBOPTIONS}". Osnovana je na trenutno določenem jeziku/deželi in nastavitvah v /etc/X11/xorg.conf.
+ .
+ V primeru, da ohranite te možnosti, ne bo postavljeno nobeno vprašanje o možnostih postavitve tipkovnice.
+Description-sr.UTF-8: Задржати подразумеване опције тастатуре (${XKBOPTIONS})?
+ Подразумевана вредност за опције распореда тастатуре је XKBOPTIONS=„${XKBOPTIONS}“.  Базирана је на тренутно дефинисаним језику/региону и подешавањима у /etc/X11/xorg.conf.
+ .
+ Ако изабетере да је задржите, неће бити питања о опцијама тастатуре.
+Description-sr@latin.UTF-8: Zadržati podrazumevane opcije tastature (${XKBOPTIONS})?
+ Podrazumevana vrednost za opcije rasporeda tastature je XKBOPTIONS=„${XKBOPTIONS}“.  Bazirana je na trenutno definisanim jeziku/regionu i podešavanjima u /etc/X11/xorg.conf.
+ .
+ Ako izabetere da je zadržite, neće biti pitanja o opcijama tastature.
+Description-sv.UTF-8: Behåll standardalternativ för tangentbord (${XKBOPTIONS})?
+ Standardvärdet för tangentbordslayoutens alternativ är XKBOPTIONS="${XKBOPTIONS}".  Det är baserat på definierat språk/region samt inställningarna i /etc/X11/xorg.conf.
+ .
+ Om du väljer att behålla detta så kommer inga frågor om tangentbordsalternativ att ställas.
+Description-ta.UTF-8: ${XKBOPTIONS}) முன்னிருப்பு விசைப்பலகை தேர்வை வைத்துக்கொள்ளலாமா? 
+ முன்னிருப்பு விசைப்பலகை இட அமைவு தேர்வுகளுக்கான மதிப்பு XKBOPTIONS="${XKBOPTIONS}". இந்த முன்னிருப்பு அமைவு /etc/X11/xorg.conf. இல் உள்ள நாடு மற்றும் வட்டாரம் அமைப்பின் அடிப்படையில் தேர்ந்தெடுக்கப்பட்டது
+ .
+ இதை வைத்துக்கொண்டால் மேற்கொண்டு விசைப்பலகை தேர்வுகள் குறித்து கேள்விகள் கேட்கப்பட மாட்டா.
+Description-th.UTF-8: จะคงค่าตัวเลือกปริยายของแป้นพิมพ์ (${XKBOPTIONS}) หรือไม่?
+ ค่าปริยายของตัวเลือกประกอบผังแป้นพิมพ์คือ XKBOPTIONS="${XKBOPTIONS}" โดยค่านี้จะอ้างอิงจากภาษา/ภูมิภาคที่กำหนดอยู่ในปัจจุบัน และค่าตั้งใน /etc/X11/xorg.conf
+ .
+ ถ้าคุณเลือกคงค่านี้ไว้ ก็จะไม่มีการถามเกี่ยวกับตัวเลือกของแป้นพิมพ์อีก
+Description-tr.UTF-8: Öntanımlı klavye seçenekleri (${XKBOPTIONS}) kullanılmaya devam edilsin mi?
+ Klavye düzeninin öntanımlı değeri XKBOPTIONS=" ${XKBOPTIONS}" şeklindedir ve bu değer  /etc/X11/xorg.conf dosyasındaki dil/bölge ayarlarına göre yapılmıştır.
+ .
+ Bu değeri değiştirmemeyi seçerseniz klavye düzeni hakkında sorularla karşılaşmayacaksınız.
+Description-uk.UTF-8: Залишити звичні налаштування клавіатури (${XKBOPTIONS})?
+ Звичним значенням для налаштувань клавіатури є XKBOPTIONS="${XKBOPTIONS}". Воно встановлюється відповідно до поточних значень мови/регіону та налаштувань у файлі /etc/X11/xorg.conf.
+ .
+ Якщо ви виберете залишити цей варіант, жодних питань стосовно розкладки клавіатури більше задаватись не буде.
+Description-zh_CN.UTF-8: 保留默认键盘选项 (${XKBOPTIONS})？
+ 键盘布局选项的默认值为 XKBOPTIONS="${XKBOPTIONS}"。它基于当前定义的语言/区域以及 /etc/X11/xorg.conf 的设置。
+ .
+ 如果选择保留，将不会询问有关键盘选项的问题。
+Description-zh_TW.UTF-8: 保留預設的鍵盤選項（${XKBOPTIONS}）
+ 鍵盤排列方式的預設選項為 XKBOPTIONS="${XKBOPTIONS}"。這個預設值乃是取決於目前所設定的語言/地區，及 /etc/X11/xorg.conf 裡的設定。
+ .
+ 如果您選擇將其保留，將不會再詢問任何有關鍵盤選項的問題。
+
+Template: keyboard-configuration/toggle
+Type: select
+Choices: Caps Lock, Right Alt (AltGr), Right Control, Right Shift, Right Logo key, Menu key, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Left Control+Left Shift, Left Alt, Left Control, Left Shift, Left Logo key, Scroll Lock key, No toggling
+Choices-ar.UTF-8: Caps Lock, زر Alt اليمين (AltGr), زر Control الأيمن, مفتاح Shift الأيمن, مفتاح الشعار الأيمن, مفتاح القائمة, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, مفتاحي Control+Shift الأيسرين, مفتاح Alt الأيسر, مفتاح Control الأيسر, مفتاح Shift الأيسر, مفتاح الشعار الأيسر, مفتاح Scroll Lock, بدول تبديل
+Choices-ast.UTF-8: Caps Lock, Alt deecha (AltGr), Control Derecha, Mayúscules Derecha, Tecla Logu Derecha, Tecla Menú, Alt+May, Control+May, Control+Alt, Alt+Caps Lock, Control Izquierda+Left Izquierda, Alt Izquierda, Control Izquierda, May. Izquierda, Tecla Logu Izquierda, Tecla Bloq. Scroll, Non alternar
+Choices-be.UTF-8: Caps Lock, Правы Alt (AltGr), Правы Control, Правы Shift, Правая кнопка Logo, Кнока меню, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Левы Control+Левы Shift, Левы Alt, Левы Control, Левы Shift, Левая кнопка Logo, Scroll Lock, Без пераключэння.
+Choices-bg.UTF-8: Caps Lock, Десен Alt (AltGr), Десен Control, Десен Shift, Десен клавиш с лого, Клавиш меню, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Ляв Control+Ляв Shift, Ляв Alt, Ляв Control, Ляв Shift, Ляв клавиш с лого, Scroll Lock, Без превключване
+Choices-bn.UTF-8: ক্যাপস্ লক, ডান Alt  (AltGr), ডান কন্ট্রোল, ডান Shift, ডান লোগো কী, মেনু কী, Alt+Shift, কন্ট্রোল+শিফট্, কন্ট্রোল+অল্ট, Alt+Caps Lock, বাম কন্ট্রোল+বাম শিফট্, বাম Alt, বাম কন্ট্রোল, বাম শিফট্, বাম লোগো কী, স্ক্রল লক কী, টগল করা যাবেনা
+Choices-bs.UTF-8: Caps Lock, Desni Alt (AltGr), Desni Control taster, Desni Shift taster, Desni Logo taster, Meni taster, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Lijevi Control+Lijevi Shift, Lijevi Alt, Lijevi Control, Lijevi Shift, Lijevi Logo taster, Scroll Lock taster, Bez prebacivanja
+Choices-ca.UTF-8: Fixació de majúscules, Alt dret (AltGr), Control dret, Majúscules dreta, Tecla de logotip dreta, Tecla de menú dreta, Alt+Majúscules, Control+Majúscules, Control+Alt, Alt+Fixació de majúscules, Control esquerra+Majúscules esquerra, Alt esquerra, Control esquerra, Majúscules esquerra, Tecla de logotip esquerra, Tecla de fixació de desplaçament, Sense commutació
+Choices-cs.UTF-8: Caps Lock, Pravý Alt (AltGr), Pravý Control, Pravý Shift, Pravá klávesa logo, Klávesa Menu, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Levý Control+levý Shift, Levý Alt, Levý Control, Levý Shift, Levá klávesa logo, Klávesa Scroll Lock, Bez přepínání
+Choices-da.UTF-8: Caps Lock, Højre Alt (AltGr), Højre Control, Højre Shift, Højre Logo-tast, Menu-tast, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Venstre Control+Venstre Shift, Venstre Alt, Venstre Control, Venstre Shift, Venstre Logo-tast, Scroll Lock-tast, Ingen skift
+Choices-de.UTF-8: Feststelltaste, Alt rechts (AltGr), Strg rechts, Umschalttaste rechts, Windows-Taste rechts, Menütaste, Alt+Umschalttaste, Strg+Umschalttaste, Strg+Alt, Alt+Feststelltaste, Strg links+Umschalttaste links, Alt links, Strg links, Umschalttaste links, Windows-Taste links, Rollen-Taste, Keine Umschaltung
+Choices-dz.UTF-8: ཚུགས་ལྡེ།, གཡས་ཀྱི་གདམ་ལྡེ་ (AltGr), གཡས་ཀྱི་ཚད་འཛིན།, གཡས་ཀྱི་སོར་ལྡེ།, གཡས་ཀྱི་ལས་རྟགས་ལྡེ་ཡིག, དཀར་ཆག་ལྡེ་ཡིག, གདམ་ལྡེ་+སོར་ལྡེ།, ཚད་འཛིན་+སོར་ལྡེ།, ཚད་འཛིན་+གདམ་ལྡེ།, གདམ་ལྡེ་+ཚུགས་ལྡེ།, གཡོན་གྱི་ཚད་འཛིན་+གཡོན་གྱི་སོར་ལྡེ།, གཡོན་གྱི་གདམ་ལྡེ།, གཡོན་གྱི་ཚད་འཛིན།, གཡོན་གྱི་སོར་ལྡེ།, གཡོན་གྱི་ལས་རྟགས་ལྡེ་ཡིག, བཤུད་སྒྲིལ་ལས་རྟགས་ལྡེ་ཡིག, སོར་སྟོན་མེད།
+Choices-el.UTF-8: Caps Lock, Δεξί Alt (AltGr), Right Control, Right Shift, Πλήκτρο Right Logo, Πλήκτρο Menu, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Left Control+Left Shift, Left Alt, Left Control, Left Shift, Πλήκτρο Left Logo, Πλήκτρο Scroll Lock, Μη εναλλαγή
+Choices-eo.UTF-8: Majuskla Baskulo, Dekstra Alt (AltGr), Dekstra Control, Dekstra Shift, Dekstra Emblemo-klavo, Menu-klavo, Alt+Shift, Control+Shift, Control+Alt, Alt+Majuskla Baskulo, Maldekstra Control+Maldekstra Shift, Maldekstra Alt, Maldekstra Control, Maldekstra Shift, Maldekstra Emblemo-klavo, Ruluma Baskulo-klavo, Sen baskulado
+Choices-es.UTF-8: Bloqueo de mayúsculas, Alt derecho (AltGr), Control derecho, «Shift» derecho, Tecla derecha de logo, Tecla de menú, Alt+«Shift», Control+«Shift», Control+Alt, Alt+Bloqueo de mayúsculas, Control Izquierdo+«Shift» Izquierdo, Alt izquierdo, Control izquierdo, «Shift» izquierdo, Tecla izquierda de logo, Tecla del bloqueo de desplazamiento, Sin cambiar
+Choices-et.UTF-8: Caps Lock, Parem Alt (AltGr), Parem Control, Parem Shift, Parem logoklahv, Menüüklahv, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, Vasak Control+vasak Shift, Vasak Alt, Vasak Control, Vasak Shift, Vasak logoklahv, Scroll Lock klahv, Ei vahetata
+Choices-eu.UTF-8: Blok Maius, Eskuineko Alt (AltGr), Eskuineko Ktrl, Eskuineko Maius, Eskuineko logotipoaren tekla, Menua tekla, Alt+Maius, Kontrol+Maius, Kontrol+Alt, Alt + Blok Maius, Ezkerreko Ktrl + ezkerreko Maius, Ezkerreko Alt, Ezkerreko Ktrl, Ezkerreko Maius, Ezkerreko Logotipoa tekla, Blok Korr tekla, Kommutaziorik ez
+Choices-fa.UTF-8: Caps Lock, کلید Alt (AltGr) راست, کلید Control راست, کلید Shift راست, کلید Logo راست, کلید MenuQ, Alt+Shift, Control+Shift, Control+Alt, Alt+Caps Lock, ٓControl چپ+Shift چپ, کلید Alt چپ, کلید Control چپ, کلید Shift چپ, کلید Logo چپ, کلید Scroll Lock , بدون تغییر وضعیت
+Choices-fi.UTF-8: Caps Lock, Oikea Alt (AltGr), Oikea Control, Oikea Vaihto, Oikea Logo-näppäin, Menu-näppäin, Alt+Vaihto, Control+Vaihto, Control+Alt, Alt+Caps Lock, Vasen Control+vasen Vaihto, Vasen Alt, Vasen Control, Vasen Vaihto, Vasen Logo-näppäin, Scroll Lock -näppäin, Ei tapaa vaihtamiseen
+Choices-fr.UTF-8: Verrouillage Majuscule, Touche Alt de droite (AltGr), Touche Ctrl de droite, Majuscule de droite, Touche « logo » de droite, Touche Menu, Alt + Majuscule, Ctrl + Majuscule, Ctrl + Alt, Alt + Verrouillage Majuscule, Ctrl gauche + Majuscule gauche, Touche Alt de gauche, Ctrl de gauche, Majuscule de gauche, Touche « logo » de gauche, Arrêt défil. (Scroll Lock), Pas de basculement
+Choices-ga.UTF-8: Glas Ceannlitreacha, Alt Ar Dheis (AltGr), Ctrl Ar Dheis, Shift Ar Dheis, Eochair lógó ar dheis, Eochair roghchláir, Alt+Shift, Ctrl+Shift, Ctrl+Alt, Alt+Caps Lock, Ctrl Ar Chlé+Shift Ar Chlé, Alt Ar Chlé, Ctrl Ar Chlé, Shift Ar Chlé, Eochair lógó ar chlé, Eochair Scroll Lock, Gan scoránú
+Choices-gl.UTF-8: Bloqueo de maiúsculas, Tecla Alt dereita (AltGr), Tecla Control dereita, Tecla de maiúsculas dereita, Tecla de logotipo dereita, Tecla do menú, Alt+Maiúsculas, Control+Maiúsculas, Control+Alt, Alt+Bloqueo de maiúsculas, Tecla Control esquerda+Tecla Maiúsculas esquerda, Tecla Alt esquerda, Tecla Control esquerda, Tecla de maiúsculas esquerda, Tecla de logotipo esquerda, Tecla de bloqueo de desprazamento, Non conmutar
+Choices-gu.UTF-8: કેપ્સ-લૉક, જમણી અલ્ટ (AltGr), જમણી કંટ્રોલ, જમણી શીફ્ટ, જમણી લોગો કળ, મેનુ કળ, અલ્ટ+શીફ્ટ, કંટ્રોલ+શીફ્ટ, કંટ્રોલ+અલ્ટ, અલ્ટ+કેપ્સ લૉક, ડાબ�

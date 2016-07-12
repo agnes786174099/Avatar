@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity" 
+    android:background="#4b08f7"
+    >
+    
+	<ImageView 
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_centerInParent="true"
+	    android:src="@drawable/login_avatar_0"
+	    />
+</RelativeLayout>

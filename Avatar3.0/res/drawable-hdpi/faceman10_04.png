@@ -1,0 +1,161 @@
+�ग निवडा
+Description-nb.utf-8: Velg din tidssone:
+Description-ne.utf-8: तपाईँको टाइमजोन चयन गर्नुहोस्:
+Description-nl.utf-8: Selecteer uw tijdzone:
+Description-nn.utf-8: Vel tidssona di:
+Description-no.utf-8: Velg din tidssone:
+Description-pa.utf-8: ਆਪਣਾ ਟਾਈਮ-ਜ਼ੋਨ ਚੁਣੋ:
+Description-pl.utf-8: Wybierz swoją strefę czasową:
+Description-pt.utf-8: Escolha o seu fuso horário:
+Description-pt_br.utf-8: Selecione seu fuso horário:
+Description-ro.utf-8: Selectați fusul dumneavoastră orar:
+Description-ru.utf-8: Выберите часовой пояс:
+Description-se.utf-8: Vállje iežat áigeavádaga:
+Description-sk.utf-8: Zvoľte vaše časové pásmo:
+Description-sl.utf-8: Izberite vaš časovni pas:
+Description-sq.utf-8: Zgjidh zonën orare:
+Description-sr.utf-8: Одаберите вашу временску зону:
+Description-sv.utf-8: Välj din tidszon:
+Description-ta.utf-8: தங்கள் நேரப் பகுதியை தேர்வு செய்க:
+Description-th.utf-8: เลือกเขตเวลาของคุณ:
+Description-tl.utf-8: Piliin ang inyong zonang orasan:
+Description-tr.utf-8: Saat diliminizi seçin:
+Description-uk.utf-8: Виберіть ваш часовий пояс:
+Description-vi.utf-8: Chọn múi giờ của bạn:
+Description-wo.utf-8: Tannal sa gox u waxtu:
+Description-zh_cn.utf-8: 请选择您的时区：
+Description-zh_tw.utf-8: 請選擇您的時區：
+Type: select
+Owners: tzsetup/country/DE
+
+Name: tzsetup/country/EC
+Choices: Guayaquil, Galapagos, Select from worldwide list
+Choices-ar.utf-8: أميركا/جواياكويل, الهادي/جالاباجوس, اختر من من القائمة العالمية
+Choices-ast.utf-8: Guayaquil, Galápagos, Esbillar de la llista completa
+Choices-be.utf-8: Гваякіль, Галапагос, Выбраць са сьпісу краін
+Choices-bg.utf-8: Гуаякуил, Галапагос, Избор от широк списък
+Choices-bn.utf-8: America/গুয়ায়াকুইল, Pacific/গালাপাগোস, পুরো বিশ্বের তালিকা থেকে নির্বাচন করুন
+Choices-bs.utf-8: America/Guayaquil, Pacific/Galapagos, Izaberi sa liste
+Choices-c: America/Guayaquil, Pacific/Galapagos, other
+Choices-ca.utf-8: Guayaquil, Galàpagos, Seleccioneu l'element adequat de la llista mundial
+Choices-cs.utf-8: Guayaquil, Galapágy, Zvolit z celosvětového seznamu
+Choices-cy.utf-8: Guayaquil, Galapagos, Dewis o rhestr ledled y byd
+Choices-da.utf-8: Guayaquil, Galapagos, Vælg fra global liste
+Choices-de.utf-8: Guayaquil, Galapagos, Wählen Sie aus der weltweiten Liste
+Choices-el.utf-8: Aμερική/Guayaquil, Ειρηνικός/Galapagos, Επιλέξτε από την παγκόσμια λίστα
+Choices-eo.utf-8: Guayaquil (ĝenerala cirkonstanco), Galapagoj, Elekti el tutmonda listo
+Choices-es.utf-8: Guayaquil, Islas Galápagos, Seleccionar de la lista completa
+Choices-et.utf-8: Guayaquil, Galápagose saared, Vali ülemaailmsest nimekirjast
+Choices-eu.utf-8: Guayaquil, Galapagoak, Mundu-zerrendan hautatu
+Choices-fi.utf-8: Guayaquil, Galapagossaaret, Valitse maailmanlaajuisesta luettelosta
+Choices-fr.utf-8: Guayaquil, Îles Galapagos, Choisissez depuis la liste mondiale
+Choices-ga.utf-8: Guayaquil, Galápagos, Roghnaigh ón liosta domhanda
+Choices-gl.utf-8: Guayaquil, Galápagos, Seleccionar da lista mundial
+Choices-he.utf-8: גוויאקיל, איי גלפאגוס, בחר מתוך הרשימה הכלל-עולמית
+Choices-hi.utf-8: America/गुआयाकिल, America/गालापेगोस, विश्वव्यापी सूची से चुनें
+Choices-hr.utf-8: America/Guayaquil, Galapagos, Odaberi sa svjetskog popisa
+Choices-hu.utf-8: Guayaquil, Galápagos-szigetek, Válasszon időzónát a listából
+Choices-id.utf-8: Guayaquil, Galapagos, Pilih dari daftar dunia
+Choices-it.utf-8: Guayaquil, Galapagos, Selezionare dall'elenco
+Choices-ja.utf-8: グアヤキル, ガラパゴス, 世界中のリストから選択
+Choices-kk.utf-8: Гуаякиль, Галапагос аралдары, Тізімнен өзіңіздің еліңізді таңдаңыз
+Choices-km.utf-8: អាមេរិក/ហ្គាយ៉ាគីល, ប៉ាស៊ីហ្វិក/ហ្គាឡាប៉ាហ្គោស, ជ្រើសរើសមកពីបញ្ជីពិភពលោកធំទូលាយ
+Choices-ko.utf-8: 과야킬, 갈라파고스, 전세계 목록에서 선택
+Choices-lt.utf-8: Guayaquil, Galapagos, Pasirinkti iš pasaulinio sąrašo
+Choices-lv.utf-8: Guaijakuila, Galapāgu salas, Izvēlieties no vispasaules saraksta
+Choices-nb.utf-8: Guayaquil, Galapagos, Velg fra verdensomspennende liste
+Choices-nl.utf-8: Guayaquil, Galapagos, Selecteer uit wereldlijst
+Choices-nn.utf-8: Guayaquil, Galapagos, Velg frå verdsomfattande liste
+Choices-no.utf-8: Guayaquil, Galapagos, Velg fra verdensomspennende liste
+Choices-pa.utf-8: ਗੂਆਕੁਇਲ, ਗਾਲਾਪੈਗੋਸ, ਸੰਸਾਰ ਦੀ ਲਿਸਟ 'ਚੋਂ ਚੁਣੋ
+Choices-pl.utf-8: Guayaquil, Galapagos, Wybór z listy
+Choices-pt.utf-8: Guayaquil, Galápagos, Seleccione da lista mundial
+Choices-pt_br.utf-8: Guayaquil, Galápagos, Selecione apartir da lista mundial
+Choices-ro.utf-8: Guayaquil, Galapagos, Alegeți din lista globală
+Choices-ru.utf-8: Гуаякиль, Галапагосские острова, Выберите из списка стран
+Choices-sk.utf-8: Guayaquil, Galapágy, Vybrať z celosvetového zoznamu
+Choices-sl.utf-8: Guayaquil, Galapagos, Izberite s svetovnega seznama
+Choices-sq.utf-8: America/Guayaquil, Pacific/Galapagos, Zgjidhni nga lista mbarëbotërore
+Choices-sr.utf-8: Гвајакил, Галапагос, Изаберите са листе
+Choices-sv.utf-8: Guayaquil, Galapagos, Välj från världslistan
+Choices-th.utf-8: Guayaquil, กาลาปากอส, เลือกจากรายการทั่วโลก
+Choices-tr.utf-8: Guayaquil, Galapagos, Dünya çapındaki listeden seçin
+Choices-uk.utf-8: Ґуяквіл, Галапагоси, Виберіть зі списку
+Choices-vi.utf-8: Guayaquil, Galapagos (Thái Bình Dương), Chọn từ danh sách trên toàn thế giới
+Choices-zh_cn.utf-8: 瓜亚基尔, 加拉帕戈斯, 从以下时区列表选择
+Choices-zh_tw.utf-8: Guayaquil, Galapagos, 從世界列表選取
+Description: Select a location in your time zone:
+Description-am.utf-8: በየትኛው የሰዓት ክልል ውስጥ ነው የሚገኙት?
+Description-ar.utf-8: اختيار موقع في منطقتك الزمنية:
+Description-ast.utf-8: Seleiciona una llocalización pa la to zona horaria:
+Description-be.utf-8: Пазначце месца ў Вашай зоне часу:
+Description-bg.utf-8: Изберете местоположение във Вашия часови пояс:
+Description-bn.utf-8: আপনার সময় অঞ্চলে অবস্থিত কোন একটি স্থান বেছে নিন:
+Description-bs.utf-8: Odaberite lokaciju u vašoj vremenskoj zoni:
+Description-ca.utf-8: Seleccioneu una localització dins el vostre fus horari:
+Description-cs.utf-8: Vyberte místo ve vašem časovém pásmu:
+Description-cy.utf-8: Dewiswch lleoliad yn eich parth amser:
+Description-da.utf-8: Vælg din placering i din tidszone:
+Description-de.utf-8: Wählen Sie einen Ort in Ihrer Zeitzone:
+Description-dz.utf-8: ཁྱོད་ཀྱི་ཆུ་ཚོད་གླིང་སྡེ་ནང་གནས་ཁོངས་སེལ་འཐུ་འབད།
+Description-el.utf-8: Επιλέξτε μια τοποθεσία στην χρονικής σας ζώνη:
+Description-eo.utf-8: Elektu lokon en via horzono:
+Description-es.utf-8: Seleccione una ubicación en su zona horaria:
+Description-et.utf-8: Vali oma asukoha järgi ajavöönd:
+Description-eu.utf-8: Hautatu ordu-zonaren kokapena:
+Description-fi.utf-8: Valitse paikannimi aikavyöhykkeeltäsi:
+Description-fr.utf-8: Lieu géographique dans votre fuseau horaire :
+Description-ga.utf-8: Roghnaigh suíomh i do chrios ama:
+Description-gl.utf-8: Escolla un lugar no seu fuso horario:
+Description-gu.utf-8: તમારા સમય વિસ્તારમાંનું સ્થળ પસંદ કરો:
+Description-he.utf-8: בחר מקום באזור הזמן שלך:
+Description-hi.utf-8: अपने समय-मण्डल में एक स्थान चुनें:
+Description-hr.utf-8: Odaberite lokaciju u vašoj vremenskoj zoni:
+Description-hu.utf-8: Egy hely kiválasztása az időzónából:
+Description-id.utf-8: Pilih lokasi dalam zona waktu Anda:
+Description-it.utf-8: Selezionare una località nel proprio fuso orario:
+Description-ja.utf-8: 時間帯の場所を選択してください:
+Description-ka.utf-8: მიუთითეთ მდებარეობა თქვენს ზონაში:
+Description-kk.utf-8: Уақыт белдеуіндегі өзіңіздің орналасуыңызды көрсетіңіз:
+Description-km.utf-8: ជ្រើស​ទីតាំង​មួយ​ក្នុង​តំបន់​ពេលវេលា​របស់​អ្នក ៖
+Description-ko.utf-8: 해당 시간대의 지역을 고르십시오:
+Description-ku.utf-8: Cihekê di herêma dema xwe de hilbijêre:
+Description-lt.utf-8: Pasirinkite vietovę Jūsų laiko zonai:
+Description-lv.utf-8: Izvēlieties atrašanās vietu savā laika joslā:
+Description-mk.utf-8: Одбери локација во твојата временска зона:
+Description-ml.utf-8: നിങ്ങളുടെ സമയ മേഘലയിലുള്ള ഒരു സ്ഥലം തെരഞ്ഞെടുക്കുക:
+Description-mr.utf-8: तुमच्या समय विभागातील एक स्थान निवडा
+Description-nb.utf-8: Velg et sted i din tidssone:
+Description-ne.utf-8: तपाईँको टाइमजोनमा स्थान चयन गर्नुहोस्:
+Description-nl.utf-8: Selecteer een locatie in uw tijdzone:
+Description-nn.utf-8: Vel ein stad i di tidssone:
+Description-no.utf-8: Velg et sted i din tidssone:
+Description-pa.utf-8: ਆਪਣੇ ਸਮਾਂ ਖੇਤਰ ਵਿੱਚੋਂ ਇੱਕ ਟਿਕਾਣਾ ਚੁਣੋ:
+Description-pl.utf-8: Wybierz lokalizację w swojej strefie czasowej:
+Description-pt.utf-8: Escolha um local no seu fuso horário:
+Description-pt_br.utf-8: Selecione um local em seu fuso horário:
+Description-ro.utf-8: Selectați o locație de pe fusul dumneavoastră orar:
+Description-ru.utf-8: Выберите расположение в вашем часовом поясе:
+Description-se.utf-8: Vállje báikki iežat áigeavádagas:
+Description-sk.utf-8: Zvoľte polohu vo vašom časovom pásme:
+Description-sl.utf-8: Izberite lokacijo v vašem časovnem pasu:
+Description-sq.utf-8: Zgjidh një vendndodhje në zonën tënde orare:
+Description-sr.utf-8: Одаберите локацију у вашој временској зони:
+Description-sv.utf-8: Välj din plats i din tidszon:
+Description-ta.utf-8: உங்கள் நேரப் பகுதியில் ஒரு இடத்தை தேர்ந்தெடுங்கள்:
+Description-th.utf-8: เลือกตำแหน่งที่ตั้งในเขตเวลาของคุณ:
+Description-tl.utf-8: Pumili ng lugar sa inyong zonang orasan:
+Description-tr.utf-8: Saat diliminizde bir bölge seçin:
+Description-uk.utf-8: Виберіть місце в вашому часовому поясі:
+Description-vi.utf-8: Chọn một địa điểm trong múi giờ của bạn:
+Description-wo.utf-8: Tannal ab barb bu ne ci sa gox u waxtu:
+Description-zh_cn.utf-8: 请选择您所在时区的位置：
+Description-zh_tw.utf-8: 請選擇您所在位置的時區：
+Type: select
+Owners: tzsetup/country/EC
+
+Name: tzsetup/country/ES
+Choices: Madrid, Ceuta, Canary Islands, Select from worldwide list
+Choices-ar.utf-8: أوروبا/مدريد, أفريقيا/كيوتا, الأطلنطي/الكناري, اختر من من القائمة العالمية
+Choices-ast.utf-8: Madrid, Ceuta, Islles Canaries, Esbillar de la llista completa
+Choices-be.utf-8: Мадрыд, Кеута, Канарскія астравы, Выбрац�

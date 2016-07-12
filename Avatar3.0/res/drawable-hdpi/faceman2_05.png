@@ -1,0 +1,419 @@
+#!/bin/sh
+# Debian xserver-xorg package pre-removal script
+# Copyright 1998--2001, 2003, 2004 Branden Robinson.
+# Licensed under the GNU General Public License, version 2.  See the file
+# /usr/share/common-licenses/GPL or <http://www.gnu.org/copyleft/gpl.txt>.
+# Acknowledgements to Stephen Early, Mark Eichin, and Manoj Srivastava.
+
+
+set -e
+
+# debconf may not be available if some massive purging is going on
+HAVE_DEBCONF=
+if [ -e /usr/share/debconf/confmodule ]; then
+  . /usr/share/debconf/confmodule
+  HAVE_DEBCONF=yes
+fi
+
+THIS_PACKAGE=xserver-xorg
+THIS_SCRIPT=prerm
+
+# This is the X Strike Force shell library for X Window System package
+# maintainer scripts.  It serves to define shell functions commonly used by
+# such packages, and performs some error checking necessary for proper operation
+# of those functions.  By itself, it does not "do" much; the maintainer scripts
+# invoke the functions defined here to accomplish package installation and
+# removal tasks.
+
+# If you are reading this within a Debian package maintainer script (e.g.,
+# /var/lib/dpkg/info/PACKAGE.{config,preinst,postinst,prerm,postrm}), you can
+# skip past this library by scanning forward in this file to the string
+# "GOBSTOPPER".
+
+SOURCE_VERSION=1:7.7+1ubuntu8~precise1
+OFFICIAL_BUILD=
+
+# Use special abnormal exit codes so that problems with this library are more
+# easily tracked down.
+SHELL_LIB_INTERNAL_ERROR=86
+SHELL_LIB_THROWN_ERROR=74
+SHELL_LIB_USAGE_ERROR=99
+
+# old -> new variable names
+if [ -z "$DEBUG_XORG_PACKAGE" ] && [ -n "$DEBUG_XFREE86_PACKAGE" ]; then
+  DEBUG_XORG_PACKAGE="$DEBUG_XFREE86_PACKAGE"
+fi
+if [ -z "$DEBUG_XORG_DEBCONF" ] && [ -n "$DEBUG_XFREE86_DEBCONF" ]; then
+  DEBUG_XORG_DEBCONF="$DEBUG_XFREE86_DEBCONF"
+fi
+
+# initial sanity checks
+if [ -z "$THIS_PACKAGE" ]; then
+  cat >&2 <<EOF
+Error: package maintainer script attempted to use shell library without
+definining \$THIS_PACKAGE shell variable.  Please report the package name,
+version, and the text of this error message to the Debian Bug Tracking System.
+Visit <http://www.debian.org/Bugs/Reporting> on the World Wide Web for
+instructions, read the file /usr/share/doc/debian/bug-reporting.txt from the
+"doc-debian" package, or install the "reportbug" package and use the command of
+the same name to file a report against version $SOURCE_VERSION of this package.
+EOF
+  exit $SHELL_LIB_USAGE_ERROR
+fi
+
+if [ -z "$THIS_SCRIPT" ]; then
+  cat >&2 <<EOF
+Error: package maintainer script attempted to use shell library without
+definining \$THIS_SCRIPT shell variable.  Please report the package name,
+version, and the text of this error message to the Debian Bug Tracking System.
+Visit <http://www.debian.org/Bugs/Reporting> on the World Wide Web for
+instructions, read the file /usr/share/doc/debian/bug-reporting.txt from the
+"doc-debian" package, or install the "reportbug" package and use the command of
+the same name to file a report against version $SOURCE_VERSION of the
+"$THIS_PACKAGE" package.
+EOF
+  exit $SHELL_LIB_USAGE_ERROR
+fi
+
+if [ "$1" = "reconfigure" ] || [ -n "$DEBCONF_RECONFIGURE" ]; then
+  RECONFIGURE="true"
+else
+  RECONFIGURE=
+fi
+
+if ([ "$1" = "install" ] || [ "$1" = "configure" ]) && [ -z "$2" ]; then
+  FIRSTINST="yes"
+fi
+
+if [ -z "$RECONFIGURE" ] && [ -z "$FIRSTINST" ]; then
+  UPGRADE="yes"
+fi
+
+trap "message;\
+      message \"Received signal.  Aborting $THIS_PACKAGE package $THIS_SCRIPT script.\";\
+      message;\
+      exit 1" HUP INT QUIT TERM
+
+reject_nondigits () {
+  # syntax: reject_nondigits [ operand ... ]
+  #
+  # scan operands (typically shell variables whose values cannot be trusted) for
+  # characters other than decimal digits and barf if any are found
+  while [ -n "$1" ]; do
+    # does the operand contain anything but digits?
+    if ! expr "$1" : "[[:digit:]]\+$" > /dev/null 2>&1; then
+      # can't use die(), because it wraps message() which wraps this function
+      echo "$THIS_PACKAGE $THIS_SCRIPT error: reject_nondigits() encountered" \
+           "possibly malicious garbage \"$1\"" >&2
+      exit $SHELL_LIB_THROWN_ERROR
+    fi
+    shift
+  done
+}
+
+reject_unlikely_path_chars () {
+  # syntax: reject_unlikely_path_chars [ operand ... ]
+  #
+  # scan operands (typically shell variables whose values cannot be trusted) for
+  # characters unlikely to be seen in a path and which the shell might
+  # interpret and barf if any are found
+  while [ -n "$1" ]; do
+    # does the operand contain any funny characters?
+    if expr "$1" : '.*[!$&()*;<>?|].*' > /dev/null 2>&1; then
+      # can't use die(), because I want to avoid forward references
+      echo "$THIS_PACKAGE $THIS_SCRIPT error: reject_unlikely_path_chars()" \
+           "encountered possibly malicious garbage \"$1\"" >&2
+      exit $SHELL_LIB_THROWN_ERROR
+    fi
+    shift
+  done
+}
+
+# Query the terminal to establish a default number of columns to use for
+# displaying messages to the user.  This is used only as a fallback in the
+# event the COLUMNS variable is not set.  ($COLUMNS can react to SIGWINCH while
+# the script is running, and this cannot, only being calculated once.)
+DEFCOLUMNS=$(stty size 2> /dev/null | awk '{print $2}') || true
+if ! expr "$DEFCOLUMNS" : "[[:digit:]]\+$" > /dev/null 2>&1; then
+  DEFCOLUMNS=80
+fi
+
+message () {
+  # pretty-print messages of arbitrary length
+  reject_nondigits "$COLUMNS"
+  echo "$*" | fmt -t -w ${COLUMNS:-$DEFCOLUMNS} >&2
+}
+
+observe () {
+  # syntax: observe message ...
+  #
+  # issue observational message suitable for logging someday when support for
+  # it exists in dpkg
+  if [ -n "$DEBUG_XORG_PACKAGE" ]; then
+    message "$THIS_PACKAGE $THIS_SCRIPT note: $*"
+  fi
+}
+
+warn () {
+  # syntax: warn message ...
+  #
+  # issue warning message suitable for logging someday when support for
+  # it exists in dpkg; also send to standard error
+  message "$THIS_PACKAGE $THIS_SCRIPT warning: $*"
+}
+
+die () {
+  # syntax: die message ...
+  #
+  # exit script with error message
+  message "$THIS_PACKAGE $THIS_SCRIPT error: $*"
+  exit $SHELL_LIB_THROWN_ERROR
+}
+
+internal_error () {
+  # exit script with error; essentially a "THIS SHOULD NEVER HAPPEN" message
+  message "internal error: $*"
+  if [ -n "$OFFICIAL_BUILD" ]; then
+    message "Please report a bug in the $THIS_SCRIPT script of the" \
+            "$THIS_PACKAGE package, version $SOURCE_VERSION to the Debian Bug" \
+            "Tracking System.  Include all messages above that mention the" \
+            "$THIS_PACKAGE package.  Visit " \
+            "<http://www.debian.org/Bugs/Reporting> on the World Wide Web for" \
+            "instructions, read the file" \
+            "/usr/share/doc/debian/bug-reporting.txt from the doc-debian" \
+            "package, or install the reportbug package and use the command of" \
+            "the same name to file a report."
+  fi
+  exit $SHELL_LIB_INTERNAL_ERROR
+}
+
+usage_error () {
+  message "usage error: $*"
+  message "Please report a bug in the $THIS_SCRIPT script of the" \
+          "$THIS_PACKAGE package, version $SOURCE_VERSION to the Debian Bug" \
+          "Tracking System.  Include all messages above that mention the" \
+          "$THIS_PACKAGE package.  Visit " \
+          "<http://www.debian.org/Bugs/Reporting> on the World Wide Web for" \
+          "instructions, read the file" \
+          "/usr/share/doc/debian/bug-reporting.txt from the doc-debian" \
+          "package, or install the reportbug package and use the command of" \
+          "the same name to file a report."
+  exit $SHELL_LIB_USAGE_ERROR
+}
+
+font_update () {
+  # run $UPDATECMDS in $FONTDIRS
+
+  local dir cmd shortcmd x_font_dir_prefix
+
+  x_font_dir_prefix="/usr/share/fonts/X11"
+
+  if [ -z "$UPDATECMDS" ]; then
+    usage_error "font_update() called but \$UPDATECMDS not set"
+  fi
+  if [ -z "$FONTDIRS" ]; then
+    usage_error "font_update() called but \$FONTDIRS not set"
+  fi
+
+  reject_unlikely_path_chars "$UPDATECMDS"
+  reject_unlikely_path_chars "$FONTDIRS"
+
+  for dir in $FONTDIRS; do
+    if [ -d "$x_font_dir_prefix/$dir" ]; then
+      for cmd in $UPDATECMDS; do
+        if which "$cmd" > /dev/null 2>&1; then
+          shortcmd=${cmd##*/}
+          observe "running $shortcmd in $dir font directory"
+	  cmd_opts=
+          if [ "$shortcmd" = "update-fonts-alias" ]; then
+            cmd_opts=--x11r7-layout
+          fi
+          if [ "$shortcmd" = "update-fonts-dir" ]; then
+            cmd_opts=--x11r7-layout
+          fi
+          if [ "$shortcmd" = "update-fonts-scale" ]; then
+            cmd_opts=--x11r7-layout
+          fi
+          $cmd $cmd_opts $dir || warn "$cmd $cmd_opts $dir" \
+                              "failed; font directory data may not" \
+                              "be up to date"
+        else
+          warn "$cmd not found; not updating corresponding $dir font" \
+               "directory data"
+        fi
+      done
+    else
+      warn "$dir is not a directory; not updating font directory data"
+    fi
+  done
+}
+
+remove_conffile_prepare () {
+  # syntax: remove_conffile_prepare filename official_md5sum ...
+  #
+  # Check a conffile "filename" against a list of canonical MD5 checksums.
+  # If the file's current MD5 checksum matches one of the "official_md5sum"
+  # operands provided, then prepare the conffile for removal from the system.
+  # We defer actual deletion until the package is configured so that we can
+  # roll this operation back if package installation fails.
+  #
+  # Call this function from a preinst script in the event $1 is "upgrade" or
+  # "install" and verify $2 to ensure the package is being upgraded from a
+  # version (or installed over a version removed-but-not-purged) prior to the
+  # one in which the conffile was obsoleted.
+
+  local conffile current_checksum
+
+  # validate arguments
+  if [ $# -lt 2 ]; then
+    usage_error "remove_conffile_prepare() called with wrong number of" \
+                "arguments; expected at least 2, got $#"
+    exit $SHELL_LIB_USAGE_ERROR
+  fi
+
+  conffile="$1"
+  shift
+
+  # does the conffile even exist?
+  if [ -e "$conffile" ]; then
+    # calculate its checksum
+    current_checksum=$(md5sum < "$conffile" | sed 's/[[:space:]].*//')
+    # compare it to each supplied checksum
+    while [ -n "$1" ]; do
+      if [ "$current_checksum" = "$1" ]; then
+        # we found a match; move the confffile and stop looking
+        observe "preparing obsolete conffile $conffile for removal"
+        mv "$conffile" "$conffile.$THIS_PACKAGE-tmp"
+        break
+      fi
+      shift
+    done
+  fi
+}
+
+remove_conffile_lookup () {
+  # syntax: remove_conffile_lookup package filename
+  #
+  # Lookup the md5sum of a conffile in dpkg's database, and prepare for removal
+  # if it matches the actual file's md5sum.
+  #
+  # Call this function when you would call remove_conffile_prepare but only
+  # want to check against dpkg's status database instead of known checksums.
+
+  local package conffile old_md5sum
+
+  # validate arguments
+  if [ $# -ne 2 ]; then
+    usage_error "remove_conffile_lookup() called with wrong number of" \
+                "arguments; expected 1, got $#"
+    exit $SHELL_LIB_USAGE_ERROR
+  fi
+
+  package="$1"
+  conffile="$2"
+
+  if ! [ -e "$conffile" ]; then
+    return
+  fi
+  old_md5sum="$(dpkg-query -W -f='${Conffiles}' "$package" | \
+    awk '{ if (match($0, "^ '"$conffile"' ")) print $2}')"
+  if [ -n "$old_md5sum" ]; then
+    remove_conffile_prepare "$conffile" "$old_md5sum"
+  fi
+}
+
+remove_conffile_commit () {
+  # syntax: remove_conffile_commit filename
+  #
+  # Complete the removal of a conffile "filename" that has become obsolete.
+  #
+  # Call this function from a postinst script after having used
+  # remove_conffile_prepare() in the preinst.
+
+  local conffile
+
+  # validate arguments
+  if [ $# -ne 1 ]; then
+    usage_error "remove_conffile_commit() called with wrong number of" \
+                "arguments; expected 1, got $#"
+    exit $SHELL_LIB_USAGE_ERROR
+  fi
+
+  conffile="$1"
+
+  # if the temporary file created by remove_conffile_prepare() exists, remove it
+  if [ -e "$conffile.$THIS_PACKAGE-tmp" ]; then
+    observe "committing removal of obsolete conffile $conffile"
+    rm "$conffile.$THIS_PACKAGE-tmp"
+  fi
+}
+
+remove_conffile_rollback () {
+  # syntax: remove_conffile_rollback filename
+  #
+  # Roll back the removal of a conffile "filename".
+  #
+  # Call this function from a postrm script in the event $1 is "abort-upgrade"
+  # or "abort-install" is  after having used remove_conffile_prepare() in the
+  # preinst.
+
+  local conffile
+
+  # validate arguments
+  if [ $# -ne 1 ]; then
+    usage_error "remove_conffile_rollback() called with wrong number of" \
+                "arguments; expected 1, got $#"
+    exit $SHELL_LIB_USAGE_ERROR
+  fi
+
+  conffile="$1"
+
+  # if the temporary file created by remove_conffile_prepare() exists, move it
+  # back
+  if [ -e "$conffile.$THIS_PACKAGE-tmp" ]; then
+    observe "rolling back removal of obsolete conffile $conffile"
+    mv "$conffile.$THIS_PACKAGE-tmp" "$conffile"
+  fi
+}
+
+replace_conffile_with_symlink_prepare () {
+  # syntax: replace_conffile_with_symlink_prepare oldfilename newfilename \
+  # official_md5sum ...
+  #
+  # Check a conffile "oldfilename" against a list of canonical MD5 checksums.
+  # If the file's current MD5 checksum matches one of the "official_md5sum"
+  # operands provided, then prepare the conffile for removal from the system.
+  # We defer actual deletion until the package is configured so that we can
+  # roll this operation back if package installation fails. Otherwise copy it
+  # to newfilename and let dpkg handle it through conffiles mechanism.
+  #
+  # Call this function from a preinst script in the event $1 is "upgrade" or
+  # "install" and verify $2 to ensure the package is being upgraded from a
+  # version (or installed over a version removed-but-not-purged) prior to the
+  # one in which the conffile was obsoleted.
+
+  local conffile current_checksum
+
+  # validate arguments
+  if [ $# -lt 3 ]; then
+    usage_error "replace_conffile_with_symlink_prepare() called with wrong" \
+                " number of arguments; expected at least 3, got $#"
+    exit $SHELL_LIB_USAGE_ERROR
+  fi
+
+  oldconffile="$1"
+  shift
+  newconffile="$1"
+  shift
+
+  remove_conffile_prepare "$_oldconffile" "$@"
+  # If $oldconffile still exists, then md5sums didn't match.
+  # Copy it to new one.
+  if [ -f "$oldconffile" ]; then
+    cp "$oldconffile" "$newconffile"
+  fi
+
+}
+
+replace_conffile_with_symlink_commit () {
+  # syntax: replace_con
